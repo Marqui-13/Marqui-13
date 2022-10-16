@@ -50,7 +50,7 @@
 <br />
 
 ### Layer 1 Chain:
-<img align="left" alt="Ethereum" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ethereum" width="26px" src="https://api.iconify.design/logos/ethereum-color.svg" style="padding-right:10px;" />
 
 <br />
 <br />
