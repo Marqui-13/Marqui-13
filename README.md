@@ -1,20 +1,20 @@
 ## I'm a Founder, Developer, and Student!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other founders/developers/students
 - 🥅 2022 Goals: Learn more about Quantum Computing
 - ⚡ Fun fact: I love music and art
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://marqui.on.fleek.co#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://marqui.on.fleek.co#gh-dark-mode-only)
+[![website](./globe-light.svg)](https://marqui.on.fleek.co#gh-light-mode-only)
+[![website](./globe-dark.svg)](https://marqui.on.fleek.co#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/mthreeee13#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/mthreeee13#gh-dark-mode-only)
+[![twitter](./twitter-light.svg)](https://twitter.com/mthreeee13#gh-light-mode-only)
+[![twitter](./twitter-dark.svg)](https://twitter.com/mthreeee13#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/marqui-orr-793115219#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
+[![linkedin](./linkedin-light.svg)](https://linkedin.com/in/marqui-orr-793115219#gh-light-mode-only)
+[![linkedin](./linkedin-dark.svg)](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
