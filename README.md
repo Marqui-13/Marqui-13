@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[![website]](https://marqui.on.fleek.co#gh-light-mode-only)
-[![website]](https://marqui.on.fleek#gh-dark-mode-only)
+[![website]](https://marqui.on.fleek.co)
+[![website]](https://marqui.on.fleek)
 &nbsp;&nbsp;
 [![twitter]](https://twitter.com/mthreeee13#gh-light-mode-only)
 [![twitter]](https://twitter.com/mthreeee13#gh-dark-mode-only)
