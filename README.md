@@ -104,8 +104,9 @@
 <br />
 <br />
 <br />
+<br />
 
-### Develop Environments:
+### Developer Environments:
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rapidapi/rapidapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Truffle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rapidapi/rapidapi-original.svg" style="padding-right:10px;" />
