@@ -10,11 +10,11 @@
 [![website]](https://marqui.on.fleek.co#gh-light-mode-only)
 [![website]](https://marqui.on.fleek#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website]](https://twitter.com/mthreeee13#gh-light-mode-only)
-[![website]](https://twitter.com/mthreeee13#gh-dark-mode-only)
+[![twitter]](https://twitter.com/mthreeee13#gh-light-mode-only)
+[![twitter]](https://twitter.com/mthreeee13#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website]](https://linkedin.com/in/marqui-orr-793115219#gh-light-mode-only)
-[![website]](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
+[![linkedin]](https://linkedin.com/in/marqui-orr-793115219#gh-light-mode-only)
+[![linkedin]](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
