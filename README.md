@@ -7,10 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-
 [![website]](https://marqui.on.fleek.co)
-
 &nbsp;&nbsp;
 [![twitter]](https://twitter.com/mthreeee13#gh-light-mode-only)
 [![twitter]](https://twitter.com/mthreeee13#gh-dark-mode-only)
