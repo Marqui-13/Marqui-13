@@ -40,8 +40,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### Web3 Languages/Tools:
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
@@ -57,8 +56,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### Layer 1 Chain:
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
@@ -87,8 +85,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### File Storage/Databases:
 <img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/10536621?s=200&v=4" style="padding-right:10px;" />
@@ -101,8 +98,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
@@ -117,9 +113,7 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
+ 
 
 ### Developer Environments:
 <img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />
@@ -130,8 +124,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
-<br />
-<br />
 <br />
 <br />
 
