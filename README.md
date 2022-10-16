@@ -29,7 +29,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="EthersJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethersjs/ethersjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Web3JS" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
+<img align="left" alt="Web3JS" width="26px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
