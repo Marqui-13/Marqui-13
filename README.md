@@ -41,7 +41,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Metamask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" style="padding-right:10px;" />
-<img align="left" alt="WalletConnect" width="26px" src="https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/7ecce5fd1974a06a031720f07304c8704db738ab/Logo/Blue%20(Default)/Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="WalletConnect" width="26px" src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/Blue%20(Default)/Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
 
 
