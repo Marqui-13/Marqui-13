@@ -95,7 +95,7 @@
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/rapidapi/rapidapi-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Alchemy" width="26px" src="https://webflow-assets.alchemy.com/5f973c970bea5548ad4287ef/6088f4c7c34ad61ab10cdf72_horizontal-logo-onecolor-neutral-alchemy.svg" style="padding-right:10px;" />
+<img align="left" alt="Alchemy" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" />
 <img align="left" alt="OpenZepplin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openzepplin/openzepplin-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Thirdweb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thirdweb/thirdweb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Covalent" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/covalent/covlent-original.svg" style="padding-right:10px;" />
