@@ -17,7 +17,7 @@
 [![linkedin](./linkedin-dark.svg)](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+### Web2/Web3 Languages/Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -26,30 +26,62 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="EthersJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethersjs/ethersjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Web3JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Reddis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddis/reddis-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Brave" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brave/brave-original.svg" style="padding-right:10px;" />
+
+
+### Layer 1 Chain:
+<img align="left" alt="Ethereum" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" style="padding-right:10px;" />
+
+
+### Layer 2 Chain:
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+
+
+### Frameworks:
+<img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NativeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ReactNative" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
+
+### Databases:
+<img align="left" alt="Reddis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddis/reddis-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+### APIs/SDKs:
+<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RapidAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rapidapi/rapidapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Alchemy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alchemy/alchemy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="OpenZepplin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openzepplin/openzepplin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Thirdweb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thirdweb/thirdweb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Covalent" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/covalent/covlent-original.svg" style="padding-right:10px;" />
+<img align="left" alt="LDK" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ldk/ldk-original.svg" style="padding-right:10px;" />
+<img align="left" alt="BDK" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bdk/bdk-original.svg" style="padding-right:10px;" />
+<img align="left" alt="LiveKit" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livekit/livekit-original.svg" style="padding-right:10px;" />
+
+
+### Develop Environments:
+<img align="left" alt="Hardhat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rapidapi/rapidapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Truffle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rapidapi/rapidapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Remix" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rapidapi/rapidapi-original.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
