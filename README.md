@@ -21,6 +21,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Julia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -39,9 +40,9 @@
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Brave" width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Metamask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" style="padding-right:10px;" />
-<img align="left" alt="WalletConnect" width="26px" src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/Blue%20(Default)/Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Metamask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
 <img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
 
 
@@ -82,8 +83,11 @@
 <br />
 
 ### Databases:
+<img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/10536621?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/22014611?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TheGraph" width="26px" src="https://avatars.githubusercontent.com/u/38020273?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
