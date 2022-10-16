@@ -95,7 +95,7 @@
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/rapidapi/rapidapi-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Alchemy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alchemy/alchemy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Alchemy" width="26px" src="https://webflow-assets.alchemy.com/5f973c970bea5548ad4287ef/6088f4c7c34ad61ab10cdf72_horizontal-logo-onecolor-neutral-alchemy.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenZepplin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openzepplin/openzepplin-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Thirdweb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thirdweb/thirdweb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Covalent" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/covalent/covlent-original.svg" style="padding-right:10px;" />
