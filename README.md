@@ -17,7 +17,7 @@
 [![linkedin](./linkedin-dark.svg)](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Web2/Web3 Languages/Tools:
+### Web2 Languages/Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -36,10 +36,14 @@
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+### Web3 Languages/Tools:
+<img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Metamask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
@@ -57,16 +61,14 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### Layer 2 Chain:
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### Frameworks:
 <img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
@@ -119,6 +121,8 @@
 <img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Truffle" width="26px" src="https://api.iconify.design/logos/truffle-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
 <br />
