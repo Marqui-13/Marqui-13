@@ -29,7 +29,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="EthersJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethersjs/ethersjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Web3JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Web3JS" width="26px" src="file:///C:/Users/Marqui/Desktop/web3js-vector-logo-seeklogo.com/web3js-seeklogo.com.svg" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
