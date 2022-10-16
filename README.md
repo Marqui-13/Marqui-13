@@ -52,7 +52,8 @@
 <br />
 
 ### Layer 1 Chain:
-<img align="left" alt="Ethereum" width="26px" src="https://api.iconify.design/logos/ethereum-color.svg" style="padding-right:10px;" />
+<img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
 
 <br />
 <br />
