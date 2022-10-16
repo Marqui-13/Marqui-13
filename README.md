@@ -42,6 +42,7 @@
 <img align="left" alt="Brave" width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Metamask" width="26px" src="https://github.com/scco/fusion/blob/master/icons/web3/metamask.svg" style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://github.com/scco/fusion/blob/master/icons/web3/walletconnect.svg" style="padding-right:10px;" />
+<img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
 
 
 <br />
