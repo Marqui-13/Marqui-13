@@ -42,7 +42,7 @@
 
 [website]: https://marqui.on.fleek.co
 [twitter]: https://twitter.com/mthreeee13
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/marqui-orr-793115219
 
 
 ![](https://hit.yhype.me/github/profile?user_id=98498681)
