@@ -68,7 +68,7 @@
 ### Frameworks:
 <img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NativeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nativescript/nativescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NativeScript" width="26px" src="https://api.iconify.design/logos/nativescript.svg" style="padding-right:10px;" />
 <img align="left" alt="ReactNative" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
