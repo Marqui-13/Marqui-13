@@ -41,14 +41,26 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brave/brave-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+<br />
+<br />
 
 ### Layer 1 Chain:
 <img align="left" alt="Ethereum" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+<br />
+<br />
 
 ### Layer 2 Chain:
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+<br />
+<br />
 
 ### Frameworks:
 <img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
@@ -59,11 +71,21 @@
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+<br />
+<br />
+
 ### Databases:
 <img align="left" alt="Reddis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddis/reddis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+<br />
+<br />
 
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
@@ -76,6 +98,10 @@
 <img align="left" alt="BDK" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bdk/bdk-original.svg" style="padding-right:10px;" />
 <img align="left" alt="LiveKit" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livekit/livekit-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+<br />
+<br />
 
 ### Develop Environments:
 <img align="left" alt="Hardhat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rapidapi/rapidapi-original.svg" style="padding-right:10px;" />
