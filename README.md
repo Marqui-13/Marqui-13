@@ -7,13 +7,11 @@
 
 ### Connect with me:
 
-[![website]](https://marqui.on.fleek.co)
+[![website]]
 &nbsp;&nbsp;
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][![twitter]](https://twitter.com/mthreeee13#gh-light-mode-only)
-[![twitter]](https://twitter.com/mthreeee13#gh-dark-mode-only)
+[![twitter]]
 &nbsp;&nbsp;
-[![linkedin]](https://linkedin.com/in/marqui-orr-793115219#gh-light-mode-only)
-[![linkedin]](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
+[![linkedin]]
 &nbsp;&nbsp;
 
 ### Languages and Tools:
