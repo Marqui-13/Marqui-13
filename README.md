@@ -29,8 +29,6 @@
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="EthersJS" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
-<img align="left" alt="Web3JS" width="26px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -48,6 +46,8 @@
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="EthersJS" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
+<img align="left" alt="Web3JS" width="26px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Metamask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
