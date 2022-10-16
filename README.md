@@ -39,14 +39,6 @@
 
 ---
 
-
-
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/Marqui-13.Marqui-13-theme?label=Marqui-13%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Marqui-13.Marqui-13-theme)
-
-
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
