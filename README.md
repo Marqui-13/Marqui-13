@@ -17,14 +17,6 @@
 [![linkedin](./linkedin-dark.svg)](https://linkedin.com/in/marqui-orr-793115219#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-
-[website]
-&nbsp;&nbsp;
-[twitter]
-&nbsp;&nbsp;
-[linkedin]
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -56,6 +48,3 @@
 [website]: https://marqui.on.fleek.co
 [twitter]: https://twitter.com/mthreeee13
 [linkedin]: https://linkedin.com/in/marqui-orr-793115219
-
-
-![](https://hit.yhype.me/github/profile?user_id=98498681)
