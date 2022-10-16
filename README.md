@@ -43,10 +43,11 @@
 <br />
 <br />
 
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marqui-13&show_icons=true&hide_border=false&title_color=ff655f&icon_color=FFE500&bg_color=09151B&text_color=ffffff&border_color=0c1a45" />
-
+<details>
 
 [website]: https://marqui.on.fleek.co
 [twitter]: https://twitter.com/mthreeee13
