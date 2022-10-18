@@ -58,6 +58,30 @@
 <br />
 <br />
 
+### Quantum Tools/Languages:
+<img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
+<img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />
+<img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
+<img align="left" alt="D-Wave Leap" width="26px" src="https://cdn-assets.cloud.dwavesys.com/ce68b9af-0c1e-1889-220f-45e09dcc965d/qubist_static/images/dwave_leap_logo_black.svg" style="padding-right:10px;" />
+<img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
+<img align="left" alt="Strawberry Fields" width="26px" src="https://strawberryfields.ai/photonics/_static/strawberry_fields.png" style="padding-right:10px;" />
+
+
+<br />
+<br />
+
+### Quantum SDKs:
+<img align="left" alt="D-Wave Ocean" width="26px" src="https://docs.ocean.dwavesys.com/en/stable/_static/DWave-Ocean.svg" style="padding-right:10px;" />
+<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />
+
+
+
+
+<br />
+<br />
+
 
 ### Layer 1 Chain:
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
@@ -70,6 +94,12 @@
 
 
 ### Layer 2 Chain:
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+
+### Rollups:
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 
 <br />
