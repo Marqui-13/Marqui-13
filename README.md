@@ -169,7 +169,7 @@
 <img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vite" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://imgs.search.brave.com/HS2NUnU5QZZFB2815vZS9kW2tVHRDNJ7t0BVh452OGI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGMyM2I3ZmQw/ZmEwMGI5NmFjYTkx/YmVmMTcyNmJmMDE0/MGJkNWU4Mjc1ODQx/NTg5MWI3ZmYwMzJj/NWM3NmIxNy92aXRl/anMuZGV2Lw)" style="padding-right:10px;" />
+<img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
 
 
 <br />
