@@ -61,30 +61,6 @@
 <br />
 <br />
 
-### Quantum Tools/Languages:
-<img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
-<img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />
-<img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
-<img align="left" alt="D-Wave" width="26px" src="https://pbs.twimg.com/profile_images/1559941224651317250/k8UjOgDt_400x400.jpg" />
-<img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
-<img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
-
-<br />
-<br />
-
-### Quantum SDKs:
-<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />
-<img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />
-
-
-
-
-<br />
-<br />
-
-
 ### Layer 1 Chain:
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
@@ -172,6 +148,29 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
+
+
+<br />
+<br />
+
+### Quantum Tools/Languages:
+<img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
+<img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />
+<img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
+<img align="left" alt="D-Wave" width="26px" src="https://pbs.twimg.com/profile_images/1559941224651317250/k8UjOgDt_400x400.jpg" />
+<img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
+<img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
+
+<br />
+<br />
+
+### Quantum SDKs:
+<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />
+<img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />
+
+
 
 
 <br />
