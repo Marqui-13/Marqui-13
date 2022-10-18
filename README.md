@@ -65,11 +65,9 @@
 <img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
-<img align="left" alt="D-Wave Leap" width="26px" src="https://www.dwavesys.com/media/20gh2vzh/leap-logo.png" />
+<img align="left" alt="D-Wave" width="26px" src="https://pbs.twimg.com/profile_images/1559941224651317250/k8UjOgDt_400x400.jpg" />
 <img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
 <img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
-<img align="left" alt="Strawberry Fields" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" style="padding-right:10px;" />
-
 
 <br />
 <br />
