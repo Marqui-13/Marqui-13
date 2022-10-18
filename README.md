@@ -147,7 +147,13 @@
 <img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+
+### Hosting:
 <img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
+<img align="left" alt="DFINITY" width="26px" src="https://avatars.githubusercontent.com/u/59101585?s=200&v=4" style="padding-right:10px;" />
 
 
 <br />
