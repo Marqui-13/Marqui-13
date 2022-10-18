@@ -54,6 +54,7 @@
 <img align="left" alt="Metamask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
 <img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
+<img align="left" alt="Parity" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
 
 
 <br />
@@ -96,6 +97,8 @@
 
 ### Layer 2 Chain:
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Polkadot" width="26px" src="https://polkadot.network/assets/img/logo-polkadot.svg?v=ea608e625d" style="padding-right:10px;" />
+<img align="left" alt="ImmutableX" width="26px" src="https://assets-global.website-files.com/62535c6262b90afd768b9b26/6296b76dfbf3dcef2847733b_immutableX-logo-horiz.svg" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -108,7 +111,6 @@
 <img align="left" alt="Polygon Hermez" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Mir Protocol" width="26px" src="https://mirprotocol.org/static/images/mir.svg" style="padding-right:10px;" />
 <img align="left" alt="Loopring" width="26px" src="https://avatars.githubusercontent.com/u/29633125?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="ImmutableX" width="26px" src="https://assets-global.website-files.com/62535c6262b90afd768b9b26/6296b76dfbf3dcef2847733b_immutableX-logo-horiz.svg" style="padding-right:10px;" />
 <img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
 <img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
 <img align="left" alt="Optimism" width="26px" src="https://avatars.githubusercontent.com/u/58791460?s=200&v=4" style="padding-right:10px;" />
