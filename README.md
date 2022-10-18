@@ -98,7 +98,7 @@
 ### Layer 2 Chain:
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
-<img align="left" alt="ImmutableX" width="26px" src="https://assets-global.website-files.com/62535c6262b90afd768b9b26/6296b76dfbf3dcef2847733b_immutableX-logo-horiz.svg" style="padding-right:10px;" />
+<img align="left" alt="ImmutableX" width="26px" src="https://yt3.ggpht.com/MBJ5zsbo7k9xToPPZ6xJLq2V9WbHshdJ0j72jALKyDqIgCHb82OEyu5fxPYryBGa1AuzqkXq=s88-c-k-c0x00ffffff-no-rj" />
 
 <br />
 <br />
