@@ -90,6 +90,8 @@
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Cardano" width="26px" src="https://avatars.githubusercontent.com/u/37078161?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solana" width="26px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://seeklogo.com/images/B/binance-smart-chain-logo-802A74A1DB-seeklogo.com.png" style="padding-right:10px;" />
+
 
 <br />
 <br />
