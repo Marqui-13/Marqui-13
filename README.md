@@ -73,7 +73,6 @@
 <br />
 
 ### Quantum SDKs:
-<img align="left" alt="D-Wave Ocean" width="26px" src="https://www.dwavesys.com/media/13afnu1k/ocean-logo.png" style="padding-right:10px;" />
 <img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />
 
