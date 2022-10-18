@@ -74,6 +74,7 @@
 
 ### Quantum SDKs:
 <img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />
 
 
