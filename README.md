@@ -65,7 +65,7 @@
 <img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
-<img align="left" alt="D-Wave Leap" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="D-Wave Leap" width="26px" src="https://www.dwavesys.com/media/20gh2vzh/leap-logo.png" />
 <img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
 <img align="left" alt="Strawberry Fields" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" style="padding-right:10px;" />
 
@@ -74,7 +74,7 @@
 <br />
 
 ### Quantum SDKs:
-<img align="left" alt="D-Wave Ocean" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="D-Wave Ocean" width="26px" src="https://www.dwavesys.com/media/13afnu1k/ocean-logo.png" style="padding-right:10px;" />
 <img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />
 
