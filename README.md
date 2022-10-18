@@ -101,9 +101,8 @@
 <br />
 
 ### Rollups:
+<img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="zkSync" width="26px" src="https://docs.zksync.io/LogotypeLight.svg" style="padding-right:10px;" />
-<img align="left" alt="zkSwap" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="zkTube" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon Hermez" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
