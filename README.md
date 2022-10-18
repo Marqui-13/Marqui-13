@@ -47,6 +47,7 @@
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Cairo" width="26px" src="https://pbs.twimg.com/profile_images/1349629801531895809/HwhMQUBC_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="EthersJS" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
 <img align="left" alt="Web3JS" width="26px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
@@ -100,8 +101,21 @@
 <br />
 
 ### Rollups:
-<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="zkSync" width="26px" src="https://docs.zksync.io/LogotypeLight.svg" style="padding-right:10px;" />
+<img align="left" alt="zkSwap" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="zkTube" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Polygon Hermez" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Mir Protocol" width="26px" src="https://mirprotocol.org/static/images/mir.svg" style="padding-right:10px;" />
+<img align="left" alt="Loopring" width="26px" src="https://avatars.githubusercontent.com/u/29633125?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="ImmutableX" width="26px" src="https://assets-global.website-files.com/62535c6262b90afd768b9b26/6296b76dfbf3dcef2847733b_immutableX-logo-horiz.svg" style="padding-right:10px;" />
+<img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
+<img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
+<img align="left" alt="Optimism" width="26px" src="https://avatars.githubusercontent.com/u/58791460?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://pbs.twimg.com/profile_images/1490751860461953029/046qIxwT_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Boba" width="26px" src="https://avatars.githubusercontent.com/u/99369982?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="OMG" width="26px" src="https://avatars.githubusercontent.com/u/31544276?s=200&v=4" style="padding-right:10px;" />
 <br />
 <br />
 
