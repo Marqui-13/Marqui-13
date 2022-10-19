@@ -111,8 +111,6 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
-
 
 <br />
 <br />
@@ -154,6 +152,8 @@
 <img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
