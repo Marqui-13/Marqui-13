@@ -1,7 +1,7 @@
 ## I'm a Founder, Developer, and Student!
 
 - 🌱 I’m currently learning Web3, Blockchain, Quantum, AI/Machine Learning, Creative Coding, Responsive Full-Stack, & Game Development 
-- 🤝 I’m looking to collaborate with other founders/developers/students
+- 🤝 I’m looking to collaborate with other founders/developers/students helping our world
 - 🥅 2022 Goals: Learn more about Quantum Computing
 - ⚡ Fun fact: I love music and art
 
