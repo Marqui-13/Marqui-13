@@ -141,8 +141,6 @@
 <img align="left" alt="OpenZepplin" width="26px" src="https://imgs.search.brave.com/rxl6tkJHoJavBKg2f-ha-yIFLLI3aobifs4dJdBGpMc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/ZmtQUnBXcS1iWFdI/eWdQeUd2VkRRSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="Thirdweb" width="26px" src="https://raw.githubusercontent.com/slide-web3/thirdweb-typescript-sdk/bb93f5928c28932d47c699e03d38bed3fbdedf21/logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Covalent" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="LDK" width="26px" src="https://avatars.githubusercontent.com/u/60484029?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="BDK" width="26px" src="https://avatars.githubusercontent.com/u/62867074?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="LiveKit" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
 
 <br>
