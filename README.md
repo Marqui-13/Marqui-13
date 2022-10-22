@@ -40,10 +40,10 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
 
 
 ### Web3 Languages/Tools:
@@ -62,9 +62,10 @@
 <img align="left" alt="Parity" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
 
 
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
 
 ### Layer 1 Chain:
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
@@ -77,8 +78,8 @@
 <img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
 
 
-<br />
-<br />
+<br>
+<br>
 
 
 ### Layer 2 Chain:
@@ -86,8 +87,8 @@
 <img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://yt3.ggpht.com/MBJ5zsbo7k9xToPPZ6xJLq2V9WbHshdJ0j72jALKyDqIgCHb82OEyu5fxPYryBGa1AuzqkXq=s88-c-k-c0x00ffffff-no-rj" />
 
-<br />
-<br />
+<br>
+<br>
 
 ### Rollups:
 <img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
@@ -102,8 +103,9 @@
 <img align="left" alt="Arbitrum" width="26px" src="https://pbs.twimg.com/profile_images/1490751860461953029/046qIxwT_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Boba" width="26px" src="https://avatars.githubusercontent.com/u/99369982?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="OMG" width="26px" src="https://avatars.githubusercontent.com/u/31544276?s=200&v=4" style="padding-right:10px;" />
-<br />
-<br />
+<br>
+<br>
+<br>
 
 
 ### Frameworks:
@@ -114,8 +116,8 @@
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
+<br>
+<br>
 
 
 ### File Storage/Databases:
@@ -128,8 +130,8 @@
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
+<br>
+<br>
 
 
 ### APIs/SDKs:
@@ -143,8 +145,8 @@
 <img align="left" alt="BDK" width="26px" src="https://avatars.githubusercontent.com/u/62867074?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="LiveKit" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
 
-<br />
-<br />
+<br>
+<br>
  
 
 ### Developer Environments:
@@ -157,16 +159,16 @@
 <img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
 
 
-<br />
-<br />
+<br>
+<br>
 
 ### Hosting:
 <img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
 <img align="left" alt="DFINITY" width="26px" src="https://avatars.githubusercontent.com/u/59101585?s=200&v=4" style="padding-right:10px;" />
 
 
-<br />
-<br />
+<br>
+<br>
 
 ### Quantum Tools/Languages:
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
@@ -177,8 +179,8 @@
 <img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
 <img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
 
-<br />
-<br />
+<br>
+<br>
 
 ### Quantum SDKs:
 <img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
@@ -188,8 +190,8 @@
 
 
 
-<br />
-<br />
+<br>
+<br>
 
 ### Stats:
 
