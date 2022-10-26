@@ -173,6 +173,7 @@
 <br>
 
 ### Hosting:
+<img align="left" alt="EthLimo" width="26px" src="https://avatars.githubusercontent.com/u/102830586?s=200&v=4" style="padding-right:10px;" />     
 <img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
 <img align="left" alt="DFINITY" width="26px" src="https://avatars.githubusercontent.com/u/59101585?s=200&v=4" style="padding-right:10px;" />
 
