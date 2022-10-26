@@ -137,11 +137,17 @@
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Alchemy" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" />
-<img align="left" alt="OpenZepplin" width="26px" src="https://imgs.search.brave.com/rxl6tkJHoJavBKg2f-ha-yIFLLI3aobifs4dJdBGpMc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/ZmtQUnBXcS1iWFdI/eWdQeUd2VkRRSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
-<img align="left" alt="Thirdweb" width="26px" src="https://raw.githubusercontent.com/slide-web3/thirdweb-typescript-sdk/bb93f5928c28932d47c699e03d38bed3fbdedf21/logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Covalent" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="LiveKit" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Blockchain.comAPI" width="26px" src="https://pbs.twimg.com/profile_images/1268534114904391681/jXyihSx9_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="CoinMarketCapAPI" width="26px" src="https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8" style="padding-right:10px;" />
+<img align="left" alt="EtherScanAPI" width="26px" src="https://imgs.search.brave.com/iUh1wfuHNt8hyxRR039wipez8kIDPutYbbJF4LtHW80/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI4MmQzOTEz/MmFiMWExZjg3Nzdm/ZjIxNzkxNjdkMjBi/NDY2YTYwNjA0OWJk/NjZiOGRjYzc1NDMy/ZWM5NjNmOC9ldGhl/cnNjYW4uaW8v" style="padding-right:10px;" />
+
+<img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" />
+<img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" />
+<img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" />
+<img align="left" alt="OpenZepplinSDK" width="26px" src="https://imgs.search.brave.com/rxl6tkJHoJavBKg2f-ha-yIFLLI3aobifs4dJdBGpMc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/ZmtQUnBXcS1iWFdI/eWdQeUd2VkRRSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
+<img align="left" alt="ThirdwebSDK" width="26px" src="https://raw.githubusercontent.com/slide-web3/thirdweb-typescript-sdk/bb93f5928c28932d47c699e03d38bed3fbdedf21/logo.svg" style="padding-right:10px;" />
+<img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
