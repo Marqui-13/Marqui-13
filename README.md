@@ -23,6 +23,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="JSON" width="26px" src="https://imgs.search.brave.com/Uni8nncnGJaDKnrFRVwRBKinADjR2Ff9CUqbkZhZi8M/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDY0MDNjYjlm/YjJjNWY2MzE1OGRl/Y2IxODUzNjc4ZjEw/NGVmOGVlYzI0MmU3/ZmU3MjEzZDUxNzM4/MWRmNzM2My93d3cu/anNvbi5vcmcv" style="padding-right:10px;" />
 <img align="left" alt="GSAP" width="26px" src="https://imgs.search.brave.com/q0mm8wsD0VFyaCfEr-1tLYOeAmamqPIu6kSizL9sNNg/rs:fit:545:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC45/OVlDd3hnbG9SN3Ff/aUwtMlhXNGxnSGFH/YyZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo-700x700.png" style="padding-right:10px;" />
