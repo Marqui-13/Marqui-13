@@ -39,6 +39,7 @@
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Arm64" width="26px" src="https://pbs.twimg.com/profile_images/892288373993361409/9jdJldY9_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 
 <br>
