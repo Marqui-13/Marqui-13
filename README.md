@@ -1,6 +1,6 @@
 ## I'm a Founder, Developer, and Student!
 
-- 🌱 I’m currently focusing on Blockchain, Quantum, AI/Machine Learning, Creative Coding, Responsive Full-Stack, & Game Development 
+- 🌱 I’m currently focusing on Blockchain, Quantum, AI/Machine Learning, Creative Coding, Responsive Full-Stack, & Video Editing 
 - 🤝 I’m looking to collaborate with other founders/developers/students helping our world. 
 - ***Code is open source but not for production for many reasons(random numbers, environment variables, api keys, etc.)
 - 🥅 2022 Goals: Learn more about Quantum Computing
