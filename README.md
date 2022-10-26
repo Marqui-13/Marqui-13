@@ -49,6 +49,7 @@
 
 
 ### Web3 Languages/Tools:
+<img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
@@ -153,6 +154,8 @@
 <img align="left" alt="ThirdwebSDK" width="26px" src="https://raw.githubusercontent.com/slide-web3/thirdweb-typescript-sdk/bb93f5928c28932d47c699e03d38bed3fbdedf21/logo.svg" style="padding-right:10px;" />
 <img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SpaceSDK" width="26px" src="https://fleekhq.github.io/space-sdk/img/space.svg" style="padding-right:10px;" />
+
 
 <br>
 <br>
@@ -177,8 +180,6 @@
 <img align="left" alt="IPFS/IPNS" width="26px" src="https://imgs.search.brave.com/RBy-5QNLs-N41gftENPYt7EywL366VtxkJZ2ZFDvKqI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZjZWRlMWVh/NmQyMDVkMGQ1NDBk/MjM0NjNlZjhlMDRl/YzcwODE0NTYzZjRh/NzU1ODY0MGVlNjNl/NGY5MjY0Mi9kb2Nz/LmlwZnMuaW8v" style="padding-right:10px;" />     
 <img align="left" alt="ENS" width="26px" src="https://imgs.search.brave.com/ZHroqMkSw2Vpuc-BobTbRDeDByiRGUu4X3IWX1O63BM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGJiNzVmZGJm/ZDFiZjYwNDk1N2Rh/MmJjMDViZDQ0Y2I0/MDI3NTg5ODBmZjAy/MTkwZWMyZTAzOTRk/YzM5MjBlMi9lbnMu/ZG9tYWlucy8" style="padding-right:10px;" />     
 <img align="left" alt="Skynet" width="26px" src="https://avatars.githubusercontent.com/u/82232932?s=200&v=4" style="padding-right:10px;" />     
-                                                                                                                                          
-<img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
 <img align="left" alt="DFINITY" width="26px" src="https://avatars.githubusercontent.com/u/59101585?s=200&v=4" style="padding-right:10px;" />
 
 
