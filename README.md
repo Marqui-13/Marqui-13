@@ -74,7 +74,7 @@
 <img align="left" alt="Cardano" width="26px" src="https://avatars.githubusercontent.com/u/37078161?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Tezos" width="26px" src="https://avatars.githubusercontent.com/u/21209817?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solana" width="26px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Flow" width="26px" src="https://assets-global.website-files.com/5f734f4dbd95382f4fdfa0ea/62743866c2a1ff97d43bb844_Group%2010.svg" style="padding-right:10px;" />
+<img align="left" alt="Flow" width="26px" src="https://imgs.search.brave.com/zLnTwXpZaNy4YaQ1bW4BsXSvmbY1iGqWEZU7iV5aw5Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTgyMWVhODRj/YWRjNTllOWQxZTZm/YjdlZGY3MWEzZWVi/ODZjODk5YWM4MWRl/MjE0ZGU2ZWNkNDZh/ODY3MjgzNi93d3cu/Zmxvd3ZlcnNlLmNv/Lw" style="padding-right:10px;" />
 <img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
 
 
@@ -137,6 +137,8 @@
 
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="InfuraAPI" width="26px" src="https://imgs.search.brave.com/OpCP2--IvTQzaaTumt61pYfdILAEDV0n6HZOQwtNiGU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjliMjIyM2Ux/NmVhOTg4ZjZhNmIz/NWMyZWEwNjA3ZDAz/MWEwOTRlN2NiYzQ5/YTA2M2M3MDdkMDUz/YzEzMGE5MC9pbmZ1/cmEuaW8v"padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Blockchain.comAPI" width="26px" src="https://pbs.twimg.com/profile_images/1268534114904391681/jXyihSx9_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="CoinMarketCapAPI" width="26px" src="https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8" style="padding-right:10px;" />
