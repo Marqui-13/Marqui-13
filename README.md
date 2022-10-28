@@ -75,7 +75,7 @@
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Cardano" width="26px" src="https://avatars.githubusercontent.com/u/37078161?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Near" width="26px" src="https://docs.near.org/img/near_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Near" width="26px" src="https://avatars.githubusercontent.com/u/7613128?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Tezos" width="26px" src="https://avatars.githubusercontent.com/u/21209817?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solana" width="26px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flow" width="26px" src="https://imgs.search.brave.com/zLnTwXpZaNy4YaQ1bW4BsXSvmbY1iGqWEZU7iV5aw5Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTgyMWVhODRj/YWRjNTllOWQxZTZm/YjdlZGY3MWEzZWVi/ODZjODk5YWM4MWRl/MjE0ZGU2ZWNkNDZh/ODY3MjgzNi93d3cu/Zmxvd3ZlcnNlLmNv/Lw" style="padding-right:10px;" />
