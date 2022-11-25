@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently focusing on Blockchain/DLT, AI/Machine Learning, Quantum, Creative Coding, Responsive Full-Stack, & Video Editing 
 - 🥅 2022 Goals: Learn more about Quantum Computing
-- ⚡ Fun fact: I love music and art
+- 🗺️ Fun fact: I love music and art
 - ⭐⭐⭐ Code is open source but not for production for many reasons(random numbers, environment variables, api keys, etc.)
 
 ### Connect with me:
