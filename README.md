@@ -123,7 +123,7 @@
 <br>
 
 
-### File Storage/Databases:
+### Backend/File Storage/Databases:
 <img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/10536621?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Filecoin" width="26px" src="https://avatars.githubusercontent.com/u/22014611?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
@@ -153,6 +153,8 @@
 <img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="SpaceSDK" width="26px" src="https://fleekhq.github.io/space-sdk/img/space.svg" style="padding-right:10px;" />
+<img align="left" alt="PolyHaven" width="26px" src="https://polyhaven.com/Logo%20256.png" style="padding-right:10px;" />
+<img align="left" alt="WebGiSDK" width="26px" src="https://webgi.xyz/img/logo.svg" style="padding-right:10px;" />
 
 
 <br>
@@ -183,6 +185,12 @@
 
 <br>
 <br>
+                                                                                                                                         
+### AI/Machine Learning:
+<img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
+
+                                                                                                                                         
 
 ### Quantum Tools/Languages:
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
