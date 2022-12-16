@@ -36,6 +36,7 @@
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arm64" width="26px" src="https://pbs.twimg.com/profile_images/892288373993361409/9jdJldY9_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Elixir" width="26px" src="https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 
 <br>
@@ -49,6 +50,7 @@
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Ink!" width="26px" src="https://raw.githubusercontent.com/paritytech/ink/6db38b246d1f62f2282fa60702b8f285ad428483/.images/ink-logo-glow.svg" style="padding-right:10px;" />
 <img align="left" alt="Cairo" width="26px" src="https://pbs.twimg.com/profile_images/1349629801531895809/HwhMQUBC_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
