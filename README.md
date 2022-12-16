@@ -45,16 +45,14 @@
 
 
 ### Web3 Languages/Tools:
-<img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
+<img align="left" alt="Clarity" width="26px" src="https://pbs.twimg.com/profile_images/1536377648888283136/5oV6fkSo_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Cairo" width="26px" src="https://pbs.twimg.com/profile_images/1349629801531895809/HwhMQUBC_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Clarity" width="26px" src="https://pbs.twimg.com/profile_images/1536377648888283136/5oV6fkSo_400x400.png" style="padding-right:10px;" />
-<img align="left" alt="Cairo" width="26px" src="https://pbs.twimg.com/profile_images/1349629801531895809/HwhMQUBC_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="EthersJS" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
-<img align="left" alt="Web3JS" width="26px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" style="padding-right:10px;" />
+<img align="left" alt="Fleek" width="26px" src="https://terminalco.wpcomstaging.com/wp-content/uploads/2020/03/FleekIconColor.png" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Metamask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
@@ -142,6 +140,8 @@
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="EthersJSAPI" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
+<img align="left" alt="Web3JSAPI" width="26px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" style="padding-right:10px;" />
 <img align="left" alt="InfuraAPI" width="26px" src="https://imgs.search.brave.com/OpCP2--IvTQzaaTumt61pYfdILAEDV0n6HZOQwtNiGU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjliMjIyM2Ux/NmVhOTg4ZjZhNmIz/NWMyZWEwNjA3ZDAz/MWEwOTRlN2NiYzQ5/YTA2M2M3MDdkMDUz/YzEzMGE5MC9pbmZ1/cmEuaW8v"padding-right:10px;" />
 <img align="left" alt="Blockchain.comAPI" width="26px" src="https://pbs.twimg.com/profile_images/1268534114904391681/jXyihSx9_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="CoinMarketCapAPI" width="26px" src="https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8" style="padding-right:10px;" />
