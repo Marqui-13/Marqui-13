@@ -1,6 +1,6 @@
 ## I'm a Founder, Engineer, and Student!
 
-- 🌱 I’m currently focusing on Blockchain/DLT, AI/Machine Learning, Quantum, Creative Coding, Responsive Full-Stack, & Video Editing 
+- 🌱 I’m currently focusing on Blockchain/DLT, AI/Machine Learning, Quantum Computing, Creative Coding, Responsive Full-Stack Development, Financial Research/Analysis, & Video Editing 
 - 🥅 2022 Goals: Learn more about Quantum Computing
 - 🗺️ Fun fact: I love music and art
 - ⭐⭐⭐ Code is open source but not for production for many reasons(random numbers, environment variables, api keys, etc.)
