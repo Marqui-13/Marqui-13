@@ -194,18 +194,37 @@
 ### AI/Machine Learning:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Cloudera" width="26px" src="[https://avatars.githubusercontent.com/u/14957082?s=200&v=4](https://pbs.twimg.com/profile_images/1144624216098009089/CqhPfar4_400x400.png)" style="padding-right:10px;" />
+<img align="left" alt="DeepMindAI" width="26px" src="https://avatars.githubusercontent.com/u/8596759?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="H2OAI" width="26px" src="https://avatars.githubusercontent.com/u/1402695?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Dataiku" width="26px" src="https://pbs.twimg.com/profile_images/1329055612857184263/EMaQ5kQ1_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="C3AI" width="26px" src="https://pbs.twimg.com/profile_images/1599864715831697409/v0jX9h0o_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Graphcore" width="26px" src="https://avatars.githubusercontent.com/u/26037135?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="IBM Watson" width="26px" src="https://avatars.githubusercontent.com/u/9221727?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Ezra" width="26px" src="https://pbs.twimg.com/profile_images/1297887281341243397/7rAYkbC0_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="VizAI" width="26px" src="https://avatars.githubusercontent.com/u/31917660?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Corti" width="26px" src="https://avatars.githubusercontent.com/u/16427447?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Oncora Medical" width="26px" src="https://pbs.twimg.com/profile_images/676921299445370881/gfoEFKke_400x400.png" style="padding-right:10px;" />
+
+
+
+                                                                                                                                        
+                                                                                                                                        
 
 <br>
 <br>
                                                                                                                                          
 
 ### Quantum Tools/Languages:
-<img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
-<img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
 <img align="left" alt="D-Wave" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" />
-<img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
+<img align="left" alt="QuEra" width="26px" src="https://avatars.githubusercontent.com/u/102835961?s=200&v=4" />
+<img align="left" alt="IonQ" width="26px" src="https://avatars.githubusercontent.com/u/25356822?s=200&v=4" />
+                                                                                                            
+                                                                                                           
+<img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
+<img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           <img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
 <img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
 
 <br>
