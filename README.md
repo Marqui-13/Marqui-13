@@ -219,6 +219,7 @@
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
 <img align="left" alt="D-Wave" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" />
+<img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" />
 <img align="left" alt="QuEra" width="26px" src="https://avatars.githubusercontent.com/u/102835961?s=200&v=4" />
 <img align="left" alt="IonQ" width="26px" src="https://avatars.githubusercontent.com/u/25356822?s=200&v=4" />
                                                                                                             
