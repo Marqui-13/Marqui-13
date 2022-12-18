@@ -182,7 +182,7 @@
 <br>
 
 ### Hosting:
-<img align="left" alt="EthLimo" width="26px" src="https://pbs.twimg.com/profile_banners/1428390349085552647/1634000664/1500x500" style="padding-right:10px;" />
+<img align="left" alt="EthLimo" width="26px" src="https://d31ygswzsyecnt.cloudfront.net/grants/50a7bd4c8f06a91db178583d227d8bf7/limocrop24.png" style="padding-right:10px;" />
 <img align="left" alt="IPFS/IPNS" width="26px" src="https://imgs.search.brave.com/RBy-5QNLs-N41gftENPYt7EywL366VtxkJZ2ZFDvKqI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZjZWRlMWVh/NmQyMDVkMGQ1NDBk/MjM0NjNlZjhlMDRl/YzcwODE0NTYzZjRh/NzU1ODY0MGVlNjNl/NGY5MjY0Mi9kb2Nz/LmlwZnMuaW8v" style="padding-right:10px;" />     
 <img align="left" alt="ENS" width="26px" src="https://i.seadn.io/gae/0cOqWoYA7xL9CkUjGlxsjreSYBdrUBE0c6EO1COG4XE8UeP-Z30ckqUNiL872zHQHQU5MUNMNhfDpyXIP17hRSC5HQ?auto=format&w=384" style="padding-right:10px;" />     
 <img align="left" alt="DFINITY" width="26px" src="https://avatars.githubusercontent.com/u/59101585?s=200&v=4" style="padding-right:10px;" />
