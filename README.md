@@ -1,4 +1,4 @@
-## I'm a Founder, Engineer, Student, & Manager
+## I'm a Founder, Engineer, Designer, Manager, & Student
 
 - 🌱 I’m currently focusing on Blockchain/DLT, Artificial Intelligence, Machine Learning, Quantum Computing, Creative Coding, Responsive Full-Stack Development, Financial Research/Analysis, & Video Editing 
 - 🥅 2022 Goals: Learn more about Quantum Computing
