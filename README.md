@@ -1,7 +1,5 @@
 ## I'm a Founder, Engineer, Student, Designer, & Manager
 
-- I’m currently focusing on Blockchain/DLT, Artificial Intelligence, Machine Learning, Quantum Computing, Creative Coding, Responsive Full-Stack Development, Mobile Development, Financial Research/Analysis, & Video Editing 
-
 ### Connect with me:
 
 [![website](./globe-light.svg)](https://marqui.on.fleek.co#gh-light-mode-only)
