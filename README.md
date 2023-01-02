@@ -62,6 +62,9 @@
 <br>
 <br>
 
+### Layer 0 Chain:
+<img align="left" alt="Inery" width="26px" src="https://yt3.ggpht.com/ivceKbUuIkQLruMq1eM9U9ueQX2jY9_R1gMS1YdZwqqdY_hGmEjJwcKHvh9ddCw6Y_fj0X5a=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
+
 ### Layer 1 Chain:
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
@@ -73,8 +76,6 @@
 <img align="left" alt="Solana" width="26px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flow" width="26px" src="https://imgs.search.brave.com/zLnTwXpZaNy4YaQ1bW4BsXSvmbY1iGqWEZU7iV5aw5Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTgyMWVhODRj/YWRjNTllOWQxZTZm/YjdlZGY3MWEzZWVi/ODZjODk5YWM4MWRl/MjE0ZGU2ZWNkNDZh/ODY3MjgzNi93d3cu/Zmxvd3ZlcnNlLmNv/Lw" style="padding-right:10px;" />
 <img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
-<img align="left" alt="Inery" width="26px" src="https://pbs.twimg.com/profile_images/1506161748231041025/R9hQxqQK_400x400.jpg" style="padding-right:10px;" />
-
 
 
 <br>
