@@ -63,7 +63,7 @@
 <br>
 
 ### Layer 0 Chain:
-<img align="left" alt="Inery" width="26px" src="https://yt3.ggpht.com/ivceKbUuIkQLruMq1eM9U9ueQX2jY9_R1gMS1YdZwqqdY_hGmEjJwcKHvh9ddCw6Y_fj0X5a=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
+<img align="left" alt="Inery" width="26px" src="https://miro.medium.com/max/660/1*mkt2EPt8YDUH_10-hgx5yg.png" style="padding-right:10px;" />
 
 <br>
 <br>
