@@ -175,10 +175,12 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
 
+                                                                                                                       
+<br><br>
+                                                                             
 
 ### Testing:
-<img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />                                                                                                                       
-                                                                                                                       
+<img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />                                                                             
                                                                                                                        
 <br>
 <br>
@@ -255,5 +257,3 @@
 <details>
 
 [website]: https://marqui.on.fleek.co
-[twitter]: https://twitter.com/mthreeee13
-[linkedin]: https://linkedin.com/in/marqui-orr-793115219
