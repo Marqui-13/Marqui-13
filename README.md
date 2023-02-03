@@ -5,8 +5,8 @@
 [![website](./globe-light.svg)](https://marqui.on.fleek.co#gh-light-mode-only)
 [![website](./globe-dark.svg)](https://marqui.on.fleek.co#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./linkedin-light.svg)](https://www.linkedin.com/in/marquiorr#gh-light-mode-only)
-[![linkedin](./linkedin-dark.svg)](https://linkedin.com/in/marquiorr#gh-dark-mode-only)
+[![linkedin](./linkedin-light.svg)](https://www.linkedin.com/in/marquivionorr#gh-light-mode-only)
+[![linkedin](./linkedin-dark.svg)](https://www.linkedin.com/in/marquivionorr#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Web2 Languages/Tools:
