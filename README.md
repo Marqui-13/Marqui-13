@@ -1,4 +1,4 @@
-## I'm a Founder, Engineer, Student, Designer, & Manager
+## I'm a Web3 Founder, Software Engineer, Student @ UIU, Designer, & Manager
 
 ### Connect with me:
 
