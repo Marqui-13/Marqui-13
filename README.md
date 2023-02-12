@@ -141,7 +141,7 @@
 
 
 ### APIs/SDKs:
-<img align="left" alt="FastAPI" width="26px" src="https://www.theqrl.org/img/icons/qrl-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="FastAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="EthersJSAPI" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
