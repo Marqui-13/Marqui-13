@@ -1,4 +1,4 @@
-## I'm a Web3 Founder, Software Engineer, Student @ UIU, Designer, Manager, & | FutureQuantumLeader ⟩
+# I'm a Web3 Founder, Software Engineer, Student @ UIU, Designer, Manager, & | FutureQuantumLeader ⟩
 
 ### Connect with me:
 
