@@ -141,7 +141,6 @@
 
 
 ### APIs/SDKs:
-<img align="left" alt="FastAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="EthersJSAPI" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
@@ -229,8 +228,9 @@
 <img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" />
 <img align="left" alt="QuEra" width="26px" src="https://avatars.githubusercontent.com/u/102835961?s=200&v=4" />
 <img align="left" alt="IonQ" width="26px" src="https://avatars.githubusercontent.com/u/25356822?s=200&v=4" />
-                                                                                                            
-                                                                                                           
+<img align="left" alt="Azure Quantum" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />                                                                                                            
+<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />   
+<img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
 <img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           <img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
 <img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
@@ -238,11 +238,9 @@
 <br>
 <br>
 
-### Quantum SDKs:
+### Quantum APIs/SDKs:
+<img align="left" alt="QRLAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="xxSDK" width="26px" src="https://gitlab.com/uploads/-/system/group/avatar/2032238/Mixxchain_Logo_Icon-01.png?width=64" style="padding-right:10px;" />
-<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />
-<img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />
 
 
 
