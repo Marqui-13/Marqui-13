@@ -13,6 +13,9 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 
+<br>
+<br>
+
 ### Backend/File Storage/Databases:
 <img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/10536621?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Filecoin" width="26px" src="https://avatars.githubusercontent.com/u/22014611?s=200&v=4" style="padding-right:10px;" />
