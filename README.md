@@ -140,6 +140,12 @@
 <br>
 <br>
 
+### EVM-Compatible Chain:
+
+
+<br>
+<br>
+
 ### Rollups:
 <img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
