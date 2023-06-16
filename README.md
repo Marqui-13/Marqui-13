@@ -112,6 +112,7 @@
 
 ### Layer 0 Chain: 
 <img align="left" alt="CELLFRAME" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
+<img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
 
 <br>
 <br>                                                                                          
@@ -134,7 +135,6 @@
 
 ### Layer 2 Chain:
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://yt3.ggpht.com/MBJ5zsbo7k9xToPPZ6xJLq2V9WbHshdJ0j72jALKyDqIgCHb82OEyu5fxPYryBGa1AuzqkXq=s88-c-k-c0x00ffffff-no-rj" />
 
 <br>
