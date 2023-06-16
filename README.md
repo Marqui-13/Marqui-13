@@ -133,20 +133,9 @@
 <br>
 <br>
 
-### Layer 2 Chain:
+### Layer 2 Chain/zkRollups:
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://yt3.ggpht.com/MBJ5zsbo7k9xToPPZ6xJLq2V9WbHshdJ0j72jALKyDqIgCHb82OEyu5fxPYryBGa1AuzqkXq=s88-c-k-c0x00ffffff-no-rj" />
-
-<br>
-<br>
-
-### EVM-Compatible Chain:
-
-
-<br>
-<br>
-
-### Rollups:
 <img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
@@ -163,6 +152,15 @@
 <br>
 <br>
 <br>
+                                                                                                                       
+                                                                                                                       
+### EVM-Compatible Chain:
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                       
                                                                                                                        
                                                                                                                        
 ### AI/ML/DL/RL:
