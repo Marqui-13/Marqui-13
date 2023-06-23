@@ -183,6 +183,7 @@
 <br>
                                                                                                                                          
 ### Quantum Tools/Languages:
+<img align="left" alt="Quantum Resistance Corporation" width="26px" src="https://media.licdn.com/dms/image/D560BAQER0GEdN5KTXw/company-logo_200_200/0/1680570011103?e=1695859200&v=beta&t=FATKueFRy6qOoPRUny6xgSZeLe0jo-lnCZub0gojCWA" style="padding-right:10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
 <img align="left" alt="D-Wave" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" />
