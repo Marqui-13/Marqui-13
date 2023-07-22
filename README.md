@@ -92,7 +92,9 @@
 <img align="left" alt="Clarity" width="26px" src="https://pbs.twimg.com/profile_images/1536377648888283136/5oV6fkSo_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Rust" width="26px" src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" style="padding-right:10px;" />
+<img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Tenderly" width="26px" src="https://avatars.githubusercontent.com/u/43046621?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Foundry" width="26px" src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Parity" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ink!" width="26px" src="https://pbs.twimg.com/profile_images/1562309585481891840/4GYd9_Qw_400x400.jpg" style="padding-right:10px;" />
@@ -143,7 +145,7 @@
 <img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon Hermez" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Mir Protocol" width="26px" src="https://mirprotocol.org/static/images/mir.svg" style="padding-right:10px;" />
+<img align="left" alt="Mir" width="26px" src="https://mirprotocol.org/static/images/mir.svg" style="padding-right:10px;" />
 <img align="left" alt="Loopring" width="26px" src="https://avatars.githubusercontent.com/u/29633125?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
 <img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
@@ -212,11 +214,10 @@
 <br>
                                                                                                                        
 ### Developer Environments:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />                     
-<img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />                     
 <img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
                                                                                                                        
 <br><br>
