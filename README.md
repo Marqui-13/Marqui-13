@@ -171,7 +171,7 @@
 <img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
 <img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
 <img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
-
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
 
 
 
