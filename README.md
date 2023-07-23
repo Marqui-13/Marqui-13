@@ -168,7 +168,9 @@
 <img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
-<img align="left" alt="Avalanche" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/6038bd51-6f3d-4c79-8560-ba1693c3cb32" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/6038bd51-6f3d-4c79-8560-ba1693c3cb32" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/00b530f5-8a65-4e12-ac60-b1b7bfdf88de" style="padding-right:10px;" />
+<img align="left" alt="Kronos" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
 
 
 
