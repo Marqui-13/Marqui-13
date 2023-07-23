@@ -160,6 +160,9 @@
                                                                                                                        
                                                                                                                        
 ### EVM-Compatible Chain:
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 
 
 <br>
