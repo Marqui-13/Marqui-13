@@ -144,7 +144,7 @@
 ### Layer 2 Chain/zkRollups:
 <img align="left" alt="QRLAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
-<img align="left" alt="ImmutableX" width="26px" src="https://yt3.ggpht.com/MBJ5zsbo7k9xToPPZ6xJLq2V9WbHshdJ0j72jALKyDqIgCHb82OEyu5fxPYryBGa1AuzqkXq=s88-c-k-c0x00ffffff-no-rj" />
+<img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
 <img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
@@ -213,7 +213,7 @@
 <img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />   
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
-<img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           <img align="left" alt="Pyquil" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" style="padding-right:10px;" />
+<img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           
 <img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
 
 <br>
