@@ -184,8 +184,7 @@
 ### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg
-" style="padding-right:10px;" />
+<img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
 <img align="left" alt="Cloudera" width="26px" src="https://pbs.twimg.com/profile_images/1144624216098009089/CqhPfar4_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="DeepMindAI" width="26px" src="https://avatars.githubusercontent.com/u/8596759?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="H2OAI" width="26px" src="https://avatars.githubusercontent.com/u/1402695?s=200&v=4" style="padding-right:10px;" />
