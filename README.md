@@ -109,6 +109,8 @@
 <img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
 <img align="left" alt="Truffle" width="26px" src="https://api.iconify.design/logos/truffle-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="EigenPhi" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/417ef597-904f-4bff-940c-4e2bf5db5ad8" style="padding-right:10px;" />
+<img align="left" alt="Uniswap" width="26px" src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" style="padding-right:10px;" />
+
 
 
 
