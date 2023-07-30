@@ -142,7 +142,8 @@
 <br>
 
 ### Layer 2 Chain/zkRollups:
-<img align="left" alt="QRLAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="LIGHTNING NETWORK" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/9296a2d6-5611-430b-bfa2-f7cbfd0dbce9" style="padding-right:10px;" />
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
 <img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
