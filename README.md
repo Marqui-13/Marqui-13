@@ -91,36 +91,38 @@
 <br>
 <br>
  
-### Web3 Languages/Libraries/Tools:
+### Web3 Languages:
 <img align="left" alt="Clarity" width="26px" src="https://pbs.twimg.com/profile_images/1536377648888283136/5oV6fkSo_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="Huff" width="26px" src="https://avatars.githubusercontent.com/u/106280846?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Tenderly" width="26px" src="https://avatars.githubusercontent.com/u/43046621?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Foundry" width="26px" src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Parity" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ink!" width="26px" src="https://pbs.twimg.com/profile_images/1562309585481891840/4GYd9_Qw_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="SoftwareMansion(Protostar)" width="26px" src="https://github.com/software-mansion/protostar/blob/master/website/static/icon-512.png?raw=true" style="padding-right:10px;" />
 <img align="left" alt="Cairo" width="26px" src="https://pbs.twimg.com/profile_images/1349629801531895809/HwhMQUBC_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
+
+
+<br>
+<br>
+<br>
+<br>
+
+### Web3 Tools/Libraries:
+<img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Tenderly" width="26px" src="https://avatars.githubusercontent.com/u/43046621?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Foundry" width="26px" src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" style="padding-right:10px;" />
+<img align="left" alt="Truffle" width="26px" src="https://api.iconify.design/logos/truffle-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="EigenPhi" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/417ef597-904f-4bff-940c-4e2bf5db5ad8" style="padding-right:10px;" />
+<img align="left" alt="Parity" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SoftwareMansion(Protostar)" width="26px" src="https://github.com/software-mansion/protostar/blob/master/website/static/icon-512.png?raw=true" style="padding-right:10px;" />
 <img align="left" alt="Fleek" width="26px" src="https://pbs.twimg.com/profile_images/1598164753561665536/nAeNDJ2O_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="Mises" width="26px" src="https://play-lh.googleusercontent.com/kpsfGa5rdvPUPVgiyo3bN4G4TdRuf_YUtm5nK0MYEZlEUrgaptnOZ_K_m2IADFA1jQ=w480-h960" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Metamask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
-<img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
-<img align="left" alt="Truffle" width="26px" src="https://api.iconify.design/logos/truffle-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="EigenPhi" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/417ef597-904f-4bff-940c-4e2bf5db5ad8" style="padding-right:10px;" />
-<img align="left" alt="Uniswap" width="26px" src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" style="padding-right:10px;" />
 
 
 <br>
 <br>
-<br>
-<br>                                      
 
 ### Layer 0 Chain: 
 <img align="left" alt="CELLFRAME" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
@@ -209,6 +211,29 @@
 <img align="left" alt="Rarible" width="26px" src="https://avatars.githubusercontent.com/u/64412063?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenSea" width="26px" src="https://avatars.githubusercontent.com/u/34966464?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="SoRare" width="26px" src="https://avatars.githubusercontent.com/u/40692736?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+<br>
+
+### Web3 Wallets/Multi-Sig:
+<img align="left" alt="MetaMask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4
+" style="padding-right:10px;" />
+<img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
+<img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
+<img align="left" alt="Math" width="26px" src="https://pbs.twimg.com/profile_images/1629156780163964929/osoFIsnu_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Phantom" width="26px" src="https://avatars.githubusercontent.com/u/78782331?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Exodus" width="26px" src="https://avatars.githubusercontent.com/u/16415174?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Secret Key Labs" width="26px" src="https://avatars.githubusercontent.com/u/67759422?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BitPay" width="26px" src="https://avatars.githubusercontent.com/u/2554930?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Glow" width="26px" src="https://avatars.githubusercontent.com/u/104807428?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Coinbase" width="26px" src="https://avatars.githubusercontent.com/u/18060234?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Trust" width="26px" src="https://avatars.githubusercontent.com/u/32179889?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Zerion" width="26px" src="https://avatars.githubusercontent.com/u/18306895?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="ZenGo" width="26px" src="https://avatars.githubusercontent.com/u/40664522?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Argent" width="26px" src="https://avatars.githubusercontent.com/u/34475424?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Trezor" width="26px" src="https://avatars.githubusercontent.com/u/4146447?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Ledger Nano X" width="26px" src="https://avatars.githubusercontent.com/u/9784193?s=200&v=4" style="padding-right:10px;" />
+
 
 <br>
 <br>
