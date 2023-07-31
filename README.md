@@ -203,6 +203,7 @@
 
 ### Web3 Governance/DAOs:
 <img align="left" alt="AllianceDAO" width="26px" src="https://pbs.twimg.com/profile_images/1481470059084062720/EudspJXo_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="API3DAO" width="26px" src="https://avatars.githubusercontent.com/u/69474416?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
