@@ -205,6 +205,14 @@
 <br>
 <br>
 
+### NFTs:
+<img align="left" alt="Rarible" width="26px" src="https://avatars.githubusercontent.com/u/64412063?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="OpenSea" width="26px" src="https://avatars.githubusercontent.com/u/34966464?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SoRare" width="26px" src="https://avatars.githubusercontent.com/u/40692736?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+<br>
+
 
 ### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
