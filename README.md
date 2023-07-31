@@ -218,8 +218,7 @@
 ### Web3 Wallets/Multi-Sig:
 <img align="left" alt="QRL" width="26px" src="https://play-lh.googleusercontent.com/0-liWu0rtmyxMufLgE0Qs1Y-0Navxdyuu48TiKNNxgYEfi1nJyXI3lIIOFX0hZKMRA=w240-h480-rw" style="padding-right:10px;" />
 <img align="left" alt="QChain QNode" width="26px" src="https://play-lh.googleusercontent.com/J4NwFHavpZznDqKX7pp13DRs8VDGtoV0lgLw9RJnZGKVQNENMljMgrkkwTh43nHyng=w240-h480-rw" style="padding-right:10px;" />
-<img align="left" alt="MetaMask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4
-" style="padding-right:10px;" />
+<img align="left" alt="MetaMask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
 <img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
 <img align="left" alt="Math" width="26px" src="https://pbs.twimg.com/profile_images/1629156780163964929/osoFIsnu_400x400.jpg" style="padding-right:10px;" />
