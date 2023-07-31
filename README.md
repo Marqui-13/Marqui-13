@@ -191,8 +191,8 @@
 <img align="left" alt="QuickSwap" width="26px" src="https://avatars.githubusercontent.com/u/77100292?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="SpookySwap" width="26px" src="https://avatars.githubusercontent.com/u/81034545?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Curve Finance" width="26px" src="https://avatars.githubusercontent.com/u/59866658?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Trader Joe" width="26px" src="https://avatars.githubusercontent.com/u/82165905?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Compound Finance" width="26px" src="https://avatars.githubusercontent.com/u/32911405?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Trader Joe" width="26px" src="https://avatars.githubusercontent.com/u/82165905?s=200&v=4" style="padding-right:10px;" />
 
 
 
