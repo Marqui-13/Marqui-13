@@ -69,14 +69,8 @@
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
 
-<img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" />
-<img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" />
-<img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" />
-<img align="left" alt="OpenZepplinSDK" width="26px" src="https://imgs.search.brave.com/rxl6tkJHoJavBKg2f-ha-yIFLLI3aobifs4dJdBGpMc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/ZmtQUnBXcS1iWFdI/eWdQeUd2VkRRSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
-<img align="left" alt="ThirdwebSDK" width="26px" src="https://pbs.twimg.com/profile_images/1580649916686286848/vdNCao2e_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
+
 <img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="SpaceSDK" width="26px" src="https://fleekhq.github.io/space-sdk/img/space.svg" style="padding-right:10px;" />
 <img align="left" alt="PolyHaven" width="26px" src="https://polyhaven.com/Logo%20256.png" style="padding-right:10px;" />
 <img align="left" alt="WebGiSDK" width="26px" src="https://webgi.xyz/img/logo.svg" style="padding-right:10px;" />
 
@@ -84,6 +78,7 @@
 <br>
 <br>
 <br>
+
  
 ### Web3 Languages:
 <img align="left" alt="Clarity" width="26px" src="https://pbs.twimg.com/profile_images/1536377648888283136/5oV6fkSo_400x400.png" style="padding-right:10px;" />
@@ -99,6 +94,19 @@
 
 <br>
 <br>
+<br>
+<br>
+
+### Web3 APIs/SDKs:
+<img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" />
+<img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" />
+<img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" />
+<img align="left" alt="OpenZepplinSDK" width="26px" src="https://imgs.search.brave.com/rxl6tkJHoJavBKg2f-ha-yIFLLI3aobifs4dJdBGpMc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/ZmtQUnBXcS1iWFdI/eWdQeUd2VkRRSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
+<img align="left" alt="ThirdwebSDK" width="26px" src="https://pbs.twimg.com/profile_images/1580649916686286848/vdNCao2e_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SpaceSDK" width="26px" src="https://fleekhq.github.io/space-sdk/img/space.svg" style="padding-right:10px;" />
+
+
 <br>
 <br>
 
