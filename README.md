@@ -207,6 +207,17 @@
 
 <br>
 <br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+### Web3 Security/Audit:
+<img align="left" alt="HackenProof" width="26px" src="https://avatars.githubusercontent.com/u/31184658?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="OpenZepplin" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Cyfrin" width="26px" src="https://avatars.githubusercontent.com/u/66713957?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Immunefi" width="26px" src="https://avatars.githubusercontent.com/u/78231547?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Spearbit" width="26px" src="https://avatars.githubusercontent.com/u/86859471?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SigmaPrime" width="26px" src="https://avatars.githubusercontent.com/u/22672004?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Sherlock" width="26px" src="https://avatars.githubusercontent.com/u/83594978?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Code4rena" width="26px" src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" style="padding-right:10px;" />
 
 ### NFTs:
 <img align="left" alt="Rarible" width="26px" src="https://avatars.githubusercontent.com/u/64412063?s=200&v=4" style="padding-right:10px;" />
