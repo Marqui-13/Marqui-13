@@ -37,6 +37,9 @@
 <img align="left" alt="NativeScript" width="26px" src="https://api.iconify.design/logos/nativescript.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 
 <br>
@@ -112,9 +115,6 @@
 <img align="left" alt="Uniswap" width="26px" src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" style="padding-right:10px;" />
 
 
-
-
-
 <br>
 <br>
 <br>
@@ -181,10 +181,108 @@
 <br>
 <br>
                                                                                                                        
+                                                                                                                                                                                                                                              
                                                                                                                        
+### Staking/LP/YF:
+
+
+
+<br>
+<br>
                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
                                                                                                                        
-### AI/ML/DL/RL:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ### DEXs:
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
+<img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Governance/DAOs:
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
+<img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### NFTs:
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
+<img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Oracles:
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
+<img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Wallets/Multi-Sig:
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
+<img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Security/Audit:
+<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
+<img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
@@ -204,7 +302,7 @@
 <br>
 <br>
                                                                                                                                          
-### Quantum Tools/Languages:
+### Quantum Languages/Libraries/Tools:
 <img align="left" alt="Quantum Resistance Corporation" width="26px" src="https://media.licdn.com/dms/image/D560BAQER0GEdN5KTXw/company-logo_200_200/0/1680570011103?e=1695859200&v=beta&t=FATKueFRy6qOoPRUny6xgSZeLe0jo-lnCZub0gojCWA" style="padding-right:10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
