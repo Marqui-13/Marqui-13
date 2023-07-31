@@ -216,6 +216,8 @@
 <br>
 
 ### Web3 Wallets/Multi-Sig:
+<img align="left" alt="QRL" width="26px" src="https://play-lh.googleusercontent.com/0-liWu0rtmyxMufLgE0Qs1Y-0Navxdyuu48TiKNNxgYEfi1nJyXI3lIIOFX0hZKMRA=w240-h480-rw" style="padding-right:10px;" />
+<img align="left" alt="QChain QNode" width="26px" src="https://play-lh.googleusercontent.com/J4NwFHavpZznDqKX7pp13DRs8VDGtoV0lgLw9RJnZGKVQNENMljMgrkkwTh43nHyng=w240-h480-rw" style="padding-right:10px;" />
 <img align="left" alt="MetaMask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4
 " style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
@@ -233,6 +235,7 @@
 <img align="left" alt="Argent" width="26px" src="https://avatars.githubusercontent.com/u/34475424?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Trezor" width="26px" src="https://avatars.githubusercontent.com/u/4146447?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ledger Nano X" width="26px" src="https://avatars.githubusercontent.com/u/9784193?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Ellipal" width="26px" src="https://avatars.githubusercontent.com/u/39907240?v=4" style="padding-right:10px;" />
 
 
 <br>
