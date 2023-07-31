@@ -199,6 +199,12 @@
 <br>
 <br>
 
+### Web3 Governance/DAOs:
+<img align="left" alt="AllianceDAO" width="26px" src="https://pbs.twimg.com/profile_images/1481470059084062720/EudspJXo_400x400.png" style="padding-right:10px;" />
+
+<br>
+<br>
+
 
 ### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
