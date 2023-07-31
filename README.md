@@ -182,60 +182,7 @@
 
 <br>
 <br>
-                                                                                                                       
-                                                                                                                                                                                                                                              
-                                                                                                                       
-### Staking/LP/YF:
 
-
-
-<br>
-<br> 
-
-### DEXs:
-
-
-
-<br>
-<br>
-
-### Web3 Governance/DAOs:
-
-
-
-<br>
-<br> 
-
-### NFTs:
-
-
-
-
-<br>
-<br>
-
-### Web3 Oracles:
-
-
-
-
-<br>
-<br>
-
-### Web3 Wallets/Multi-Sig:
-
-
-
-
-<br>
-<br>
-
-### Web3 Security/Audit:
-
-
-
-<br>
-<br>
 
 ### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
