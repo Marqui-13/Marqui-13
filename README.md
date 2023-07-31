@@ -201,23 +201,6 @@
 <br>
 <br>
 
-### Web3 Governance/DAOs:
-<img align="left" alt="AllianceDAO" width="26px" src="https://pbs.twimg.com/profile_images/1481470059084062720/EudspJXo_400x400.png" style="padding-right:10px;" />
-<img align="left" alt="API3DAO" width="26px" src="https://avatars.githubusercontent.com/u/69474416?s=200&v=4" style="padding-right:10px;" />
-
-<br>
-<br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-### Web3 Security/Audit:
-<img align="left" alt="HackenProof" width="26px" src="https://avatars.githubusercontent.com/u/31184658?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="OpenZepplin" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Cyfrin" width="26px" src="https://avatars.githubusercontent.com/u/66713957?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Immunefi" width="26px" src="https://avatars.githubusercontent.com/u/78231547?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Spearbit" width="26px" src="https://avatars.githubusercontent.com/u/86859471?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="SigmaPrime" width="26px" src="https://avatars.githubusercontent.com/u/22672004?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Sherlock" width="26px" src="https://avatars.githubusercontent.com/u/83594978?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Code4rena" width="26px" src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" style="padding-right:10px;" />
 
 ### NFTs:
 <img align="left" alt="Rarible" width="26px" src="https://avatars.githubusercontent.com/u/64412063?s=200&v=4" style="padding-right:10px;" />
@@ -251,7 +234,29 @@
 
 <br>
 <br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+### Web3 Governance/DAOs:
+<img align="left" alt="AllianceDAO" width="26px" src="https://pbs.twimg.com/profile_images/1481470059084062720/EudspJXo_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="API3DAO" width="26px" src="https://avatars.githubusercontent.com/u/69474416?s=200&v=4" style="padding-right:10px;" />
 
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+### Web3 Security/Audit:
+<img align="left" alt="HackenProof" width="26px" src="https://avatars.githubusercontent.com/u/31184658?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="OpenZepplin" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Cyfrin" width="26px" src="https://avatars.githubusercontent.com/u/66713957?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Immunefi" width="26px" src="https://avatars.githubusercontent.com/u/78231547?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Spearbit" width="26px" src="https://avatars.githubusercontent.com/u/86859471?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SigmaPrime" width="26px" src="https://avatars.githubusercontent.com/u/22672004?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Sherlock" width="26px" src="https://avatars.githubusercontent.com/u/83594978?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Code4rena" width="26px" src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" style="padding-right:10px;" />
+
+
+<br>
+<br>
 
 ### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
