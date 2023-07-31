@@ -188,57 +188,54 @@
 
 
 <br>
-<br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ### DEXs:
+<br> 
+
+### DEXs:
 
 
 
 <br>
 <br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Governance/DAOs:
 
+### Web3 Governance/DAOs:
 
 
 
 <br>
-<br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### NFTs:
+<br> 
+
+### NFTs:
 
 
 
 
 <br>
 <br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Oracles:
+
+### Web3 Oracles:
 
 
 
 
 <br>
 <br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Wallets/Multi-Sig:
+
+### Web3 Wallets/Multi-Sig:
 
 
 
 
 <br>
 <br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### Web3 Security/Audit:
+
+### Web3 Security/Audit:
 
 
 
 <br>
 <br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ### AI/ML/DL/RL:
+
+### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
