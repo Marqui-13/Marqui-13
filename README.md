@@ -107,6 +107,7 @@
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Fleek" width="26px" src="https://pbs.twimg.com/profile_images/1598164753561665536/nAeNDJ2O_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="Mises" width="26px" src="https://play-lh.googleusercontent.com/kpsfGa5rdvPUPVgiyo3bN4G4TdRuf_YUtm5nK0MYEZlEUrgaptnOZ_K_m2IADFA1jQ=w480-h960" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Metamask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
