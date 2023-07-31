@@ -183,6 +183,22 @@
 <br>
 <br>
 
+### DEXs/AMMs/LPs:
+<img align="left" alt="UniSwap" width="26px" src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PancakeSwap" width="26px" src="https://avatars.githubusercontent.com/u/71247426?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SushiSwap" width="26px" src="https://avatars.githubusercontent.com/u/72222929?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BiSwap" width="26px" src="https://avatars.githubusercontent.com/u/82933564?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="QuickSwap" width="26px" src="https://avatars.githubusercontent.com/u/77100292?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SpookySwap" width="26px" src="https://avatars.githubusercontent.com/u/81034545?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Curve Finance" width="26px" src="https://avatars.githubusercontent.com/u/59866658?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Trader Joe" width="26px" src="https://avatars.githubusercontent.com/u/82165905?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Compound Finance" width="26px" src="https://avatars.githubusercontent.com/u/32911405?s=200&v=4" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+
 
 ### AI/ML/DL/RL:
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
