@@ -1,6 +1,7 @@
 # I'm a Founder, Blockchain Security Auditor, Quantum Software Architect, & Undergraduate Senior
 
 ### Frontend:
+<img align="left" alt="XML" width="26px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" style="padding-right:10px;" />
