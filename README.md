@@ -7,6 +7,7 @@
 <img align="left" alt="JSON" width="26px" src="https://www.json.org/img/json160.gif" style="padding-right:10px;" />
 <img align="left" alt="GSAP" width="26px" src="https://imgs.search.brave.com/q0mm8wsD0VFyaCfEr-1tLYOeAmamqPIu6kSizL9sNNg/rs:fit:545:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC45/OVlDd3hnbG9SN3Ff/aUwtMlhXNGxnSGFH/YyZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
