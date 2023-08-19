@@ -259,6 +259,12 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 ### Web3 Security/Audit:
 <img align="left" alt="Solodit" width="26px" src="https://pbs.twimg.com/profile_images/1621926829362905091/InTeQjX2_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Quantstamp" width="26px" src="https://assets.website-files.com/5bb269510fd6bf857fcd50c7/6140e9c66769f05e3b78fd45_Quantstamp_Color_Dark_Background.svg
+" style="padding-right:10px;" />
+<img align="left" alt="SafePress" width="26px" src="https://safepress.com/assets/img/logo.svg
+" style="padding-right:10px;" />
+<img align="left" alt="FairyProof" width="26px" src="https://www.fairyproof.com/fairypoof_logo.png
+" style="padding-right:10px;" />
 <img align="left" alt="HackenProof" width="26px" src="https://avatars.githubusercontent.com/u/31184658?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Guardian Audits" width="26px" src="https://pbs.twimg.com/profile_images/1502699438560661504/zdMk51_t_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="OpenZepplin" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
