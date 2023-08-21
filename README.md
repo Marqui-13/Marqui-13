@@ -103,6 +103,7 @@
 <br>
 
 ### Web3 APIs/SDKs:
+<img align="left" alt="ThirdwebSDK" width="26px" src="https://consensys.io/diligence/images/home/mythx.svg" style="padding-right:10px;" />
 <img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" />
 <img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" />
 <img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" />
