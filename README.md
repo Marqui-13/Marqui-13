@@ -164,6 +164,7 @@
 
 ### Layer 2 Chain/zkRollups:
 <img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="QRL" width="26px" src="https://mirror-media.imgix.net/publication-images/anwv6OUo8Y0MBirxnfuyw.png?h=1600&w=1600" style="padding-right:10px;" />
 <img align="left" alt="LIGHTNING NETWORK" width="26px" src="https://play-lh.googleusercontent.com/GkMH88OHVBpRNUyUrsqzUTzwWL5dBOLrph9HqM6_TxknleqHKNuXYpdZgzuw05CzyJo=w480-h960" style="padding-right:10px;" />
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
