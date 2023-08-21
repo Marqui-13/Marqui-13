@@ -117,6 +117,7 @@
 <br>
 
 ### Web3 Tools/Libraries:
+<img align="left" alt="Scribble" width="26px" src="https://consensys.io/diligence/images/home/scribble.svg" style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Tenderly" width="26px" src="https://avatars.githubusercontent.com/u/43046621?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Foundry" width="26px" src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" style="padding-right:10px;" />
