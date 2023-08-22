@@ -249,13 +249,15 @@
 
 
 <br>
-<br>                                                                    
+<br>  
+
 ### Web3 Governance/DAOs:
 <img align="left" alt="AllianceDAO" width="26px" src="https://pbs.twimg.com/profile_images/1481470059084062720/EudspJXo_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="API3DAO" width="26px" src="https://avatars.githubusercontent.com/u/69474416?s=200&v=4" style="padding-right:10px;" />
 
 <br>
-<br>                                                                                                                       
+<br>                                    
+
 ### Web3 Security/Audit:
 <img align="left" alt="Solodit" width="26px" src="https://pbs.twimg.com/profile_images/1621926829362905091/InTeQjX2_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
