@@ -104,9 +104,9 @@
 
 ### Web3 APIs/SDKs:
 <img align="left" alt="ThirdwebSDK" width="26px" src="https://consensys.io/diligence/images/home/mythx.svg" style="padding-right:10px;" />
-<img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" />
-<img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" />
-<img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" />
+<img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" style="padding-right:10px;" />
+<img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" style="padding-right:10px;" />
+<img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="OpenZepplinSDK" width="26px" src="https://imgs.search.brave.com/rxl6tkJHoJavBKg2f-ha-yIFLLI3aobifs4dJdBGpMc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/ZmtQUnBXcS1iWFdI/eWdQeUd2VkRRSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="ThirdwebSDK" width="26px" src="https://pbs.twimg.com/profile_images/1580649916686286848/vdNCao2e_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
@@ -230,7 +230,7 @@
 <img align="left" alt="QRL" width="26px" src="https://play-lh.googleusercontent.com/0-liWu0rtmyxMufLgE0Qs1Y-0Navxdyuu48TiKNNxgYEfi1nJyXI3lIIOFX0hZKMRA=w240-h480-rw" style="padding-right:10px;" />
 <img align="left" alt="QChain QNode" width="26px" src="https://play-lh.googleusercontent.com/J4NwFHavpZznDqKX7pp13DRs8VDGtoV0lgLw9RJnZGKVQNENMljMgrkkwTh43nHyng=w240-h480-rw" style="padding-right:10px;" />
 <img align="left" alt="MetaMask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" />
+<img align="left" alt="WalletConnect" width="26px" src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="RainbowKit" width="26px" src="https://www.rainbowkit.com/rainbow.svg" style="padding-right:10px;" />
 <img align="left" alt="Math" width="26px" src="https://pbs.twimg.com/profile_images/1629156780163964929/osoFIsnu_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Phantom" width="26px" src="https://avatars.githubusercontent.com/u/78782331?s=200&v=4" style="padding-right:10px;" />
@@ -249,17 +249,13 @@
 
 
 <br>
-<br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<br>                                                                    
 ### Web3 Governance/DAOs:
 <img align="left" alt="AllianceDAO" width="26px" src="https://pbs.twimg.com/profile_images/1481470059084062720/EudspJXo_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="API3DAO" width="26px" src="https://avatars.githubusercontent.com/u/69474416?s=200&v=4" style="padding-right:10px;" />
 
 <br>
-<br>
-                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<br>                                                                                                                       
 ### Web3 Security/Audit:
 <img align="left" alt="Solodit" width="26px" src="https://pbs.twimg.com/profile_images/1621926829362905091/InTeQjX2_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
@@ -299,15 +295,15 @@
 <br>
 <br>
 <br>
-                                                                                                                                         
+                                                                                  
 ### Quantum Languages/Libraries/Tools:
 <img align="left" alt="Quantum Resistance Corporation" width="26px" src="https://media.licdn.com/dms/image/D560BAQER0GEdN5KTXw/company-logo_200_200/0/1680570011103?e=1695859200&v=beta&t=FATKueFRy6qOoPRUny6xgSZeLe0jo-lnCZub0gojCWA" style="padding-right:10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
-<img align="left" alt="D-Wave" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" />
-<img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" />
-<img align="left" alt="QuEra" width="26px" src="https://avatars.githubusercontent.com/u/102835961?s=200&v=4" />
-<img align="left" alt="IonQ" width="26px" src="https://avatars.githubusercontent.com/u/25356822?s=200&v=4" />
+<img align="left" alt="D-Wave" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" style="padding-right:10px;" />
+<img align="left" alt="QuEra" width="26px" src="https://avatars.githubusercontent.com/u/102835961?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="IonQ" width="26px" src="https://avatars.githubusercontent.com/u/25356822?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Azure Quantum" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />                                                                                                            
 <img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />   
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
@@ -332,14 +328,14 @@
 <img align="left" alt="VSCodium" width="26px" src="https://vscodium.com/img/codium_cnl.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />    
 <img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Binder" width="26px" src="https://mybinder.readthedocs.io/en/latest/_static/favicon.png" />
+<img align="left" alt="Binder" width="26px" src="https://mybinder.readthedocs.io/en/latest/_static/favicon.png" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
                                                                                                                        
 <br><br>
                                                                                                                        
 ### Testing:
-<img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />                                   <img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />                 
+<img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />  <img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />                 
                                                                                                                        
 <br>
 <br>
