@@ -117,6 +117,7 @@
 <br>
 
 ### Web3 Tools/Libraries:
+<img align="left" alt="Artemis" width="26px" src="https://pbs.twimg.com/profile_images/1668776206966353921/1HYfbh79_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scribble" width="26px" src="https://consensys.io/diligence/images/home/scribble.svg" style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Tenderly" width="26px" src="https://avatars.githubusercontent.com/u/43046621?s=200&v=4" style="padding-right:10px;" />
