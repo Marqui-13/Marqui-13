@@ -40,6 +40,7 @@
 <img align="left" alt="NativeScript" width="26px" src="https://api.iconify.design/logos/nativescript.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nuxt" width="26px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="26px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt=".NET" width="26px" src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" style="padding-right:10px;" />
