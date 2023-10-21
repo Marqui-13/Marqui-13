@@ -48,7 +48,20 @@
 
 <br>
 <br>
-                                                                                                                       
+
+### Functional Languages:
+
+<br>
+<br>
+                                        ### Procedural Languages:
+
+<br>
+<br>
+                                        ### Object Oriented Languages:
+
+<br>
+<br>
+
 ### Web2 Languages/Libraries/Tools:
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo-700x700.png" style="padding-right:10px;" />
