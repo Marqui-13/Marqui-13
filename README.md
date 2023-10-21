@@ -49,6 +49,11 @@
 <br>
 <br>
 
+### Multi-Paradigm Languages:
+
+<br>
+<br>
+
 ### Functional Languages:
 
 <br>
