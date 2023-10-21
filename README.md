@@ -53,11 +53,13 @@
 
 <br>
 <br>
-                                        ### Procedural Languages:
+
+### Procedural Languages:
 
 <br>
 <br>
-                                        ### Object Oriented Languages:
+
+### Object Oriented Languages:
 
 <br>
 <br>
