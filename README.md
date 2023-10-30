@@ -183,6 +183,28 @@
 <br>
 <br>
 
+### L2 State Channels:
+
+
+<br>
+<br>
+                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+### L2 Optimistic Roll-ups:
+
+<br>
+<br>
+
+### L2 zkRoll-Ups:
+
+<br>
+<br>
+                                                                                                                       
+### L2 Multichain:
+
+<br>
+<br>
+
 ### Layer 2 Chain/zkRollups:
 <img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="QRL" width="26px" src="https://mirror-media.imgix.net/publication-images/anwv6OUo8Y0MBirxnfuyw.png?h=1600&w=1600" style="padding-right:10px;" />
