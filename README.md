@@ -162,18 +162,22 @@
 <br>
 
 ### Layer 0 Chain: 
-<img align="left" alt="CELLFRAME" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
+<img align="left" alt="Cellframe" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
 <img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
 
 <br>
 <br>                                                                                          
 
-### Layer 1 Chain:
-<img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
+### L1 Sidechain:
+<img align="left" alt="Stacks" width="26px" src="https://avatars.githubusercontent.com/u/8165984?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+<br>
+                                                                                                                       
+### L1:
 <img align="left" alt="Inery" width="26px" src="https://miro.medium.com/max/660/1*mkt2EPt8YDUH_10-hgx5yg.png" style="padding-right:10px;" />
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Cardano" width="26px" src="https://avatars.githubusercontent.com/u/37078161?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Near" width="26px" src="https://avatars.githubusercontent.com/u/7613128?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Tezos" width="26px" src="https://avatars.githubusercontent.com/u/21209817?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solana" width="26px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" style="padding-right:10px;" />
@@ -182,47 +186,58 @@
 
 <br>
 <br>
+                                                                                                                       
+### Quantum Resistant L1:
+<img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Cardano" width="26px" src="https://avatars.githubusercontent.com/u/37078161?s=200&v=4" style="padding-right:10px;" />
+
+
+<br>
+<br>
 
 ### L2 State Channels:
 
+<img align="left" alt="Lightning Network" width="26px" src="https://play-lh.googleusercontent.com/GkMH88OHVBpRNUyUrsqzUTzwWL5dBOLrph9HqM6_TxknleqHKNuXYpdZgzuw05CzyJo=w480-h960" style="padding-right:10px;" />
+<img align="left" alt="Boba" width="26px" src="https://avatars.githubusercontent.com/u/99369982?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
                                                                                                                        
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-### L2 Optimistic Roll-ups:
+### L2 Optimistic Rollups:
+
+<img align="left" alt="Optimism" width="26px" src="https://avatars.githubusercontent.com/u/58791460?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://pbs.twimg.com/profile_images/1490751860461953029/046qIxwT_400x400.jpg" style="padding-right:10px;" />
 
 <br>
 <br>
 
-### L2 zkRoll-Ups:
+### L2 zkRollups:
+
+<img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
+<img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
+<img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Loopring" width="26px" src="https://avatars.githubusercontent.com/u/29633125?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
                                                                                                                        
 ### L2 Multichain:
 
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <br>
 <br>
 
-### Layer 2 Chain/zkRollups:
+### Quantum Resistant L2:
 <img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="LIGHTNING NETWORK" width="26px" src="https://play-lh.googleusercontent.com/GkMH88OHVBpRNUyUrsqzUTzwWL5dBOLrph9HqM6_TxknleqHKNuXYpdZgzuw05CzyJo=w480-h960" style="padding-right:10px;" />
-<img align="left" alt="Stacks" width="26px" src="https://pbs.twimg.com/profile_images/1333237438886465536/k-x3cpSU_400x400.png" style="padding-right:10px;" />
-<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+
+
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
 <img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon Hermez" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Mir" width="26px" src="https://mirprotocol.org/static/images/mir.svg" style="padding-right:10px;" />
-<img align="left" alt="Loopring" width="26px" src="https://avatars.githubusercontent.com/u/29633125?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
-<img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
-<img align="left" alt="Optimism" width="26px" src="https://avatars.githubusercontent.com/u/58791460?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Arbitrum" width="26px" src="https://pbs.twimg.com/profile_images/1490751860461953029/046qIxwT_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Boba" width="26px" src="https://avatars.githubusercontent.com/u/99369982?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="OMG" width="26px" src="https://avatars.githubusercontent.com/u/31544276?s=200&v=4" style="padding-right:10px;" />
+
 
 <br>
 <br>
