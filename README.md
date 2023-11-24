@@ -395,7 +395,7 @@
                                                                                                                        
 ### Testing:
 <img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />  
-<img align="left" alt="Vitest" width="26px" src=”https://avatars.githubusercontent.com/u/95747107?s=200&v=4” style="padding-right:10px;"/>  
+<img align="left" alt="Vitest" width="26px" src=”https://avatars.githubusercontent.com/u/95747107?s=200&v=4” style="padding-right:10px;" />  
 <img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />   
 <img align="left" alt="JUnit" width="26px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="padding-right:10px;" />
                                                                                                                        
