@@ -182,7 +182,6 @@
 <img align="left" alt="Tezos" width="26px" src="https://avatars.githubusercontent.com/u/21209817?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solana" width="26px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flow" width="26px" src="https://imgs.search.brave.com/zLnTwXpZaNy4YaQ1bW4BsXSvmbY1iGqWEZU7iV5aw5Y/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTgyMWVhODRj/YWRjNTllOWQxZTZm/YjdlZGY3MWEzZWVi/ODZjODk5YWM4MWRl/MjE0ZGU2ZWNkNDZh/ODY3MjgzNi93d3cu/Zmxvd3ZlcnNlLmNv/Lw" style="padding-right:10px;" />
-<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
 
 <br>
 <br>
