@@ -85,7 +85,7 @@
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatling" width="26px" src="https://avatars.githubusercontent.com/u/3863781?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Apache JMeter" width="26px" src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" style="padding-right:10px;" />
-
+<img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" style="padding-right:10px;" />
 <br>
 <br>
 <br>
@@ -245,7 +245,6 @@
                                                                                                                        
 ### EVM-Compatible Chain:
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="BNB" width="26px" src="https://imgs.search.brave.com/7uU1_Hu2l4gBPjT61kta05Auz7JpIOMYBTqVV1OvXqY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzQ1NjE1MDYz/P3M9MjAwJnY9NA" style="padding-right:10px;" />
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
 <img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
