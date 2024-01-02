@@ -1,4 +1,4 @@
-# I'm a Founder, Blockchain Security Auditor, Quantum Software Architect, & Undergraduate Senior
+# Quantum Fields & Foam
 
 ### Frontend:
 <img align="left" alt="XML" width="26px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" style="padding-right:10px;" />
