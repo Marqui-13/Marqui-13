@@ -247,9 +247,8 @@
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
-<img align="left" alt="Arbitrum" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/arbitrum/512.png" style="padding-right:10px;" />
-<img align="left" alt="Fantom" width="26px" src="https://bafybeigzgztdmt3qdt52wuhyrrvpqp5qt4t2uja23wmfhsccqt332ek7da.gateway.ipfscdn.io/fantom/512.png" style="padding-right:10px;" />
-<img align="left" alt="Klatyn" width="26px" src="https://bafkreigtgdivlmfvf7trqjqy4vkz2d26xk3iif6av265v4klu5qavsugm4.gateway.ipfscdn.io/" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png" style="padding-right:10px;" />
 <img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
 
 
@@ -315,7 +314,7 @@
 <br>                                    
 
 ### Web3 Security/Audit:
-<img align="left" alt="Solodit" width="26px" src="https://pbs.twimg.com/profile_images/1621926829362905091/InTeQjX2_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Solodit" width="26px" src="https://twitter.com/SoloditOfficial/photo" style="padding-right:10px;" />
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FairyProof" width="26px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe295fef9-f899-4367-b06d-360f388f19f2_213x213.png" style="padding-right:10px;" />
 <img align="left" alt="HackenProof" width="26px" src="https://avatars.githubusercontent.com/u/31184658?s=200&v=4" style="padding-right:10px;" />
@@ -337,7 +336,7 @@
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
-<img align="left" alt="Cloudera" width="26px" src="https://pbs.twimg.com/profile_images/1144624216098009089/CqhPfar4_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="Cloudera" width="26px" src="https://pbs.twimg.com/profile_images/1711369626989318144/HfxUEeWE_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="DeepMindAI" width="26px" src="https://avatars.githubusercontent.com/u/8596759?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="H2OAI" width="26px" src="https://avatars.githubusercontent.com/u/1402695?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Dataiku" width="26px" src="https://pbs.twimg.com/profile_images/1329055612857184263/EMaQ5kQ1_400x400.png" style="padding-right:10px;" />
