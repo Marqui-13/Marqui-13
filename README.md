@@ -314,7 +314,7 @@
 <br>                                    
 
 ### Web3 Security/Audit:
-<img align="left" alt="Solodit" width="26px" src="https://twitter.com/SoloditOfficial/photo" style="padding-right:10px;" />
+<img align="left" alt="Solodit" width="26px" src="https://avatars.githubusercontent.com/u/129466438?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FairyProof" width="26px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe295fef9-f899-4367-b06d-360f388f19f2_213x213.png" style="padding-right:10px;" />
 <img align="left" alt="HackenProof" width="26px" src="https://avatars.githubusercontent.com/u/31184658?s=200&v=4" style="padding-right:10px;" />
