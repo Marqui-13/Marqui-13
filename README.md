@@ -381,6 +381,7 @@
 <br>
                                                                                                                        
 ### Developer Environments:
+<img align="left" alt="Zed" width="26px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VSCodium" width="26px" src="https://vscodium.com/img/codium_cnl.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />    
