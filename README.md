@@ -84,7 +84,7 @@
 <img align="left" alt="Elixir" width="26px" src="https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatling" width="26px" src="https://avatars.githubusercontent.com/u/3863781?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Apache JMeter" width="26px" src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" style="padding-right:10px;" />
+<img align="left" alt="Apache JMeter" width="26px" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" style=”padding-right:10px; />
 <img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" style="padding-right:10px;" />
 <br>
 <br>
