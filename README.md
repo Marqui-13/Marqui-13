@@ -1,4 +1,4 @@
-# Seasoned Software Developer/Engineer
+# Hello, please explore and email me with any questions.
 
 ### Frontend:
 <img align="left" alt="XML" width="26px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" style="padding-right:10px;" />
