@@ -173,6 +173,7 @@
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Stacks" width="26px" src="https://avatars.githubusercontent.com/u/8165984?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Cardano" width="26px" src="https://avatars.githubusercontent.com/u/37078161?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Near" width="26px" src="https://avatars.githubusercontent.com/u/7613128?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Tezos" width="26px" src="https://avatars.githubusercontent.com/u/21209817?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solana" width="26px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" style="padding-right:10px;" />
@@ -183,8 +184,6 @@
                                                                                                                        
 ### Quantum Resistant L1:
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Cardano" width="26px" src="https://avatars.githubusercontent.com/u/37078161?s=200&v=4" style="padding-right:10px;" />
-
 
 <br>
 <br>
