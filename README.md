@@ -161,16 +161,20 @@
 <br>
 <br>
 
-### Layer 0 Chain: 
-<img align="left" alt="Cellframe" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
-<img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />
-
-<br>
-<br>                                                                                          
+### Layer 0:
+<img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />                                                                                         
 
 <br>
 <br>
                                                                                                                        
+### Quantum Resistant Layer 0:
+                                                                                                                       
+<img align="left" alt="Cellframe" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />                                                                                                                    
+                                                                                                                       
+<br>
+<br>
+
+
 ### L1:
 <img align="left" alt="Inery" width="26px" src="https://miro.medium.com/max/660/1*mkt2EPt8YDUH_10-hgx5yg.png" style="padding-right:10px;" />
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
