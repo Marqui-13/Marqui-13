@@ -51,6 +51,11 @@
 
 ### Multi-Paradigm Languages:
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src=”https://static.javatpoint.com/core/images/java-logo1.png” style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
@@ -75,11 +80,11 @@
 <img align="left" alt="Kotlin" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo-700x700.png" style="padding-right:10px;" />
 <img align="left" alt="Swift" width="26px" src="https://developer.apple.com/swift/favicon.ico" style="padding-right:10px;" />
 <img align="left" alt="Julia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arm64" width="26px" src="https://pbs.twimg.com/profile_images/892288373993361409/9jdJldY9_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Elixir" width="26px" src="https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png" style="padding-right:10px;" />
