@@ -168,15 +168,13 @@
 <br>
 <br>                                                                                          
 
-### L1 Sidechain:
-<img align="left" alt="Stacks" width="26px" src="https://avatars.githubusercontent.com/u/8165984?s=200&v=4" style="padding-right:10px;" />
-
 <br>
 <br>
                                                                                                                        
 ### L1:
 <img align="left" alt="Inery" width="26px" src="https://miro.medium.com/max/660/1*mkt2EPt8YDUH_10-hgx5yg.png" style="padding-right:10px;" />
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Stacks" width="26px" src="https://avatars.githubusercontent.com/u/8165984?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Near" width="26px" src="https://avatars.githubusercontent.com/u/7613128?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Tezos" width="26px" src="https://avatars.githubusercontent.com/u/21209817?s=200&v=4" style="padding-right:10px;" />
