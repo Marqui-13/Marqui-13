@@ -98,9 +98,9 @@
 ### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="tRPC" width="26px" src="https://imgs.search.brave.com/9iVSB_Chlmgwdhc7Z0OrEikBKXQ-xbJk8J3OgZr4li4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9k/YWQ0MWQ5ZjU3MTIy/MThiNzA5M2JjNzJm/YWI4ZTFjNzQ2OTMx/YTE3ZDRiOTE1YmM3/MjE2ZDJiODI3ZWE0/MjUwLzY4NzQ3NDcw/NzMzYTJmMmY2MTcz/NzM2NTc0NzMyZTc0/NzI3MDYzMmU2OTZm/MmY2OTYzNmY2ZTcz/MmY3Mzc2Njc3MzJm/NjI2Yzc1NjUyZDYy/NjcyZDcyNmY3NTZl/NjQ2NTY0MmU3Mzc2/Njc.jpeg />
-
-<img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="tRPC" width="26px" src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" />
+                                                                                                                       
+img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PolyHaven" width="26px" src="https://polyhaven.com/Logo%20256.png" style="padding-right:10px;" />
 <img align="left" alt="WebGiSDK" width="26px" src="https://webgi.xyz/img/logo.svg" style="padding-right:10px;" />
 
