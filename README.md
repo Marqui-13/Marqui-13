@@ -13,6 +13,7 @@
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 
@@ -22,6 +23,7 @@
 ### Backend/File Storage/Databases:
 <img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/10536621?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Filecoin" width="26px" src="https://avatars.githubusercontent.com/u/22014611?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
 <img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
@@ -51,53 +53,47 @@
 
 ### Multi-Paradigm Languages:
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Julia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo-700x700.png" style="padding-right:10px;" />
+<img align="left" alt="Swift" width="26px" src="https://developer.apple.com/swift/favicon.ico" style="padding-right:10px;" />
+
 
 <br>
 <br>
 
 ### Functional Languages:
+<img align="left" alt="Elixir" width="26px" src="https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png" style="padding-right:10px;" />
 
 <br>
 <br>
 
 ### Procedural Languages:
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
 
 ### Object Oriented Languages:
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
 
-### Web2 Languages/Libraries/Tools:
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kotlin" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo-700x700.png" style="padding-right:10px;" />
-<img align="left" alt="Swift" width="26px" src="https://developer.apple.com/swift/favicon.ico" style="padding-right:10px;" />
-<img align="left" alt="Julia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" style="padding-right:10px;" />
-
+### Libraries/Tools:
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Arm64" width="26px" src="https://pbs.twimg.com/profile_images/892288373993361409/9jdJldY9_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Elixir" width="26px" src="https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png" style="padding-right:10px;" />
-<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatling" width="26px" src="https://avatars.githubusercontent.com/u/3863781?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Apache JMeter" width="26px" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" style=”padding-right:10px; />
-<img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" style="padding-right:10px;" />
 <br>
 <br>
 <br>
 <br>
 
-### Web2 APIs/SDKs:
+### APIs/SDKs:
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
 
@@ -395,7 +391,8 @@
 <img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />   
 <img align="left" alt="JUnit" width="26px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Vitest" width="26px" src="https://avatars.githubusercontent.com/u/95747107?s=200&v=4" style="padding-right:10px;" />
-
+<img align="left" alt="Gatling" width="26px" src="https://avatars.githubusercontent.com/u/3863781?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Apache JMeter" width="26px" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" style=”padding-right:10px; />
                                                                                                                        
 <br>
 <br>
