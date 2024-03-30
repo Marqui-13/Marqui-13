@@ -53,7 +53,7 @@
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src=“https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png” style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src=“https://github.com/Marqui-13/Marqui-13/assets/98498681/a6d18be7-9d41-4a57-ab16-9ac0923a68af” style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
