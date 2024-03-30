@@ -50,6 +50,7 @@
 <br>
 
 ### Multi-Paradigm Languages:
+<img align="left" alt="Java" width="26px" src=“https://ibb.co/BzRd59g” style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
