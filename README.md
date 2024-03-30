@@ -96,11 +96,11 @@
 <br>
 
 ### APIs/SDKs:
+<img align="left" alt="tRPC" width="26px" src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" />
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="tRPC" width="26px" src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" />
                                                                                                                        
-img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PolyHaven" width="26px" src="https://polyhaven.com/Logo%20256.png" style="padding-right:10px;" />
 <img align="left" alt="WebGiSDK" width="26px" src="https://webgi.xyz/img/logo.svg" style="padding-right:10px;" />
 
