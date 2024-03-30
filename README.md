@@ -71,6 +71,7 @@
 <br>
 
 ### Functional Languages:
+<img align="left" alt="Haskell" width="26px" src="https://avatars.githubusercontent.com/u/450574?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Elixir" width="26px" src="https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png" style="padding-right:10px;" />
 
 <br>
