@@ -109,10 +109,9 @@
 
  
 ### Web3 Languages:
-<img align="left" alt="Clarity" width="26px" src="https://pbs.twimg.com/profile_images/1536377648888283136/5oV6fkSo_400x400.png" style="padding-right:10px;" />
-<img align="left" alt="Huff" width="26px" src="https://avatars.githubusercontent.com/u/106280846?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Huff" width="26px" src="https://avatars.githubusercontent.com/u/106280846?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ink!" width="26px" src="https://pbs.twimg.com/profile_images/1562309585481891840/4GYd9_Qw_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Cairo" width="26px" src="https://pbs.twimg.com/profile_images/1349629801531895809/HwhMQUBC_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
