@@ -37,6 +37,7 @@
 <br>
 
 ### Frameworks:
+<img align="left" alt="gRPC" width="26px" src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Parity Substrate" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://imgs.search.brave.com/23UHsv6aL95j_9BdsINyu4g9VML75tDWfqw2MOAxFIw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2QwOGNkOTJi/MzRmODcxMDA4ZTVk/YWQxYTQxYjEyMTM2/ZDI2NTM0YjUwMzRk/MGRmM2RlNjY4ZWFm/NWU3YzU5Ny9mbHV0/dGVyLmRldi8" style="padding-right:10px;" />
 <img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
