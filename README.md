@@ -111,6 +111,11 @@
 <br>
 <br>
 
+### Quantum Resistant Web3 Languages:
+![](IMG_7055.jpeg "")
+
+<br>
+<br>
  
 ### Web3 Languages:
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
