@@ -29,7 +29,13 @@
 <img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
 <img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="ExpressJS" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4” style="padding-right:10px;" />
-<img align="left" alt="TheGraph" width="26px" src="https://avatars.githubusercontent.com/u/38020273?s=200&v=4" style="padding-right:10px;" />
+
+
+<br>
+<br>
+                                                                                                                       
+### API Development:
+
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 
 <br>
@@ -58,6 +64,8 @@
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Deno" width="26px" src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4" style="padding-right:10px;" />
 
+<br>
+<br>
                                                                                                                        
 
 ### Multi-Paradigm Languages:
@@ -159,6 +167,7 @@
 <img align="left" alt="EigenPhi" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/417ef597-904f-4bff-940c-4e2bf5db5ad8" style="padding-right:10px;" />
 <img align="left" alt="SoftwareMansion(Protostar)" width="26px" src="https://github.com/software-mansion/protostar/blob/master/website/static/icon-512.png?raw=true" style="padding-right:10px;" />
 <img align="left" alt="WEVM(Viem/Wagmi)" width="26px" src="https://avatars.githubusercontent.com/u/109633172?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="TheGraph" width="26px" src="https://avatars.githubusercontent.com/u/38020273?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="EthersJSAPI" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
 <img align="left" alt="Web3JSAPI" width="26px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" style="padding-right:10px;" />
 <img align="left" alt="InfuraAPI" width="26px" src="https://imgs.search.brave.com/OpCP2--IvTQzaaTumt61pYfdILAEDV0n6HZOQwtNiGU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjliMjIyM2Ux/NmVhOTg4ZjZhNmIz/NWMyZWEwNjA3ZDAz/MWEwOTRlN2NiYzQ5/YTA2M2M3MDdkMDUz/YzEzMGE5MC9pbmZ1/cmEuaW8v" style="padding-right:10px;" />
