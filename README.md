@@ -160,7 +160,6 @@
 <img align="left" alt="Blockchain.comAPI" width="26px" src="https://pbs.twimg.com/profile_images/1268534114904391681/jXyihSx9_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="CoinMarketCapAPI" width="26px" src="https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8" style="padding-right:10px;" />
 <img align="left" alt="EtherScanAPI" width="26px" src="https://imgs.search.brave.com/iUh1wfuHNt8hyxRR039wipez8kIDPutYbbJF4LtHW80/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI4MmQzOTEz/MmFiMWExZjg3Nzdm/ZjIxNzkxNjdkMjBi/NDY2YTYwNjA0OWJk/NjZiOGRjYzc1NDMy/ZWM5NjNmOC9ldGhl/cnNjYW4uaW8v" style="padding-right:10px;" />
-<img align="left" alt="Fleek" width="26px" src="https://avatars.githubusercontent.com/u/43047399?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Mises" width="26px" src="https://play-lh.googleusercontent.com/kpsfGa5rdvPUPVgiyo3bN4G4TdRuf_YUtm5nK0MYEZlEUrgaptnOZ_K_m2IADFA1jQ=w480-h960" style="padding-right:10px;" />
 <img align="left" alt="Brave" width="26px" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" style="padding-right:10px;" />
 
@@ -412,6 +411,7 @@
 <br>
 
 ### Hosting:
+<img align="left" alt="Fleek" width="26px" src="https://avatars.githubusercontent.com/u/43047399?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="EthLimo" width="26px" src="https://pbs.twimg.com/profile_images/1447722983112462341/mRssPJLM_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="IPFS/IPNS" width="26px" src="https://imgs.search.brave.com/RBy-5QNLs-N41gftENPYt7EywL366VtxkJZ2ZFDvKqI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZjZWRlMWVh/NmQyMDVkMGQ1NDBk/MjM0NjNlZjhlMDRl/YzcwODE0NTYzZjRh/NzU1ODY0MGVlNjNl/NGY5MjY0Mi9kb2Nz/LmlwZnMuaW8v" style="padding-right:10px;" />     
 <img align="left" alt="ENS" width="26px" src="https://i.seadn.io/gae/0cOqWoYA7xL9CkUjGlxsjreSYBdrUBE0c6EO1COG4XE8UeP-Z30ckqUNiL872zHQHQU5MUNMNhfDpyXIP17hRSC5HQ?auto=format&w=384" style="padding-right:10px;" />     
