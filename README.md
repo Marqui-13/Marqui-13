@@ -65,6 +65,7 @@
 <img align="left" alt="Julia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo-700x700.png" style="padding-right:10px;" />
 <img align="left" alt="Swift" width="26px" src="https://developer.apple.com/swift/favicon.ico" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
 
 <br>
@@ -82,9 +83,6 @@
 
 <br>
 <br>
-
-### Object Oriented Languages:
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
