@@ -162,7 +162,7 @@
 <img align="left" alt="Scribble" width="26px" src="https://consensys.io/diligence/images/home/scribble.svg" style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Tenderly" width="26px" src="https://avatars.githubusercontent.com/u/43046621?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Foundry" width="26px" src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" style="padding-right:10px;" />
+<img align="left" alt="Foundry" width="26px" src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Truffle" width="26px" src="https://api.iconify.design/logos/truffle-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="EigenPhi" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/417ef597-904f-4bff-940c-4e2bf5db5ad8" style="padding-right:10px;" />
 <img align="left" alt="SoftwareMansion(Protostar)" width="26px" src="https://github.com/software-mansion/protostar/blob/master/website/static/icon-512.png?raw=true" style="padding-right:10px;" />
