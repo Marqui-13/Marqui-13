@@ -177,7 +177,8 @@
                                                                                                                        
 ### L0:
 
-<img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />                                                                                         
+<img align="left" alt="Cosmos" width="26px" src="https://avatars.githubusercontent.com/u/228843?s=200&v=4" style="padding-right:10px;" />                                                                                         
+<img align="left" alt="Polkadot" width="26px" src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=040" style="padding-right:10px;" />                                                                                         
 
 <br>
 <br>
