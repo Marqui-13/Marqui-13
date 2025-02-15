@@ -84,9 +84,6 @@
 <br>
 <br>
 
-<br>
-<br>
-
 ### Libraries/Tools:
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
@@ -172,9 +169,16 @@
                                                                                                                        
 ### Quantum Resistant Layer 0:
                                                                                                                      
-<img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />                                                                                         
 <img align="left" alt="Cellframe" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />                                                                                                                    
                                                                                                                        
+<br>
+<br>
+                                                                                                                       
+                                                                                                                       
+### L0:
+
+<img align="left" alt="Polkadot" width="26px" src="https://yt3.ggpht.com/_Uz-qyQjx_YLKzJpPBFO_l8jssp8ALYlL-FHjs3AkM05b-Rhkbh1n2l__E2HI-kldjGX4aK9AA=s88-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />                                                                                         
+
 <br>
 <br>
 
