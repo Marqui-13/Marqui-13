@@ -343,6 +343,8 @@
 <img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Loopring" width="26px" src="https://avatars.githubusercontent.com/u/29633125?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Polygon Hermez" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
@@ -359,9 +361,6 @@
 
 
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
-<img align="left" alt="Matter Labs" width="26px" src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Polygon Hermez" width="26px" src="https://avatars.githubusercontent.com/u/67473911?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Mir" width="26px" src="https://mirprotocol.org/static/images/mir.svg" style="padding-right:10px;" />
 
 
 <br>
