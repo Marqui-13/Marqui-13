@@ -1,6 +1,7 @@
 # Hello, please explore and email me with any questions.
 
-### Frontend:
+### Frontend Development:
+
 <img align="left" alt="XML" width="26px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -12,6 +13,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Threlte" width="26px" src="https://avatars.githubusercontent.com/u/108958965?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Poimandres" width="26px" src="https://avatars.githubusercontent.com/u/45790596?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -20,45 +23,127 @@
 <br>
 <br>
 
-### Backend/File Storage/Databases:
+### Backend Development:
 
-<img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/10536621?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Filecoin" width="26px" src="https://avatars.githubusercontent.com/u/22014611?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
-<img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ExpressJS" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4” style="padding-right:10px;" />
+<img align="left" alt="Fastify" width="26px" src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="NestJS" width="26px" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" style="padding-right:10px;" />
 
 
 <br>
 <br>
                                                                                                                        
-### API Development:
+### File System/Storage:
 
+- *Centralized*:
+
+<img align="left" alt="Google Cloud Storage" width="26px" src=https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg” style="padding-right:10px;" />
+<img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
+<img align="left" alt="Azure Blob Storage" width="26px" src=“https://www.svgrepo.com/show/448272/azure-blob-storage.svg” style="padding-right:10px;" />
+
+
+
+- *Decentralized*:
+
+<img align="left" alt="IPFS" width="26px" src="https://avatars.githubusercontent.com/u/10536621?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Filecoin" width="26px" src="https://avatars.githubusercontent.com/u/22014611?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Arweave" width="26px" src="https://avatars.githubusercontent.com/u/31965957?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Storj" width="26px" src="https://avatars.githubusercontent.com/u/6308081?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+<br>
+
+### Databases:
+
+- *Relational (SQL)*:
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4” style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" style="padding-right:10px;" />
+
+- *NoSQL*:
+
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
+<img align="left" alt="Apache Cassandra" width="26px" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4” style="padding-right:10px;" />  *Cassandra*
+<img align="left" alt="Neo4j" width="26px" src=“https://avatars.githubusercontent.com/u/201120?s=200&v=4” style="padding-right:10px;" />
+
+- *Decentralized*:
+
+<img align="left" alt="GunJS" width="26px" src=”https://avatars.githubusercontent.com/u/8811914?s=200&v=4” style="padding-right:10px;" />
+<img align="left" alt="BigChainDB" width="26px" src="https://avatars.githubusercontent.com/u/17097586?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Bluzelle" width="26px" src=“https://avatars.githubusercontent.com/u/23650344?s=200&v=4” style="padding-right:10px;" />
+<img align="left" alt="CovenantSQL" width="26px" src=”https://avatars.githubusercontent.com/u/38064281?s=200&v=4” style="padding-right:10px;" />
+
+<br>
+<br>
+                                                                                                                       
+### API Development/Frameworks/Architectures:
+
+<img align="left" alt="ExpressJS" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4” style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-
-<br>
-<br>
-
-### Frameworks:
 <img align="left" alt="gRPC" width="26px" src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Parity Substrate" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="https://imgs.search.brave.com/23UHsv6aL95j_9BdsINyu4g9VML75tDWfqw2MOAxFIw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2QwOGNkOTJi/MzRmODcxMDA4ZTVk/YWQxYTQxYjEyMTM2/ZDI2NTM0YjUwMzRk/MGRmM2RlNjY4ZWFm/NWU3YzU5Ny9mbHV0/dGVyLmRldi8" style="padding-right:10px;" />
-<img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NativeScript" width="26px" src="https://api.iconify.design/logos/nativescript.svg" style="padding-right:10px;" />
-<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Nuxt" width="26px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Websockets" width="26px" src="https://avatars.githubusercontent.com/u/10721323?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+<br>
+
+### Frontend/UI Frameworks:
+
 <img align="left" alt="Vue" width="26px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt=".NET" width="26px" src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Blazor" width="26px" src=”https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" style="padding-right:10px;" />
+
+
+<br>
+<br>
+                                                                                                                       
+### Backend/Server-side Frameworks:
+
+<img align="left" alt="Nest" width="26px" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" style="padding-right:10px;" />                                                                                                                      
 <img align="left" alt="Spring" width="26px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
+
+### Full-Stack Frameworks:
+
+<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nuxt" width="26px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt=".NET" width="26px" src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" style="padding-right:10px;" />
                                                                                                                        
+<br>
+<br>
+
+### Mobile App Frameworks:
+
+<img align="left" alt="Flutter" width="26px" src="https://imgs.search.brave.com/23UHsv6aL95j_9BdsINyu4g9VML75tDWfqw2MOAxFIw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2QwOGNkOTJi/MzRmODcxMDA4ZTVk/YWQxYTQxYjEyMTM2/ZDI2NTM0YjUwMzRk/MGRmM2RlNjY4ZWFm/NWU3YzU5Ny9mbHV0/dGVyLmRldi8" style="padding-right:10px;" />
+<img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NativeScript" width="26px" src="https://api.iconify.design/logos/nativescript.svg" style="padding-right:10px;" />
+ 
+                                                                                                                      
+<br>
+<br>
+                                                                                                                       
+### RPC/Communication Frameworks:
+
+<img align="left" alt="gRPC" width="26px" src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+<br>
+                                                                                                                       
+### Blockchain Frameworks:
+<img align="left" alt="Parity" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
+
+                                                                                                                       
+<br>
+<br>
+
 ### Runtime Environments:
 
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
@@ -69,6 +154,7 @@
                                                                                                                        
 
 ### Multi-Paradigm Languages:
+
 <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -85,6 +171,7 @@
 <br>
 
 ### Functional Languages:
+
 <img align="left" alt="Haskell" width="26px" src="https://avatars.githubusercontent.com/u/450574?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Elixir" width="26px" src="https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png" style="padding-right:10px;" />
 
@@ -92,12 +179,14 @@
 <br>
 
 ### Procedural Languages:
+
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
 
 ### Libraries/Tools:
+
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
@@ -108,6 +197,7 @@
 <br>
 
 ### APIs/SDKs:
+
 <img align="left" alt="tRPC" width="26px" src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" />
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
@@ -122,12 +212,14 @@
 <br>
 
 ### Quantum Resistant Web3 Languages:
+
 ![](IMG_7055.jpeg "")
 
 <br>
 <br>
  
 ### Web3 Languages:
+
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Huff" width="26px" src="https://avatars.githubusercontent.com/u/106280846?s=200&v=4" style="padding-right:10px;" />
@@ -143,6 +235,7 @@
 <br>
 
 ### Web3 APIs/SDKs:
+
 <img align="left" alt="ThirdwebSDK" width="26px" src="https://consensys.io/diligence/images/home/mythx.svg" style="padding-right:10px;" />
 <img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" style="padding-right:10px;" />
 <img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" style="padding-right:10px;" />
@@ -158,6 +251,7 @@
 <br>
 
 ### Web3 Tools/Libraries:
+
 <img align="left" alt="Artemis" width="26px" src="https://pbs.twimg.com/profile_images/1668776206966353921/1HYfbh79_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scribble" width="26px" src="https://consensys.io/diligence/images/home/scribble.svg" style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
@@ -197,6 +291,7 @@
 <br>
 
 ### L1:
+
 <img align="left" alt="Inery" width="26px" src="https://miro.medium.com/max/660/1*mkt2EPt8YDUH_10-hgx5yg.png" style="padding-right:10px;" />
 <img align="left" alt="Bitcoin" width="26px" src="https://avatars.githubusercontent.com/u/528860?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Stacks" width="26px" src="https://avatars.githubusercontent.com/u/8165984?s=200&v=4" style="padding-right:10px;" />
@@ -211,6 +306,7 @@
 <br>
                                                                                                                        
 ### Quantum Resistant L1:
+
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
 
 <br>
@@ -251,6 +347,7 @@
 <br>
 
 ### Quantum Resistant L2:
+
 <img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 
 
@@ -266,6 +363,7 @@
                                                                                                                        
                                                                                                                        
 ### EVM-Compatible Chain:
+
 <img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
@@ -279,6 +377,7 @@
 <br>
 
 ### DEXs/AMMs/LPs:
+
 <img align="left" alt="UniSwap" width="26px" src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PancakeSwap" width="26px" src="https://avatars.githubusercontent.com/u/71247426?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="SushiSwap" width="26px" src="https://avatars.githubusercontent.com/u/72222929?s=200&v=4" style="padding-right:10px;" />
@@ -296,6 +395,7 @@
 
 
 ### NFTs:
+
 <img align="left" alt="Rarible" width="26px" src="https://avatars.githubusercontent.com/u/64412063?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenSea" width="26px" src="https://avatars.githubusercontent.com/u/34966464?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="SoRare" width="26px" src="https://avatars.githubusercontent.com/u/40692736?s=200&v=4" style="padding-right:10px;" />
@@ -304,6 +404,7 @@
 <br>
 
 ### Web3 Wallets/Multi-Sig:
+
 <img align="left" alt="QRL" width="26px" src="https://play-lh.googleusercontent.com/0-liWu0rtmyxMufLgE0Qs1Y-0Navxdyuu48TiKNNxgYEfi1nJyXI3lIIOFX0hZKMRA=w240-h480-rw" style="padding-right:10px;" />
 <img align="left" alt="QChain QNode" width="26px" src="https://play-lh.googleusercontent.com/J4NwFHavpZznDqKX7pp13DRs8VDGtoV0lgLw9RJnZGKVQNENMljMgrkkwTh43nHyng=w240-h480-rw" style="padding-right:10px;" />
 <img align="left" alt="MetaMask" width="26px" src="https://avatars.githubusercontent.com/u/11744586?s=200&v=4" style="padding-right:10px;" />
@@ -329,6 +430,7 @@
 <br>  
 
 ### Web3 Governance/DAOs:
+
 <img align="left" alt="AllianceDAO" width="26px" src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/udrao3pdgxpx47letgnn" style="padding-right:10px;" />
 <img align="left" alt="API3DAO" width="26px" src="https://avatars.githubusercontent.com/u/69474416?s=200&v=4" style="padding-right:10px;" />
 
@@ -336,6 +438,7 @@
 <br>                                    
 
 ### Web3 Security/Audit:
+
 <img align="left" alt="Solodit" width="26px" src="https://avatars.githubusercontent.com/u/129466438?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FairyProof" width="26px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe295fef9-f899-4367-b06d-360f388f19f2_213x213.png" style="padding-right:10px;" />
@@ -355,6 +458,7 @@
 <br>
 
 ### AI/ML/DL/RL:
+
 <img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
@@ -375,6 +479,7 @@
 <br>
                                                                                   
 ### Quantum Languages/Libraries/Tools:
+
 <img align="left" alt="Quantum Resistance Corporation" width="26px" src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/a3e747483342416180da48dc63b2fa72.jpeg" style="padding-right:10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
@@ -394,6 +499,7 @@
 <br>
 
 ### Quantum APIs/SDKs:
+
 <img align="left" alt="QRLAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="xxSDK" width="26px" src="https://gitlab.com/uploads/-/system/group/avatar/2032238/Mixxchain_Logo_Icon-01.png?width=64" style="padding-right:10px;" />
 <img align="left" alt="CELLFRAME" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
@@ -402,6 +508,7 @@
 <br>
                                                                                                                        
 ### Developer Environments:
+
 <img align="left" alt="Zed" width="26px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VSCodium" width="26px" src="https://vscodium.com/img/codium_cnl.svg" style="padding-right:10px;" />
@@ -414,6 +521,7 @@
 <br><br>
                                                                                                                        
 ### Testing:
+
 <img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />  
 <img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />   
 <img align="left" alt="JUnit" width="26px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="padding-right:10px;" />
@@ -425,6 +533,7 @@
 <br>
 
 ### Hosting:
+
 <img align="left" alt="Fleek" width="26px" src="https://avatars.githubusercontent.com/u/43047399?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="EthLimo" width="26px" src="https://avatars.githubusercontent.com/u/102830586?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="IPFS/IPNS" width="26px" src="https://imgs.search.brave.com/RBy-5QNLs-N41gftENPYt7EywL366VtxkJZ2ZFDvKqI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZjZWRlMWVh/NmQyMDVkMGQ1NDBk/MjM0NjNlZjhlMDRl/YzcwODE0NTYzZjRh/NzU1ODY0MGVlNjNl/NGY5MjY0Mi9kb2Nz/LmlwZnMuaW8v" style="padding-right:10px;" />     
