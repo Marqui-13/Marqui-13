@@ -59,7 +59,7 @@
 
 ### Databases:
 
-- Relational (SQL):
+- *Relational (SQL)*:
 
 <img align="left" alt="MySQL" width="26px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4” style="padding-right:10px;" />
@@ -67,7 +67,7 @@
 <br>
 <br>
                                                                                                                        
-- NoSQL:
+- *NoSQL*:
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
@@ -77,7 +77,7 @@
 <br>
 <br>
 
-- Decentralized:
+- *Decentralized*:
 
 <img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="BigChainDB" width="26px" src="https://avatars.githubusercontent.com/u/17097586?s=200&v=4" style="padding-right:10px;" />
