@@ -59,6 +59,14 @@
 
 ### Databases:
 
+- Decentralized:
+
+<img align="left" alt="GunJS" width="26px" src=”https://avatars.githubusercontent.com/u/8811914?s=200&v=4” style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="26px" src="" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4” style="padding-right:10px;" />
+
+
 - Relational (SQL):
 
 <img align="left" alt="MySQL" width="26px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" style="padding-right:10px;" />
