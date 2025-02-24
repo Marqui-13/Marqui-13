@@ -61,7 +61,6 @@
 
 - Relational (SQL):
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4” style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" style="padding-right:10px;" />
 
 <br>
