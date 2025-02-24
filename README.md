@@ -44,7 +44,8 @@
 <img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
 <img align="left" alt="Azure Blob Storage" width="26px" src=“https://www.svgrepo.com/show/448272/azure-blob-storage.svg” style="padding-right:10px;" />
 
-
+<br>
+<br>
 
 - *Decentralized*:
 
@@ -58,10 +59,12 @@
 
 ### Databases:
 
-- *Relational (SQL)*:
+- Relational (SQL):
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4” style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" style="padding-right:10px;" />
+
+<br>
 
 - *NoSQL*:
 
@@ -69,6 +72,8 @@
 <img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="Apache Cassandra" width="26px" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4” style="padding-right:10px;" />  *Cassandra*
 <img align="left" alt="Neo4j" width="26px" src=“https://avatars.githubusercontent.com/u/201120?s=200&v=4” style="padding-right:10px;" />
+
+<br>
 
 - *Decentralized*:
 
