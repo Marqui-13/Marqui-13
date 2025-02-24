@@ -75,6 +75,7 @@
 <img align="left" alt="Neo4j" width="26px" src=“https://avatars.githubusercontent.com/u/201120?s=200&v=4” style="padding-right:10px;" />
 
 <br>
+<br>
 
 - Decentralized:
 
