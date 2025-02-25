@@ -42,8 +42,9 @@
 
 <img align="left" alt="Google Cloud Storage" width="26px" src=https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg” style="padding-right:10px;" />
 <img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
+<!--
 <img align="left" alt="Azure Blob Storage" width="26px" src=“https://www.svgrepo.com/show/448272/azure-blob-storage.svg” style="padding-right:10px;" />
-
+-->
 <br>
 <br>
 
@@ -207,7 +208,7 @@
 
 ### APIs/SDKs:
 
-<img align="left" alt="tRPC" width="26px" src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" />
+<img align="left" alt="tRPC" width="26px" src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
                                                                                                                        
