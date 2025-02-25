@@ -448,7 +448,7 @@
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FairyProof" width="26px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe295fef9-f899-4367-b06d-360f388f19f2_213x213.png" style="padding-right:10px;" />
 <img align="left" alt="HackenProof" width="26px" src="https://avatars.githubusercontent.com/u/31184658?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Guardian Audits" width="26px" src="https://pbs.twimg.com/profile_images/1502699438560661504/zdMk51_t_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Guardian Audits" width="26px" src="https://avatars.githubusercontent.com/u/101481663?v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenZepplin" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Cyfrin" width="26px" src="https://avatars.githubusercontent.com/u/66713957?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="CodeHawks" width="26px" src="https://solodit.xyz/static/media/logos/codehawks.png" style="padding-right:10px;" />
@@ -464,10 +464,10 @@
 
 ### AI/ML/DL/RL:
 
-<img align="left" alt="RunwayML" width="26px" src="https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="RunwayML" width="26px" src="https://avatars.githubusercontent.com/u/37351293?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
-<img align="left" alt="Cloudera" width="26px" src="https://pbs.twimg.com/profile_images/1711369626989318144/HfxUEeWE_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="Cloudera" width="26px" src="https://avatars.githubusercontent.com/u/9002716?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="DeepMindAI" width="26px" src="https://avatars.githubusercontent.com/u/8596759?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="H2OAI" width="26px" src="https://avatars.githubusercontent.com/u/1402695?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Dataiku" width="26px" src="https://pbs.twimg.com/profile_images/1329055612857184263/EMaQ5kQ1_400x400.png" style="padding-right:10px;" />
