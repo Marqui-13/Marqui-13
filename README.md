@@ -358,8 +358,7 @@
 ### Quantum Resistant L2:
 
 <img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
-
-
+<img align="left" alt="Polygon Miden" width="26px" src="https://avatars.githubusercontent.com/u/114251928?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
 
 
