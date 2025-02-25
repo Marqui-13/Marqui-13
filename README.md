@@ -40,7 +40,7 @@
 
 - *Centralized*:
 
-<img align="left" alt="Google Cloud Storage" width="26px" src=https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg” style="padding-right:10px;" />
+<img align="left" alt="Google Cloud Storage" width="26px" src="https://imgs.search.brave.com/R-cLgtzzp5LTtPOcmLNiRUvLQwGSGXQ3uvYW7hHau2I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2RmL0dv/b2dsZV9DbG91ZF9z/dG9yYWdlLnN2Zy8y/MjBweC1Hb29nbGVf/Q2xvdWRfc3RvcmFn/ZS5zdmcucG5n" style="padding-right:10px;" />
 <img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
 <!--
 <img align="left" alt="Azure Blob Storage" width="26px" src=“https://www.svgrepo.com/show/448272/azure-blob-storage.svg” style="padding-right:10px;" />
