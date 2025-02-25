@@ -498,7 +498,7 @@
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
 <img align="left" alt="Quil" width="26px" src="https://avatars.githubusercontent.com/u/63431513?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           
-<img align="left" alt="Penny Lane" width="26px" src="https://pennylane.ai/img/logo.png" style="padding-right:10px;" />
+<img align="left" alt="PennyLaneAI" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
