@@ -107,7 +107,7 @@
 <img align="left" alt="Vue" width="26px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Blazor" width="26px" src=”https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" style="padding-right:10px;" />
+<img align="left" alt="Blazor" width="26px" src="https://imgs.search.brave.com/6v_sUnc2wegMZ3dyKJGH6qMYVJ6uYIL-orBzGHTtQMY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdmdt/aXguY29tL3VwbG9h/ZHMvYzY5NjRhLWJs/YXpvci5zdmc" style="padding-right:10px;" />
 
 
 <br>
