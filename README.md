@@ -94,6 +94,7 @@
 ### API Development/Frameworks/Architectures:
 
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="tRPC" width="26px" src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="gRPC" width="26px" src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Websockets" width="26px" src="https://avatars.githubusercontent.com/u/10721323?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="ExpressJS" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4” style="padding-right:10px;" />
@@ -208,7 +209,6 @@
 
 ### APIs/SDKs:
 
-<img align="left" alt="tRPC" width="26px" src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
                                                                                                                        
