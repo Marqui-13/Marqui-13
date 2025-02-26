@@ -154,8 +154,9 @@
                                                                                                                        
 ### Blockchain Frameworks:
 <img align="left" alt="Parity" width="26px" src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Exonum" width="26px" src="https://avatars.githubusercontent.com/u/23138442?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Hyperledger Fabric" width="26px" src="https://hyperledger-fabric.readthedocs.io/en/release-2.5/_images/hyperledger_fabric_logo_color.png" style="padding-right:10px;" />
 
-                                                                                                                       
 <br>
 <br>
 
