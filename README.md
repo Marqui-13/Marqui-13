@@ -62,14 +62,15 @@
 
 - *zk*:
 
-<img align="left" alt="Orochi Network" width="26px" src=“https://avatars.githubusercontent.com/u/94106298?s=200&v=4” style="padding-right:10px;" />
+<img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/94106298?s=200&v=4%E2%80%9D" style="padding-right:10px;" />
 
 - *Decentralized*:
 
 <img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="BigChainDB" width="26px" src="https://avatars.githubusercontent.com/u/17097586?s=200&v=4" style="padding-right:10px;" />
 
-<!--
+<!—-
 <img align="left" alt="GunJS" width="26px" src=”https://avatars.githubusercontent.com/u/8811914?s=200&v=4” style="padding-right:10px;"/>
 <img align="left" alt="CovenantSQL" width="26px" src=”https://avatars.githubusercontent.com/u/38064281?s=200&v=4” style="padding-right:10px;" />
 <img align="left" alt="Bluzelle" width="26px" src=“https://avatars.githubusercontent.com/u/23650344?s=200&v=4” style="padding-right:10px;" />
