@@ -60,6 +60,23 @@
 
 ### Databases:
 
+- *zk*:
+
+<img align="left" alt="Orochi Network" width="26px" src=“https://avatars.githubusercontent.com/u/94106298?s=200&v=4” style="padding-right:10px;" />
+
+- *Decentralized*:
+
+<img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BigChainDB" width="26px" src="https://avatars.githubusercontent.com/u/17097586?s=200&v=4" style="padding-right:10px;" />
+
+<!--
+<img align="left" alt="GunJS" width="26px" src=”https://avatars.githubusercontent.com/u/8811914?s=200&v=4” style="padding-right:10px;"/>
+<img align="left" alt="CovenantSQL" width="26px" src=”https://avatars.githubusercontent.com/u/38064281?s=200&v=4” style="padding-right:10px;" />
+<img align="left" alt="Bluzelle" width="26px" src=“https://avatars.githubusercontent.com/u/23650344?s=200&v=4” style="padding-right:10px;" />
+-->
+<br>
+<br>
+
 - *Relational (SQL)*:
 
 <img align="left" alt="MySQL" width="26px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" style="padding-right:10px;" />
@@ -75,18 +92,6 @@
 <img align="left" alt="Apache Cassandra" width="26px" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4” style="padding-right:10px;" />
 <!--
 <img align="left" alt="Neo4j" width="26px" src=“https://avatars.githubusercontent.com/u/201120?s=200&v=4” style="padding-right:10px;" />
--->
-<br>
-<br>
-
-- *Decentralized*:
-
-<img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="BigChainDB" width="26px" src="https://avatars.githubusercontent.com/u/17097586?s=200&v=4" style="padding-right:10px;" />
-<!--
-<img align="left" alt="GunJS" width="26px" src=”https://avatars.githubusercontent.com/u/8811914?s=200&v=4” style="padding-right:10px;"/>
-<img align="left" alt="CovenantSQL" width="26px" src=”https://avatars.githubusercontent.com/u/38064281?s=200&v=4” style="padding-right:10px;" />
-<img align="left" alt="Bluzelle" width="26px" src=“https://avatars.githubusercontent.com/u/23650344?s=200&v=4” style="padding-right:10px;" />
 -->
 <br>
 <br>
