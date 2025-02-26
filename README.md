@@ -462,7 +462,6 @@
 <img align="left" alt="Guardian Audits" width="26px" src="https://avatars.githubusercontent.com/u/101481663?v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenZepplin" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Cyfrin" width="26px" src="https://avatars.githubusercontent.com/u/66713957?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="CodeHawks" width="26px" src="https://solodit.xyz/static/media/logos/codehawks.png" style="padding-right:10px;" />
 <img align="left" alt="Immunefi" width="26px" src="https://avatars.githubusercontent.com/u/78231547?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Spearbit" width="26px" src="https://avatars.githubusercontent.com/u/86859471?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="SigmaPrime" width="26px" src="https://avatars.githubusercontent.com/u/22672004?s=200&v=4" style="padding-right:10px;" />
