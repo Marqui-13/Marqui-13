@@ -228,7 +228,7 @@
 ### zk Domain Specific Languages:
 
 
-<img align="left" alt="Keelung" width="26px" src="https://github.com/user-attachments/assets/cf69d9d1-5d72-48fe-8547-497dcb22ca61" style="padding-right:10px;" />
+<img align="left" alt="Keelung" width="26px" height=”30px” src="https://github.com/user-attachments/assets/cf69d9d1-5d72-48fe-8547-497dcb22ca61" style="padding-right:10px;" />
 <img align="left" alt="Cairo" width="26px" src="https://raw.githubusercontent.com/starkware-libs/cairo/refs/heads/main/resources/img/cairo-logo-square.png" style="padding-right:10px;" />
 <img align="left" alt="Noir" width="26px" src="https://github.com/user-attachments/assets/c750416b-0071-4850-9613-604287694b6a" style="padding-right:10px;" />
 <img align="left" alt="Leo" width="26px" src="https://github.com/user-attachments/assets/59613131-fc8a-49e9-a741-0d02fe0f7927" style="padding-right:10px;" />
