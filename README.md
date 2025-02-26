@@ -242,7 +242,6 @@
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Huff" width="26px" src="https://avatars.githubusercontent.com/u/106280846?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Ink!" width="26px" src="https://pbs.twimg.com/profile_images/1562309585481891840/4GYd9_Qw_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Cairo" width="26px" src="https://pbs.twimg.com/profile_images/1349629801531895809/HwhMQUBC_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
 
