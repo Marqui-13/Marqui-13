@@ -221,7 +221,7 @@
 <br>
 <br>
 
-### Quantum Resistant Web3 Languages:
+### zk Domain Specific Languages:
 
 ![](IMG_7055.jpeg "")
 
