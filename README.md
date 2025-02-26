@@ -42,9 +42,8 @@
 
 <img align="left" alt="Google Cloud Storage" width="26px" src="https://imgs.search.brave.com/R-cLgtzzp5LTtPOcmLNiRUvLQwGSGXQ3uvYW7hHau2I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2RmL0dv/b2dsZV9DbG91ZF9z/dG9yYWdlLnN2Zy8y/MjBweC1Hb29nbGVf/Q2xvdWRfc3RvcmFn/ZS5zdmcucG5n" style="padding-right:10px;" />
 <img align="left" alt="Amazon S3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" style="padding-right:10px;" />
-<!--
-<img align="left" alt="Azure Blob Storage" width="26px" src=“https://www.svgrepo.com/show/448272/azure-blob-storage.svg” style="padding-right:10px;" />
--->
+<img align="left" alt="Azure Blob" width="26px" src="https://www.svgrepo.com/show/448272/azure-blob-storage.svg" style="padding-right:10px;" />
+
 <br>
 <br>
 
@@ -62,19 +61,19 @@
 
 - *zk*:
 
-<img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/94106298?s=200&v=4%E2%80%9D" style="padding-right:10px;" />
+<img align="left" alt="Orochi Network" width="26px" src="https://avatars.githubusercontent.com/u/94106298?s=200&v=4%E2%80%9D" style="padding-right:10px;" />
+
+<br>
+<br>
 
 - *Decentralized*:
 
 <img align="left" alt="OrbitDB" width="26px" src="https://avatars.githubusercontent.com/u/25079463?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="BigChainDB" width="26px" src="https://avatars.githubusercontent.com/u/17097586?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="GunJS" width="26px" src="https://avatars.githubusercontent.com/u/8811914?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="CovenantSQL" width="26px" src="https://avatars.githubusercontent.com/u/38064281?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Bluzelle" width="26px" src="https://avatars.githubusercontent.com/u/23650344?s=200&v=4" style="padding-right:10px;" />
 
-<!—-
-<img align="left" alt="GunJS" width="26px" src=”https://avatars.githubusercontent.com/u/8811914?s=200&v=4” style="padding-right:10px;"/>
-<img align="left" alt="CovenantSQL" width="26px" src=”https://avatars.githubusercontent.com/u/38064281?s=200&v=4” style="padding-right:10px;" />
-<img align="left" alt="Bluzelle" width="26px" src=“https://avatars.githubusercontent.com/u/23650344?s=200&v=4” style="padding-right:10px;" />
--->
 <br>
 <br>
 
@@ -90,10 +89,9 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Reddis" width="26px" src="https://imgs.search.brave.com/rQEfFl0zl0BWJdn1ybQpBEUoqxlt1JWqJkq4UAvPFSU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC43/X2RMS3lTandkcjFr/SEVrWTBDS2pBSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />
+<img align="left" alt="Neo4j" width="26px" src="https://avatars.githubusercontent.com/u/201120?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Apache Cassandra" width="26px" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4” style="padding-right:10px;" />
-<!--
-<img align="left" alt="Neo4j" width="26px" src=“https://avatars.githubusercontent.com/u/201120?s=200&v=4” style="padding-right:10px;" />
--->
+
 <br>
 <br>
                                                                                                                        
