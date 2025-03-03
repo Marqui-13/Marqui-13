@@ -507,10 +507,11 @@
 ### Quantum Libraries/Tools:
                                                                                                                        
                                                                                                                        
+<br>
+<br>
 
 ### Quantum APIs/SDKs:
 
-<img align="left" alt="Quantum Resistance Corporation" width="26px" src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/a3e747483342416180da48dc63b2fa72.jpeg" style="padding-right:10px;" />
 <img align="left" alt="QRLAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="xxSDK" width="26px" src="https://gitlab.com/uploads/-/system/group/avatar/2032238/Mixxchain_Logo_Icon-01.png?width=64" style="padding-right:10px;" />
 <img align="left" alt="CELLFRAME" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
@@ -527,11 +528,13 @@
                                                                                                                        
 ### Quantum Computing Frameworks:
 
-<img align="left" alt="PennyLaneAI" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PennyLane" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />  
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
 <img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" style="padding-right:10px;" />
 
+<br>
+<br>
                                                                                                                        
 ### Developer Environments:
 
@@ -544,7 +547,8 @@
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
                                                                                                                        
-<br><br>
+<br>
+<br>
                                                                                                                        
 ### Testing:
 
