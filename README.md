@@ -350,8 +350,6 @@
 
 ### L2 zkRollups:
 
-<img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
-<img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
 <img align="left" alt="zkSpace" width="26px" src="https://avatars.githubusercontent.com/u/71630873?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Aztec" width="26px" src="https://avatars.githubusercontent.com/u/45291733?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Loopring" width="26px" src="https://avatars.githubusercontent.com/u/29633125?s=200&v=4" style="padding-right:10px;" />
@@ -371,6 +369,8 @@
 
 <img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon Miden" width="26px" src="https://avatars.githubusercontent.com/u/114251928?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
+<img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
 
 
@@ -494,34 +494,44 @@
 <br>
 <br>
                                                                                   
-### Quantum Languages/Libraries/Tools:
+### Quantum Languages:
 
-<img align="left" alt="Quantum Resistance Corporation" width="26px" src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/a3e747483342416180da48dc63b2fa72.jpeg" style="padding-right:10px;" />
-<img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
-<img align="left" alt="D-Wave" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" style="padding-right:10px;" />
-<img align="left" alt="QuEra" width="26px" src="https://avatars.githubusercontent.com/u/102835961?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="IonQ" width="26px" src="https://avatars.githubusercontent.com/u/25356822?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Azure Quantum" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />                                                                                                            
-<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />   
-<img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
+<img align="left" alt="Qrisp" width="26px" src="https://avatars.githubusercontent.com/u/147840338?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
 <img align="left" alt="Quil" width="26px" src="https://avatars.githubusercontent.com/u/63431513?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           
-<img align="left" alt="PennyLaneAI" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
+                                                                                                                       
+### Quantum Libraries/Tools:
+                                                                                                                       
+                                                                                                                       
 
 ### Quantum APIs/SDKs:
 
+<img align="left" alt="Quantum Resistance Corporation" width="26px" src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/a3e747483342416180da48dc63b2fa72.jpeg" style="padding-right:10px;" />
 <img align="left" alt="QRLAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="xxSDK" width="26px" src="https://gitlab.com/uploads/-/system/group/avatar/2032238/Mixxchain_Logo_Icon-01.png?width=64" style="padding-right:10px;" />
 <img align="left" alt="CELLFRAME" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
 <img align="left" alt="INTEL" width="26px" src="https://pbs.twimg.com/profile_images/1301199561713541120/7dPeX1gK_400x400.png" style="padding-right: 10px;" />
+<img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
+<img align="left" alt="D-Wave" width="26px" src="https://avatars.githubusercontent.com/u/5449030?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="QuEra" width="26px" src="https://avatars.githubusercontent.com/u/102835961?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="IonQ" width="26px" src="https://avatars.githubusercontent.com/u/25356822?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Azure Quantum" width="26px" src="https://imgs.search.brave.com/T5ZA4L4foV0nl4h_OcYAjjrP2FSi-muewe3wh0rxPdQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI0MDBkOThm/OGNhMWU0MDYwZGYy/YmRhNjc3YThkYWFj/MDVhZjUxNGRmYjNj/ZWRiMTMwNzRiYTNm/MDc3Zjg5NS9henVy/ZS5taWNyb3NvZnQu/Y29tLw" style="padding-right:10px;" />                                                                                                            
+
 <br>
 <br>
+                                                                                                                       
+### Quantum Computing Frameworks:
+
+<img align="left" alt="PennyLaneAI" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />  
+<img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
+<img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" style="padding-right:10px;" />
+
                                                                                                                        
 ### Developer Environments:
 
