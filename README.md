@@ -13,6 +13,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ThreeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ThreeJS" width="26px" src="https://avatars.githubusercontent.com/u/119253150?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Threlte" width="26px" src="https://avatars.githubusercontent.com/u/108958965?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Poimandres" width="26px" src="https://avatars.githubusercontent.com/u/45790596?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
