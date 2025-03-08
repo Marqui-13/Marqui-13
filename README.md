@@ -583,13 +583,32 @@
                                                                                                                        
 ### Testing:
 
+- *Unit/Integration Testing*:
+
 <img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos/jest.svg" style="padding-right:10px;" />  
-<img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />   
-<img align="left" alt="JUnit" width="26px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Vitest" width="26px" src="https://avatars.githubusercontent.com/u/95747107?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Mocha" width="26px" src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" style="padding-right:10px;" />   
+<img align="left" alt="Chai" width="26px" src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4" style="padding-right:10px;" />   
+<img align="left" alt="Jasmine" width="26px" src="https://avatars.githubusercontent.com/u/4624349?s=200&v=4" style="padding-right:10px;" />   
+<img align="left" alt="JUnit" width="26px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="padding-right:10px;" />
+
+
+<br>
+                                                                                                                       
+- *E2E Testing*:
+
+<img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />   
+<img align="left" alt="Selenium" width="26px" src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+
+- *Performance/Load Testing*:
+
 <img align="left" alt="Gatling" width="26px" src="https://avatars.githubusercontent.com/u/3863781?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Apache JMeter" width="26px" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" style=”padding-right:10px; />
-                                                                                                                       
+<img align="left" alt="Locust" width="26px" src="https://raw.githubusercontent.com/locustio/locust/refs/heads/master/locust/webui/public/assets/favicon-light.png" style="padding-right:10px;" />
+<img align="left" alt="K6" width="26px" src="https://raw.githubusercontent.com/grafana/k6/e8e93e5a004b89747e620a63f229d7fda63a693b/assets/logo.svg" style="padding-right:10px;" />
+
 <br>
 <br>
 
