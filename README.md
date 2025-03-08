@@ -594,12 +594,14 @@
 
 
 <br>
+<br>
                                                                                                                        
 - *E2E Testing*:
 
 <img align="left" alt="Cypress" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" style="padding-right:10px;" />   
 <img align="left" alt="Selenium" width="26px" src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" style="padding-right:10px;" />
 
+<br>
 <br>
 
 - *Performance/Load Testing*:
