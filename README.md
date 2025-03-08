@@ -549,10 +549,28 @@
 <br>
 <br>
                                                                                                                        
+### Code Collaboration:
+
+<img align="left" alt="Radicle" width="26px" src="https://avatars.githubusercontent.com/u/48290027?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Gitea" width="26px" src="https://avatars.githubusercontent.com/u/12724356?s=200&v=4" style="padding-right:10px;" />
+
+
+<br>
+<br>
+                                                                                                                       
+### Version Control Systems:
+
+<img align="left" alt="Perforce Helix Core" width="26px" src="https://avatars.githubusercontent.com/u/29477654?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GNU Bazaar" width="26px" src="https://avatars.githubusercontent.com/u/76134379?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Mercurial" width="26px" src="https://www.mercurial-scm.org/_images/logo-hg.svg" style="padding-right:10px;" />
+
+<br>
+<br>
+                                                                                                                       
 ### Developer Environments:
 
 <img align="left" alt="Zed" width="26px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VSCodium" width="26px" src="https://vscodium.com/img/codium_cnl.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />    
 <img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
