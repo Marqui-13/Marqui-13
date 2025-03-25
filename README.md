@@ -340,6 +340,7 @@
 
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Qryptum" width="26px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEGd1PKCLhP5w/company-logo_200_200/company-logo_200_200/0/1735590184893/qryptum_logo?e=1748476800&v=beta&t=suZ_1n6GDbdZmSNnIiUIW8jye1eHMWFrvpgZM1c5Mfc" style="padding-right:10px;" />
+<img align="left" alt="Abelian" width="26px" src="https://avatars.githubusercontent.com/u/135774954?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
