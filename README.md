@@ -335,6 +335,7 @@
                                                                                                                        
 ### Quantum Resistant L1:
 
+<img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Mochimo" width="26px" src="https://pbs.twimg.com/profile_images/1892032118685126656/hZCGnOD6_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="QEVM" width="26px" src="https://pbs.twimg.com/profile_images/1891644670243110914/FRu2Y3Zy_400x400.jpg" style="padding-right:10px;" />
@@ -382,7 +383,6 @@
 
 ### Quantum Resistant L2:
 
-<img align="left" alt="QRL" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon Miden" width="26px" src="https://avatars.githubusercontent.com/u/114251928?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
 <img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
