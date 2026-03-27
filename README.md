@@ -554,7 +554,7 @@
 <img align="left" alt="Zed" width="26px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="VSCodium" width="26px" src="https://vscodium.com/img/codium_cnl.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />    
-<img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1963464146407825408/0wwC-1fi_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Remix" width="26px" src="https://avatars.githubusercontent.com/u/153761188?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Binder" width="26px" src="https://mybinder.readthedocs.io/en/latest/_static/favicon.png" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
