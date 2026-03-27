@@ -110,7 +110,7 @@
 
 ### Frontend/UI Frameworks:
 
-<img align="left alt="React" width="26px" src="https://logos-world.net/wp-content/uploads/2023/08/React-Logo.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="26px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
