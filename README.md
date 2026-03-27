@@ -110,10 +110,10 @@
 
 ### Frontend/UI Frameworks:
 
+<img align="left alt="React" width="26px" src="https://logos-world.net/wp-content/uploads/2023/08/React-Logo.png" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="26px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Blazor" width="26px" src="https://imgs.search.brave.com/6v_sUnc2wegMZ3dyKJGH6qMYVJ6uYIL-orBzGHTtQMY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdmdt/aXguY29tL3VwbG9h/ZHMvYzY5NjRhLWJs/YXpvci5zdmc" style="padding-right:10px;" />
 
 
 <br>
@@ -249,7 +249,6 @@
 <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vyper" width="26px" src="https://avatars.githubusercontent.com/u/57152025?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Huff" width="26px" src="https://avatars.githubusercontent.com/u/106280846?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Ink!" width="26px" src="https://pbs.twimg.com/profile_images/1562309585481891840/4GYd9_Qw_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Scrypto" width="26px" src="https://avatars.githubusercontent.com/u/34097377?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Flint" width="26px" src="https://avatars.githubusercontent.com/u/41336837?s=200&v=4" style="padding-right:10px;" />
 
@@ -264,7 +263,6 @@
 <img align="left" alt="EthersJSAPI" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
 <img align="left" alt="Web3JSAPI" width="26px" src="https://avatars.githubusercontent.com/u/36739222?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="InfuraAPI" width="26px" src="https://imgs.search.brave.com/OpCP2--IvTQzaaTumt61pYfdILAEDV0n6HZOQwtNiGU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjliMjIyM2Ux/NmVhOTg4ZjZhNmIz/NWMyZWEwNjA3ZDAz/MWEwOTRlN2NiYzQ5/YTA2M2M3MDdkMDUz/YzEzMGE5MC9pbmZ1/cmEuaW8v" style="padding-right:10px;" />
-<img align="left" alt="Blockchain.comAPI" width="26px" src="https://pbs.twimg.com/profile_images/1268534114904391681/jXyihSx9_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="CoinMarketCapAPI" width="26px" src="https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8" style="padding-right:10px;" />
 <img align="left" alt="EtherScanAPI" width="26px" src="https://imgs.search.brave.com/iUh1wfuHNt8hyxRR039wipez8kIDPutYbbJF4LtHW80/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI4MmQzOTEz/MmFiMWExZjg3Nzdm/ZjIxNzkxNjdkMjBi/NDY2YTYwNjA0OWJk/NjZiOGRjYzc1NDMy/ZWM5NjNmOC9ldGhl/cnNjYW4uaW8v" style="padding-right:10px;" />
 
@@ -278,7 +276,7 @@
 <img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" style="padding-right:10px;" />
 <img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" style="padding-right:10px;" />
 <img align="left" alt="OpenZepplinSDK" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="ThirdwebSDK" width="26px" src="https://pbs.twimg.com/profile_images/1580649916686286848/vdNCao2e_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="ThirdwebSDK" width="26px" src="https://avatars.githubusercontent.com/u/79496167?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="SpaceSDK" width="26px" src="https://fleekhq.github.io/space-sdk/img/space.svg" style="padding-right:10px;" />
 
@@ -294,7 +292,6 @@
 <img align="left" alt="Foundry" width="26px" src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Truffle" width="26px" src="https://api.iconify.design/logos/truffle-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Tenderly" width="26px" src="https://avatars.githubusercontent.com/u/43046621?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Artemis" width="26px" src="https://media.licdn.com/dms/image/v2/D560BAQEa5f8XpdmesA/company-logo_200_200/B56ZVNbnpYHEAI-/0/1740760841066/artemis_xyz_logo?e=1749081600&v=beta&t=tJ97Q2UNaIYkuMGzqDp9LHUUQH50sm1gTMyjQIZ3m-g" style="padding-right:10px;" />
 <img align="left" alt="EigenPhi" width="26px" src="https://github.com/Marqui-13/Marqui-13/assets/98498681/417ef597-904f-4bff-940c-4e2bf5db5ad8" style="padding-right:10px;" />
 <img align="left" alt="SoftwareMansion(Protostar)" width="26px" src="https://github.com/software-mansion/protostar/blob/master/website/static/icon-512.png?raw=true" style="padding-right:10px;" />
 <img align="left" alt="WEVM(Viem/Wagmi)" width="26px" src="https://avatars.githubusercontent.com/u/109633172?s=200&v=4" style="padding-right:10px;" />
@@ -339,8 +336,12 @@
 ### Quantum Resistant L1:
 
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Qryptum" width="26px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEGd1PKCLhP5w/company-logo_200_200/company-logo_200_200/0/1735590184893/qryptum_logo?e=1748476800&v=beta&t=suZ_1n6GDbdZmSNnIiUIW8jye1eHMWFrvpgZM1c5Mfc" style="padding-right:10px;" />
-<img align="left" alt="Abelian" width="26px" src="https://avatars.githubusercontent.com/u/135774954?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Mochimo" width="26px" src="https://pbs.twimg.com/profile_images/1892032118685126656/hZCGnOD6_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="QEVM" width="26px" src="https://pbs.twimg.com/profile_images/1891644670243110914/FRu2Y3Zy_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Quantus" width="26px" src="https://pbs.twimg.com/profile_images/1963464146407825408/0wwC-1fi_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="QEVM" width="26px" src="https://avatars.githubusercontent.com/u/215144161?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Hegemon" width="26px" src="https://raw.githubusercontent.com/Pauli-Group/Hegemon/630d5d1bfb49c63e8c4f08322e522f6659103a74/docs/assets/hegemon-wordmark.svg" style="padding-right:10px;" />
+
 
 <br>
 <br>
@@ -486,27 +487,6 @@
 
 <br>
 <br>
-
-### AI/ML/DL/RL:
-
-<img align="left" alt="RunwayML" width="26px" src="https://avatars.githubusercontent.com/u/37351293?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="OpenAI" width="26px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
-<img align="left" alt="Cloudera" width="26px" src="https://avatars.githubusercontent.com/u/9002716?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="DeepMindAI" width="26px" src="https://avatars.githubusercontent.com/u/8596759?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="H2OAI" width="26px" src="https://avatars.githubusercontent.com/u/1402695?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Dataiku" width="26px" src="https://pbs.twimg.com/profile_images/1329055612857184263/EMaQ5kQ1_400x400.png" style="padding-right:10px;" />
-<img align="left" alt="C3AI" width="26px" src="https://companieslogo.com/img/orig/AI-ca024369.png?t=1638267817" style="padding-right:10px;" />
-<img align="left" alt="Graphcore" width="26px" src="https://avatars.githubusercontent.com/u/26037135?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="IBM Watson" width="26px" src="https://avatars.githubusercontent.com/u/9221727?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Ezra" width="26px" src="https://pbs.twimg.com/profile_images/1297887281341243397/7rAYkbC0_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="VizAI" width="26px" src="https://avatars.githubusercontent.com/u/31917660?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Corti" width="26px" src="https://avatars.githubusercontent.com/u/16427447?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Oncora Medical" width="26px" src="https://pbs.twimg.com/profile_images/676921299445370881/gfoEFKke_400x400.png" style="padding-right:10px;" />
-
-<br>
-<br>
-<br>
                                                                                   
 ### Quantum Languages:
 
@@ -574,7 +554,7 @@
 <img align="left" alt="Zed" width="26px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="VSCodium" width="26px" src="https://vscodium.com/img/codium_cnl.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />    
-<img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Remix" width="26px" src="https://pbs.twimg.com/profile_images/1963464146407825408/0wwC-1fi_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Binder" width="26px" src="https://mybinder.readthedocs.io/en/latest/_static/favicon.png" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Vite" width="26px" src="https://api.iconify.design/logos/vitejs.svg" style="padding-right:10px;" />
