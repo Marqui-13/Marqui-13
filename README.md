@@ -399,6 +399,7 @@
 <img align="left" alt="Octra" width="26px" src="https://avatars.githubusercontent.com/u/117525754?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Zama" width="26px" src="https://avatars.githubusercontent.com/u/57671822?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Fhenix" width="26px" src="https://avatars.githubusercontent.com/u/137282759?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Orion" width="26px" src="https://avatars.githubusercontent.com/u/197268507?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Enveil" width="26px" src="https://pbs.twimg.com/profile_images/951714349592207361/Ji3qBMMc_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Niobium" width="26px" src="https://avatars.githubusercontent.com/u/154537776?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Mind Network" width="26px" src="https://avatars.githubusercontent.com/u/97393721?s=200&v=4" style="padding-right:10px;" />
@@ -472,6 +473,7 @@
 
 ### Web3 Security/Audit:
 
+<img align="left" alt="zkSecurity" width="26px" src="https://avatars.githubusercontent.com/u/130377021?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FormalLand" width="26px" src="https://avatars.githubusercontent.com/u/82529334?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Halborn" width="26px" src="https://avatars.githubusercontent.com/u/66806361?v=4" style="padding-right:10px;" />
 <img align="left" alt="QuillAudits" width="26px" src="https://avatars.githubusercontent.com/u/114924378?v=4" style="padding-right:10px;" />
