@@ -339,7 +339,7 @@
 <img align="left" alt="XX Network" width="26px" src="https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Mochimo" width="26px" src="https://pbs.twimg.com/profile_images/1892032118685126656/hZCGnOD6_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="QEVM" width="26px" src="https://pbs.twimg.com/profile_images/1891644670243110914/FRu2Y3Zy_400x400.jpg" style="padding-right:10px;" />
-<img align="left" alt="Quantus" width="26px" src="https://pbs.twimg.com/profile_images/1963464146407825408/0wwC-1fi_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Quantus" width="26px" src="https://avatars.githubusercontent.com/u/194744182?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="QEVM" width="26px" src="https://avatars.githubusercontent.com/u/215144161?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Hegemon" width="26px" src="https://raw.githubusercontent.com/Pauli-Group/Hegemon/630d5d1bfb49c63e8c4f08322e522f6659103a74/docs/assets/hegemon-wordmark.svg" style="padding-right:10px;" />
 
