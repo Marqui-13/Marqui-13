@@ -529,7 +529,7 @@
 ### QC APIs/SDKs:
 
 <img align="left" alt="H33API" width="26px" src="https://avatars.githubusercontent.com/u/101357751?v=4" style="padding-right:10px;" />
-<img align="left" alt="Open Quantum" width="26px" src="https://www.openquantum.com/OpenQuantum%20All%20Logos%202025-02.png" style="padding-right:10px;" />
+<img align="left" alt="Open Quantum" width="26px" src="https://pbs.twimg.com/profile_images/1961091999395938304/Vnv1iUUV_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="INTEL" width="26px" src="https://pbs.twimg.com/profile_images/1301199561713541120/7dPeX1gK_400x400.png" style="padding-right: 10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
