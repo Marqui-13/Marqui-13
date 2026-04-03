@@ -173,7 +173,9 @@
 
 ### Multi-Paradigm Languages:
 
-<img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
@@ -203,35 +205,6 @@
 <br>
 <br>
 
-### Libraries/Tools:
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-
-<br>
-<br>
-<br>
-<br>
-
-### APIs:
-
-<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
-<img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
-
-<br>
-<br>
-                                                                                                                       
-### SDKs:
-                                                                                                                       
-<img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="PolyHaven" width="26px" src="https://polyhaven.com/Logo%20256.png" style="padding-right:10px;" />
-<img align="left" alt="WebGiSDK" width="26px" src="https://webgi.xyz/img/logo.svg" style="padding-right:10px;" />
-
-<br>
-<br>
-<br>
-<br>
 
 ### zk Domain Specific Languages:
 
@@ -258,35 +231,12 @@
 <br>
 <br>
                                                                                                                        
-### Web3 APIs:
+                                                                                                                       
+### Libraries/Tools:
 
-<img align="left" alt="EthersJSAPI" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
-<img align="left" alt="Web3JSAPI" width="26px" src="https://avatars.githubusercontent.com/u/36739222?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="InfuraAPI" width="26px" src="https://imgs.search.brave.com/OpCP2--IvTQzaaTumt61pYfdILAEDV0n6HZOQwtNiGU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjliMjIyM2Ux/NmVhOTg4ZjZhNmIz/NWMyZWEwNjA3ZDAz/MWEwOTRlN2NiYzQ5/YTA2M2M3MDdkMDUz/YzEzMGE5MC9pbmZ1/cmEuaW8v" style="padding-right:10px;" />
-<img align="left" alt="CoinMarketCapAPI" width="26px" src="https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8" style="padding-right:10px;" />
-<img align="left" alt="EtherScanAPI" width="26px" src="https://imgs.search.brave.com/iUh1wfuHNt8hyxRR039wipez8kIDPutYbbJF4LtHW80/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI4MmQzOTEz/MmFiMWExZjg3Nzdm/ZjIxNzkxNjdkMjBi/NDY2YTYwNjA0OWJk/NjZiOGRjYzc1NDMy/ZWM5NjNmOC9ldGhl/cnNjYW4uaW8v" style="padding-right:10px;" />
-
-<br>
-<br>
-
-### Web3 SDKs:
-
-<img align="left" alt="ThirdwebSDK" width="26px" src="https://consensys.io/diligence/images/home/mythx.svg" style="padding-right:10px;" />
-<img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" style="padding-right:10px;" />
-<img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" style="padding-right:10px;" />
-<img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" style="padding-right:10px;" />
-<img align="left" alt="OpenZepplinSDK" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="ThirdwebSDK" width="26px" src="https://avatars.githubusercontent.com/u/79496167?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="SpaceSDK" width="26px" src="https://fleekhq.github.io/space-sdk/img/space.svg" style="padding-right:10px;" />
-
-
-<br>
-<br>
-<br>
-
-### Web3 Tools/Libraries:
-
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Consensys" width="26px" src="https://avatars.githubusercontent.com/u/10818037?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src="https://api.iconify.design/logos/hardhat-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Foundry" width="26px" src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" style="padding-right:10px;" />
@@ -301,6 +251,41 @@
 
 <br>
 <br>
+<br>
+<br>
+
+### APIs:
+
+<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RapidAPI" width="26px" src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="EthersJSAPI" width="26px" src="https://api.iconify.design/logos/ethers.svg" style="padding-right:10px;" />
+<img align="left" alt="Web3JSAPI" width="26px" src="https://avatars.githubusercontent.com/u/36739222?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="InfuraAPI" width="26px" src="https://imgs.search.brave.com/OpCP2--IvTQzaaTumt61pYfdILAEDV0n6HZOQwtNiGU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjliMjIyM2Ux/NmVhOTg4ZjZhNmIz/NWMyZWEwNjA3ZDAz/MWEwOTRlN2NiYzQ5/YTA2M2M3MDdkMDUz/YzEzMGE5MC9pbmZ1/cmEuaW8v" style="padding-right:10px;" />
+<img align="left" alt="CoinMarketCapAPI" width="26px" src="https://imgs.search.brave.com/I-IjJuMBXs0NQxhSVZreoHNYhB9OX97kXToQVH-6FKw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8" style="padding-right:10px;" />
+<img align="left" alt="EtherScanAPI" width="26px" src="https://imgs.search.brave.com/iUh1wfuHNt8hyxRR039wipez8kIDPutYbbJF4LtHW80/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI4MmQzOTEz/MmFiMWExZjg3Nzdm/ZjIxNzkxNjdkMjBi/NDY2YTYwNjA0OWJk/NjZiOGRjYzc1NDMy/ZWM5NjNmOC9ldGhl/cnNjYW4uaW8v" style="padding-right:10px;" />
+
+<br>
+<br>
+                                                                                                                       
+### SDKs:
+                                                                                                                       
+<img align="left" alt="LiveKitSDK" width="26px" src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PolyHaven" width="26px" src="https://polyhaven.com/Logo%20256.png" style="padding-right:10px;" />
+<img align="left" alt="WebGiSDK" width="26px" src="https://webgi.xyz/img/logo.svg" style="padding-right:10px;" />
+<img align="left" alt="ThirdwebSDK" width="26px" src="https://consensys.io/diligence/images/home/mythx.svg" style="padding-right:10px;" />
+<img align="left" alt="CosmosSDK" width="26px" src="https://imgs.search.brave.com/iUkjkLEL4pAdPpXO3YO5eo_KjT_SMPASGfubTmR_Low/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE5MzJlNmFm/YWEyM2U1NWQyMWU2/MjNhODU0ODAxYWNk/MDc3MzY2NGE4NzAx/NmFlOWUyYjk4NzM4/OTA5OGY1Yi92MS5j/b3Ntb3MubmV0d29y/ay8" style="padding-right:10px;" />
+<img align="left" alt="TatumSDK" width="26px" src="https://imgs.search.brave.com/Y993bdGu8ergT3HTHCtsc6rzMCOW0ewBU3JrUrkX_rE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ0ZTAwZTc1/NzI4MzViMzQzZjE3/Y2ZhMzNlMWY1ZGMz/OTg4OGI0NmIzODI1/NzBkMmY5YzJhMzNm/ODMwMjlkNS90YXR1/bS5pby8" style="padding-right:10px;" />
+<img align="left" alt="AlchemySDK" width="26px" src="https://imgs.search.brave.com/7woPU9KISxHY-icNFJdiOG7-qV2SW8JGdSMBqeZnMag/rs:fit:400:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/dTh2anIwSllaYkFk/RkNrWktLaW5BQUFB/QSZwaWQ9QXBp" style="padding-right:10px;" />
+<img align="left" alt="OpenZepplinSDK" width="26px" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="ThirdwebSDK" width="26px" src="https://avatars.githubusercontent.com/u/79496167?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="CovalentSDK" width="26px" src="https://avatars.githubusercontent.com/u/33910405?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="SpaceSDK" width="26px" src="https://fleekhq.github.io/space-sdk/img/space.svg" style="padding-right:10px;" />
+
+
+<br>
+<br>
+<br>
+                                                                                                                       
                                                                                                                        
 ### Quantum Resistant Layer 0:
                                                                                                                      
@@ -332,6 +317,18 @@
 
 <br>
 <br>
+
+### EVM-Compatible Chain:
+
+<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
+<img align="left" alt="Arbitrum" width="26px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png" style="padding-right:10px;" />
+<img align="left" alt="Fantom" width="26px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png" style="padding-right:10px;" />
+<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
+
+<br>
+<br>
+                                                                                                                       
                                                                                                                        
 ### Quantum Resistant L1:
 
@@ -383,26 +380,31 @@
 
 ### Quantum Resistant L2:
 
+<img align="left" alt="Fhenix" width="26px" src="https://avatars.githubusercontent.com/u/137282759?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Polygon Miden" width="26px" src="https://avatars.githubusercontent.com/u/114251928?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
 <img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
 
-
-<br>
 <br>
 <br>
                                                                                                                        
-                                                                                                                       
-### EVM-Compatible Chain:
+### FHE:
 
-<img align="left" alt="Ethereum" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Polygon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Avalanche" width="26px" src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=025" style="padding-right:10px;" />
-<img align="left" alt="Arbitrum" width="26px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png" style="padding-right:10px;" />
-<img align="left" alt="Fantom" width="26px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png" style="padding-right:10px;" />
-<img align="left" alt="Gnosis" width="26px" src="https://avatars.githubusercontent.com/u/92709226?s=200&v=4" style="padding-right:10px;" />
-
+<img align="left" alt="H33" width="26px" src="https://avatars.githubusercontent.com/u/101357751?v=4" style="padding-right:10px;" />
+<img align="left" alt="Optalysys" width="26px" src="https://avatars.githubusercontent.com/u/88825941?v=4" style="padding-right:10px;" />
+<img align="left" alt="Wodan AI" width="26px" src="https://pbs.twimg.com/profile_images/1851263999922335744/H3d3XX5P_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Duality" width="26px" src="https://pbs.twimg.com/profile_images/1543871947443998720/8hEUGDBW_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="OpenFHE" width="26px" src="https://avatars.githubusercontent.com/u/89259445?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Octra" width="26px" src="https://avatars.githubusercontent.com/u/117525754?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Zama" width="26px" src="https://avatars.githubusercontent.com/u/57671822?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Fhenix" width="26px" src="https://avatars.githubusercontent.com/u/137282759?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Enveil" width="26px" src="https://pbs.twimg.com/profile_images/951714349592207361/Ji3qBMMc_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Niobium" width="26px" src="https://avatars.githubusercontent.com/u/154537776?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Mind Network" width="26px" src="https://avatars.githubusercontent.com/u/97393721?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Suncreen" width="26px" src="https://pbs.twimg.com/profile_images/1930296446252654593/gvpRSKPm_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Lattica" width="26px" src="https://avatars.githubusercontent.com/u/132614064?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Fabric" width="26px" src="https://pbs.twimg.com/profile_images/1824680844533043201/MQdrBbDQ_400x400.jpg" style="padding-right:10px;" />
 
 
 <br>
@@ -463,7 +465,6 @@
 
 ### Web3 Governance/DAOs:
 
-<img align="left" alt="AllianceDAO" width="26px" src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/udrao3pdgxpx47letgnn" style="padding-right:10px;" />
 <img align="left" alt="API3DAO" width="26px" src="https://avatars.githubusercontent.com/u/69474416?s=200&v=4" style="padding-right:10px;" />
 
 <br>
@@ -471,6 +472,10 @@
 
 ### Web3 Security/Audit:
 
+<img align="left" alt="FormalLand" width="26px" src="https://avatars.githubusercontent.com/u/82529334?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Halborn" width="26px" src="https://avatars.githubusercontent.com/u/66806361?v=4" style="padding-right:10px;" />
+<img align="left" alt="QuillAudits" width="26px" src="https://avatars.githubusercontent.com/u/114924378?v=4" style="padding-right:10px;" />
+<img align="left" alt="Pashov" width="26px" src="https://avatars.githubusercontent.com/u/159713272?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solodit" width="26px" src="https://avatars.githubusercontent.com/u/129466438?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FairyProof" width="26px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe295fef9-f899-4367-b06d-360f388f19f2_213x213.png" style="padding-right:10px;" />
@@ -523,7 +528,7 @@
 ### Quantum Computing Frameworks:
 
 <img align="left" alt="PennyLane" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="QISKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />  
+<img align="left" alt="QisKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />  
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
 <img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" style="padding-right:10px;" />
 
