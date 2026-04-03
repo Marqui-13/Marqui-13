@@ -476,7 +476,9 @@
 <img align="left" alt="zkSecurity" width="26px" src="https://avatars.githubusercontent.com/u/130377021?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="FormalLand" width="26px" src="https://avatars.githubusercontent.com/u/82529334?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Halborn" width="26px" src="https://avatars.githubusercontent.com/u/66806361?v=4" style="padding-right:10px;" />
-<img align="left" alt="QuillAudits" width="26px" src="https://avatars.githubusercontent.com/u/114924378?v=4" style="padding-right:10px;" />
+<img align="left" alt="QVerify" width="26px" src="https://avatars.githubusercontent.com/u/226148858?v=4" style="padding-right:10px;" />
+<img align="left" alt="Vibranium Audits" width="26px" src="" style="padding-right:10px;" />
+<img align="left" alt="Quill Audits" width="26px" src="https://avatars.githubusercontent.com/u/114924378?v=4" style="padding-right:10px;" />
 <img align="left" alt="Pashov" width="26px" src="https://avatars.githubusercontent.com/u/159713272?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Solodit" width="26px" src="https://avatars.githubusercontent.com/u/129466438?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Quantstamp" width="26px" src="https://avatars.githubusercontent.com/u/30974158?s=200&v=4" style="padding-right:10px;" />
@@ -494,8 +496,26 @@
 
 <br>
 <br>
+                                                                                                                       
+### Proof Assistants:
+
+
+<br>
+<br>
+                                                                                                                       
+### QC Libraries/Tools:
+
+
+<br>
+<br>
+                                                                                                
+### PQC Libraries:
+
+
+<br>
+<br>
                                                                                   
-### Quantum Languages:
+### QC Languages:
 
 <img align="left" alt="Qrisp" width="26px" src="https://avatars.githubusercontent.com/u/147840338?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
@@ -505,17 +525,11 @@
 <br>
 <br>
                                                                                                                        
-### Quantum Libraries/Tools:
-                                                                                                                       
-                                                                                                                       
-<br>
-<br>
 
-### Quantum APIs/SDKs:
+### QC APIs/SDKs:
 
-<img align="left" alt="QRLAPI" width="26px" src="https://avatars.githubusercontent.com/u/27088483?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="xxSDK" width="26px" src="https://gitlab.com/uploads/-/system/group/avatar/2032238/Mixxchain_Logo_Icon-01.png?width=64" style="padding-right:10px;" />
-<img align="left" alt="CELLFRAME" width="26px" src="https://avatars.githubusercontent.com/u/62992040?s=200&v=4" style="padding-right: 10px;" />
+<img align="left" alt="H33API" width="26px" src="https://avatars.githubusercontent.com/u/101357751?v=4" style="padding-right:10px;" />
+<img align="left" alt="Open Quantum" width="26px" src="https://www.openquantum.com/OpenQuantum%20All%20Logos%202025-02.png" style="padding-right:10px;" />
 <img align="left" alt="INTEL" width="26px" src="https://pbs.twimg.com/profile_images/1301199561713541120/7dPeX1gK_400x400.png" style="padding-right: 10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Xanadu" width="26px" src="https://imgs.search.brave.com/HRFydE-xw-7ecVt5pAg6fTxd4kRS-pMnXkSDLspN3cM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUxMzI2YmU1/YzNmYzZmMDYwNTYy/YjdkN2JhZTI0NWE1/Y2VkNTFlNzUyZDg1/MzhlZTZjMWFlMzU2/ZDc2NTFmZC93d3cu/eGFuYWR1LmFpLw" style="padding-right:10px;" />
@@ -530,9 +544,10 @@
 ### Quantum Computing Frameworks:
 
 <img align="left" alt="PennyLane" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="QisKit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />  
+<img align="left" alt="Qiskit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />  
 <img align="left" alt="Cirq" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                        
 <img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" style="padding-right:10px;" />
+
 
 <br>
 <br>
