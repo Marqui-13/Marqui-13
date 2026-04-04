@@ -26,11 +26,12 @@
 
 <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/NPM-CB3837??style=for-the-badge&logo=npm&logoColor=white" />
 
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/NodeJS-black??style=for-the-badge&logo=node.js&logoColor=339933" />
+<img align="left" src="https://img.shields.io/badge/NodeJS-black??style=for-the-badge&logo=node.js&logoColor=339933" />
 
 <br>
 <br>
 <br> 
+
 <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/ThreeJS-grey??style=for-the-badge&logo=three.js&logoColor=1CB4FF" />
 
 <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/WebGL-white??style=for-the-badge&logo=webgl&logoColor=darkred"/>
@@ -54,6 +55,7 @@
 
 </div>
 </div>
+
 <br>
 <br>
 <br>
