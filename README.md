@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
@@ -9,56 +9,74 @@
 
 <div>
 
-<img src="https://img.shields.io/badge/MSc-Computer%20Science%20(in%20progress)-lightgreen??style=for-the-badge&logo=cpu&logoColor=white" />
+<img alt="MSc Computer Science (in progress)" src="https://img.shields.io/badge/MSc-Computer%20Science%20(in%20progress)-lightgreen??style=for-the-badge&logo=cpu&logoColor=white" />
 
-<img src="https://img.shields.io/badge/BSc-Information%20Systems-darkblue??style=for-the-badge&logo=shield&logoColor=white" />
+<img alt="BSc Information Systems" src="https://img.shields.io/badge/BSc-Information%20Systems-darkblue??style=for-the-badge&logo=shield&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Minor-Business-blue??style=for-the-badge&logo=shield&logoColor=white" />
+<img alt="Business Minor" src="https://img.shields.io/badge/Minor-Business-blue??style=for-the-badge&logo=shield&logoColor=white" />
 
 </div>
 
 <br>
 <br>
-<div >
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/JavaScript-black??style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/TypeScript-white??style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<h3 style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Expertise/Focus</h3>
 
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/NPM-CB3837??style=for-the-badge&logo=npm&logoColor=white" />
+<div>
+<img align="left" alt="JavaScript" style="padding-right:10px;" src="https://img.shields.io/badge/JavaScript-black??style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<img align="left" src="https://img.shields.io/badge/NodeJS-black??style=for-the-badge&logo=node.js&logoColor=339933" />
+<img align="left" alt="TypeScript" style="padding-right:10px;" src="https://img.shields.io/badge/TypeScript-white??style=for-the-badge&logo=typescript&logoColor=3178C6" />
+
+<img align="left" alt="WASM" style="padding-right:10px;" src="https://img.shields.io/badge/WASM-654FF0??style=for-the-badge&logo=webassembly&logoColor=white" />
+
+<img align="left" alt="Solidity" style="padding-right:10px;" src="https://img.shields.io/badge/Solidity-white??style=for-the-badge&logo=solidity&logoColor=263238" />
+
+<img align="left" alt="Rust" style="padding-right:10px;" src="https://img.shields.io/badge/Rust-000000??style=for-the-badge&logo=rust&logoColor=white" /> 
+
+<img align="left" alt="Zig" style="padding-right:10px;" src="https://img.shields.io/badge/Zig-grey??style=for-the-badge&logo=zig&logoColor=F6A41E" />
+
+<img align="left" alt="Go" style="padding-right:10px;" src="https://img.shields.io/badge/Go-ffffff??style=for-the-badge&logo=go&logoColor=00ADD8" />
+
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-4B8BBE??style=for-the-badge&logo=python&logoColor=white" />
 
 <br>
 <br>
 <br> 
+<br>
+<br>
 
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/ThreeJS-grey??style=for-the-badge&logo=three.js&logoColor=1CB4FF" />
+<img align="left" alt="NPM" style="padding-right:10px;" src="https://img.shields.io/badge/NPM-CB3837??style=for-the-badge&logo=npm&logoColor=white" />
 
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/WebGL-white??style=for-the-badge&logo=webgl&logoColor=darkred"/>
+<img align="left" alt="NodeJS" style="padding-right:10px;" src="https://img.shields.io/badge/NodeJS-black??style=for-the-badge&logo=node.js&logoColor=339933" />
 
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/WebGPU-grey??style=for-the-badge&logo=webgpu&logoColor=005A9C" />
+<img align="left" alt="ThreeJS" style="padding-right:10px;" src="https://img.shields.io/badge/ThreeJS-grey??style=for-the-badge&logo=three.js&logoColor=1CB4FF" />
 
+<img align="left" alt="WebGL" style="padding-right:10px;" src="https://img.shields.io/badge/WebGL-white??style=for-the-badge&logo=webgl&logoColor=darkred"/>
 
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/WASM-654FF0??style=for-the-badge&logo=webassembly&logoColor=white" />
+<img align="left" alt="WebGPU" style="padding-right:10px;" src="https://img.shields.io/badge/WebGPU-grey??style=for-the-badge&logo=webgpu&logoColor=005A9C" />
 
 <br>
 <br>
 <br>
-
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Solidity-white??style=for-the-badge&logo=solidity&logoColor=263238" />
-
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Rust-000000??style=for-the-badge&logo=rust&logoColor=white" /> 
-
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Go-ffffff??style=for-the-badge&logo=go&logoColor=00ADD8" />
-
-<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Python-4B8BBE??style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
-</div>
-
 <br>
-<br>
-<br>
+
+<h3 style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Core Engineering Domains</h3>
+<img align="left" style="padding-right:10px;" alt="Full-Stack" src="https://img.shields.io/badge/Full--Stack%20Engineering-black" />
+<img align="left" style="padding-right:10px;" alt="Performace" src="https://img.shields.io/badge/High--Performance%20Web%20Engineering-black" />
+<img align="left" style="padding-right:10px;" alt="3D" src="https://img.shields.io/badge/3D/Graphics/Creative%20Engineering-black" />
+
+<img align="left" style="padding-right:10px;" alt="Web3" src="https://img.shields.io/badge/Blockchain%20&%20Smart%20Contract%20Engineering-black" />
+
+<img align="left" style="padding-right:10px;" alt="Crypto" src="https://img.shields.io/badge/Cryptography%20&%20Applied%20Cryptographic Systems-black" />
+
+<img align="left" style="padding-right:10px;" alt="ZK" src="https://img.shields.io/badge/Zero--Knowledge%20&%20Client--Side%20Proving%20Systems-black" />
+<img align="left" style="padding-right:10px;" alt="PETs" src="https://img.shields.io/badge/Privacy Enhancing%20Technologies%20(PETs)%20&%20Applications-black" />
+<img align="left" style="padding-right:10px;" alt="Simulation" src="https://img.shields.io/badge/Simulation%20&%20Computational%20Modeling-black" />
+<img align="left" style="padding-right:10px;" alt="Formal Verification" src="https://img.shields.io/badge/Formal%20Verification%20&%20Secure%20Systems%20Engineering-black" />
+<img align="left" style="padding-right:10px;" alt="ML & AI" src="https://img.shields.io/badge/Machine%20Learning%20&%20AI%20Systems-black" />
+<img align="left" style="padding-right:10px;" alt="AI & Quantum" src="https://img.shields.io/badge/AI%20for%20Quantum/Quantum%20for%20AI-black" />
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Frontend Development:
 
@@ -566,6 +584,7 @@
 ### Proof Assistants:
 
 
+
 <br>
 <br>
                                                                                                                        
@@ -575,8 +594,30 @@
 <br>
 <br>
                                                                                                 
-### PQC Libraries:
+### PQC Libraries/Implementations:
 
+<img align="left" alt="NIST" width="26px" src="https://avatars.githubusercontent.com/u/5330158?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="libOQS" width="26px" src="https://avatars.githubusercontent.com/u/20689385?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="wolfSSL" width="26px" src="https://avatars.githubusercontent.com/u/5891092?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="OpenSSL" width="26px" src="https://avatars.githubusercontent.com/u/3279138?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="BoringSSL" width="26px" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="AWS-LC" width="26px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PC Code Package/PQCA/Linux Foundation" width="26px" src="https://avatars.githubusercontent.com/u/158063050?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="libjade/formosa-crypto" width="26px" src="https://avatars.githubusercontent.com/u/97531098?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="libcrux/cryspen" width="26px" src="https://avatars.githubusercontent.com/u/88740011?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Bouncy Castle" width="26px" src="https://avatars.githubusercontent.com/u/4566970?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="CIRCL" width="26px" src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="MbedTLS" width="26px" src="https://avatars.githubusercontent.com/u/97226525?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="" width="26px" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Google Tink" width="26px" src="https://avatars.githubusercontent.com/u/68359901?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PQShield" width="26px" src="https://avatars.githubusercontent.com/u/42099523?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PQSecure" width="26px" src="https://pbs.twimg.com/profile_images/952616581737189376/TxhgRm3J_400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="SafeLogic" width="26px" src="https://pbs.twimg.com/profile_images/1445484788815597572/q4iAvLg9_400x400.jpg" style="padding-right:10px;" />
+
+<img align="left" style="padding-right:10px;" alt="PQClean" src="https://img.shields.io/badge/PQClean-DC73D2??style=for-the-badge&logo=shield&logoColor=white" />
+<img align="left" style="padding-right:10px;" alt="Botan/randombit" src="https://img.shields.io/badge/Botan-darkblue??style=for-the-badge&logo=shield&logoColor=white" />
+<img align="left" style="padding-right:10px;" alt="Crypto++/weidai11" src="https://img.shields.io/badge/Crypto++-white??style=for-the-badge&logo=shield&logoColor=white" />
+<img align="left" style="padding-right:10px;" alt="noble-post-quantum/paullmiller" src="https://img.shields.io/badge/noble--post--quantum-black" />
 
 <br>
 <br>
