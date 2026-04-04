@@ -39,12 +39,6 @@
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-4B8BBE??style=for-the-badge&logo=python&logoColor=white" />
 
-<br>
-<br>
-<br> 
-<br>
-<br>
-
 <img align="left" alt="NPM" style="padding-right:10px;" src="https://img.shields.io/badge/NPM-CB3837??style=for-the-badge&logo=npm&logoColor=white" />
 
 <img align="left" alt="NodeJS" style="padding-right:10px;" src="https://img.shields.io/badge/NodeJS-black??style=for-the-badge&logo=node.js&logoColor=339933" />
@@ -61,22 +55,30 @@
 <br>
 
 <h3 style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Core Engineering Domains</h3>
-<img align="left" style="padding-right:10px;" alt="Full-Stack" src="https://img.shields.io/badge/Full--Stack%20Engineering-black" />
-<img align="left" style="padding-right:10px;" alt="Performace" src="https://img.shields.io/badge/High--Performance%20Web%20Engineering-black" />
-<img align="left" style="padding-right:10px;" alt="3D" src="https://img.shields.io/badge/3D/Graphics/Creative%20Engineering-black" />
 
-<img align="left" style="padding-right:10px;" alt="Web3" src="https://img.shields.io/badge/Blockchain%20&%20Smart%20Contract%20Engineering-black" />
+<img align="left" style="padding-right:10px;" alt="Full-Stack" src="https://img.shields.io/badge/Full--Stack%20Engineering-black" /> <br>
 
-<img align="left" style="padding-right:10px;" alt="Crypto" src="https://img.shields.io/badge/Cryptography%20&%20Applied%20Cryptographic Systems-black" />
+<img align="left" style="padding-right:10px;" alt="Performace" src="https://img.shields.io/badge/High--Performance%20Web%20Engineering-black" /> <br>
 
-<img align="left" style="padding-right:10px;" alt="ZK" src="https://img.shields.io/badge/Zero--Knowledge%20&%20Client--Side%20Proving%20Systems-black" />
-<img align="left" style="padding-right:10px;" alt="PETs" src="https://img.shields.io/badge/Privacy Enhancing%20Technologies%20(PETs)%20&%20Applications-black" />
-<img align="left" style="padding-right:10px;" alt="Simulation" src="https://img.shields.io/badge/Simulation%20&%20Computational%20Modeling-black" />
-<img align="left" style="padding-right:10px;" alt="Formal Verification" src="https://img.shields.io/badge/Formal%20Verification%20&%20Secure%20Systems%20Engineering-black" />
-<img align="left" style="padding-right:10px;" alt="ML & AI" src="https://img.shields.io/badge/Machine%20Learning%20&%20AI%20Systems-black" />
+<img align="left" style="padding-right:10px;" alt="3D" src="https://img.shields.io/badge/3D/Graphics/Creative%20Engineering-black" /> <br>
+
+<img align="left" style="padding-right:10px;" alt="Web3" src="https://img.shields.io/badge/Blockchain%20&%20Smart%20Contract%20Engineering-black" /> <br>
+
+<img align="left" style="padding-right:10px;" alt="Crypto" src="https://img.shields.io/badge/Cryptography%20&%20Applied%20Cryptographic Systems-black" />  <br>
+
+<img align="left" style="padding-right:10px;" alt="ZK" src="https://img.shields.io/badge/Zero--Knowledge%20&%20Client--Side%20Proving%20Systems-black" /> <br>
+
+<img align="left" style="padding-right:10px;" alt="PETs" src="https://img.shields.io/badge/Privacy Enhancing%20Technologies%20(PETs)%20&%20Applications-black" /> <br>
+
+<img align="left" style="padding-right:10px;" alt="Simulation" src="https://img.shields.io/badge/Simulation%20&%20Computational%20Modeling-black" /> <br>
+
+<img align="left" style="padding-right:10px;" alt="Formal Verification" src="https://img.shields.io/badge/Formal%20Verification%20&%20Secure%20Systems%20Engineering-black" /> <br>
+
+<img align="left" style="padding-right:10px;" alt="ML & AI" src="https://img.shields.io/badge/Machine%20Learning%20&%20AI%20Systems-black" /> <br>
+
 <img align="left" style="padding-right:10px;" alt="AI & Quantum" src="https://img.shields.io/badge/AI%20for%20Quantum/Quantum%20for%20AI-black" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ### Frontend Development:
 
