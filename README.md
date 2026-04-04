@@ -4,7 +4,7 @@
     <tr>
       <td align="left" style="padding: 45px;">
         <h1 style="margin: 0; font-size: 3em; color: #005A9C;">Hey, I'm Marq 👋🏽</h1>
-        <p style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Founder & Software Engineer</p>
+        <h3 style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Founder & Software Engineer</h3>
         <br>
 
 <div>
