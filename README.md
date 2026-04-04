@@ -1,4 +1,62 @@
-# Hello, please explore and email me with any questions.
+<div align="center">
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="left" style="padding: 45px;">
+        <h1 style="margin: 0; font-size: 3em; color: #005A9C;">Hey, I'm Marq 👋🏽</h1>
+        <p style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Founder & Software Engineer</p>
+        <br>
+
+<div>
+
+<img src="https://img.shields.io/badge/MSc-Computer%20Science%20(in%20progress)-lightgreen??style=for-the-badge&logo=cpu&logoColor=white" />
+
+<img src="https://img.shields.io/badge/BSc-Information%20Systems-darkblue??style=for-the-badge&logo=shield&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Minor-Business-blue??style=for-the-badge&logo=shield&logoColor=white" />
+
+</div>
+
+<br>
+<br>
+<div >
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/JavaScript-black??style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/TypeScript-white??style=for-the-badge&logo=typescript&logoColor=3178C6" />
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/NPM-CB3837??style=for-the-badge&logo=npm&logoColor=white" />
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/NodeJS-black??style=for-the-badge&logo=node.js&logoColor=339933" />
+
+<br>
+<br>
+<br> 
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/ThreeJS-grey??style=for-the-badge&logo=three.js&logoColor=1CB4FF" />
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/WebGL-white??style=for-the-badge&logo=webgl&logoColor=darkred"/>
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/WebGPU-grey??style=for-the-badge&logo=webgpu&logoColor=005A9C" />
+
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/WASM-654FF0??style=for-the-badge&logo=webassembly&logoColor=white" />
+
+<br>
+<br>
+<br>
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Solidity-white??style=for-the-badge&logo=solidity&logoColor=263238" />
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Rust-000000??style=for-the-badge&logo=rust&logoColor=white" /> 
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Go-ffffff??style=for-the-badge&logo=go&logoColor=00ADD8" />
+
+<img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Python-4B8BBE??style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+</div>
+<br>
+<br>
+<br>
 
 ### Frontend Development:
 
@@ -22,6 +80,8 @@
 <img align="left" alt="Vue" width="26px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 
+<br>
+<br>
 <br>
 <br>
 
@@ -463,6 +523,8 @@
 
 <br>
 <br>  
+<br>
+<br>
 
 ### Web3 Governance/DAOs:
 
@@ -496,7 +558,9 @@
 
 <br>
 <br>
-                                                                                                                       
+<br>  
+<br>
+                                                                                                                  
 ### Proof Assistants:
 
 
@@ -626,7 +690,3 @@
 <img align="left" alt="DFINITY" width="26px" src="https://avatars.githubusercontent.com/u/59101585?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Netlify" width="26px" src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Vercel" width="26px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" style="padding-right:10px;" />
-
-
-<br>
-<br>
