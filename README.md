@@ -78,7 +78,7 @@
 
 <img align="left" style="padding-right:10px;" alt="AI & Quantum" src="https://img.shields.io/badge/AI%20for%20Quantum/Quantum%20for%20AI-black" />
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ### Frontend Development:
 
