@@ -602,7 +602,7 @@
 <img align="left" alt="libOQS" width="26px" src="https://avatars.githubusercontent.com/u/20689385?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="wolfSSL" width="26px" src="https://avatars.githubusercontent.com/u/5891092?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="OpenSSL" width="26px" src="https://avatars.githubusercontent.com/u/3279138?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="BoringSSL" width="26px" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Google/BoringSSL" width="26px" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="AWS-LC" width="26px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PC Code Package/PQCA/Linux Foundation" width="26px" src="https://avatars.githubusercontent.com/u/158063050?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="libjade/formosa-crypto" width="26px" src="https://avatars.githubusercontent.com/u/97531098?s=200&v=4" style="padding-right:10px;" />
@@ -610,8 +610,8 @@
 <img align="left" alt="Bouncy Castle" width="26px" src="https://avatars.githubusercontent.com/u/4566970?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="CIRCL" width="26px" src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="MbedTLS" width="26px" src="https://avatars.githubusercontent.com/u/97226525?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="" width="26px" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Google Tink" width="26px" src="https://avatars.githubusercontent.com/u/68359901?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="PQC Suite B/Project 11" width="26px" src="https://avatars.githubusercontent.com/u/236530300?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PQShield" width="26px" src="https://avatars.githubusercontent.com/u/42099523?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="PQSecure" width="26px" src="https://pbs.twimg.com/profile_images/952616581737189376/TxhgRm3J_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="SafeLogic" width="26px" src="https://pbs.twimg.com/profile_images/1445484788815597572/q4iAvLg9_400x400.jpg" style="padding-right:10px;" />
