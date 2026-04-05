@@ -1,5 +1,3 @@
-
-
 <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="left" style="padding: 45px;">
@@ -7,29 +5,24 @@
         <h3 style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Founder & Software Engineer</h3>
         <br>
 
-<div>
-
 <img alt="MSc Computer Science (in progress)" src="https://img.shields.io/badge/MSc-Computer%20Science%20(in%20progress)-lightgreen??style=for-the-badge&logo=cpu&logoColor=white" />
 
 <img alt="BSc Information Systems" src="https://img.shields.io/badge/BSc-Information%20Systems-darkblue??style=for-the-badge&logo=shield&logoColor=white" />
 
 <img alt="Business Minor" src="https://img.shields.io/badge/Minor-Business-blue??style=for-the-badge&logo=shield&logoColor=white" />
 
-</div>
-
 <br>
 <br>
 
 <h3 style="font-size: 1.5em; color: #005A9C; margin: 10px 0;">Expertise/Focus</h3>
 
-<div>
 <img align="left" alt="JavaScript" style="padding-right:10px;" src="https://img.shields.io/badge/JavaScript-black??style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 <img align="left" alt="TypeScript" style="padding-right:10px;" src="https://img.shields.io/badge/TypeScript-white??style=for-the-badge&logo=typescript&logoColor=3178C6" />
 
 <img align="left" alt="WASM" style="padding-right:10px;" src="https://img.shields.io/badge/WASM-654FF0??style=for-the-badge&logo=webassembly&logoColor=white" />
 
-<img align="left" alt="Solidity" style="padding-right:10px;" src="https://img.shields.io/badge/Solidity-white??style=for-the-badge&logo=solidity&logoColor=263238" />
+<img align="left" alt="Solidity" style="padding-right:10px;" src="https://img.shields.io/badge/Solidity-2B247C??style=for-the-badge&logo=solidity&logoColor=a9a7c4" />
 
 <img align="left" alt="Rust" style="padding-right:10px;" src="https://img.shields.io/badge/Rust-000000??style=for-the-badge&logo=rust&logoColor=white" /> 
 
@@ -585,12 +578,21 @@
                                                                                                                   
 ### Proof Assistants:
 
-
+<img align="left" alt="Lean" width="26px" src="https://pbs.twimg.com/profile_images/1942426928256012288/RoZg5VMG_400x400.png" style="padding-right:10px;" />
+<img align="left" alt="ACL2" width="26px" src="https://avatars.githubusercontent.com/u/5464462?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Agda" width="26px" src="https://raw.githubusercontent.com/agda/agda/master/doc/user-manual/agda.svg" style="padding-right:10px;" />
+<img align="left" alt="F*" width="26px" src="https://avatars.githubusercontent.com/u/7689927?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="HOL" width="26px" src="https://avatars.githubusercontent.com/u/8379840?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Isabelle" width="26px" src="https://avatars.githubusercontent.com/u/7689927?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Mizar" width="26px" src="https://avatars.githubusercontent.com/u/125394490?v=4" style="padding-right:10px;" />
+<img align="left" alt="Rocq" width="26px" src="https://avatars.githubusercontent.com/u/621198?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Metamath" width="26px" src="https://avatars.githubusercontent.com/u/5435286?s=200&v=4" style="padding-right:10px;" />
 
 <br>
 <br>
                                                                                                                        
 ### QC Libraries/Tools:
+
 
 
 <br>
