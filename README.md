@@ -580,7 +580,7 @@
 
 <img align="left" alt="Lean" width="26px" src="https://pbs.twimg.com/profile_images/1942426928256012288/RoZg5VMG_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="ACL2" width="26px" src="https://avatars.githubusercontent.com/u/5464462?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Agda" width="26px" src="https://raw.githubusercontent.com/agda/agda/master/doc/user-manual/agda.svg" style="padding-right:10px;" />
+<img align="left" alt="Agda" width="26px" src="https://avatars.githubusercontent.com/u/410000?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="F*" width="26px" src="https://avatars.githubusercontent.com/u/7689927?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="HOL" width="26px" src="https://avatars.githubusercontent.com/u/8379840?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Isabelle" width="26px" src="https://avatars.githubusercontent.com/u/7689927?s=200&v=4" style="padding-right:10px;" />
