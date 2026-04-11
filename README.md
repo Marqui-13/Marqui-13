@@ -588,6 +588,8 @@
 
 <br>
 <br>
+<br>
+<br>
                                                                                                 
 ### PQC Libraries/Implementations:
 
@@ -616,6 +618,8 @@
 
 <br>
 <br>
+<br>
+<br>
                                                                                   
 ### QC Languages:
 
@@ -625,6 +629,8 @@
 <img align="left" alt="Quil" width="26px" src="https://avatars.githubusercontent.com/u/63431513?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           
 
+<br>
+<br>
 <br>
 <br>
                                                                                                                        
@@ -643,6 +649,8 @@
 
 <br>
 <br>
+<br>
+<br>
     
 ### AI for Quantum/Quantum-Enhanced AI:
 
@@ -651,12 +659,14 @@
 <img align="left" alt="QC Ware" width="26px" src="https://avatars.githubusercontent.com/u/9846728?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Multiverse" width="26px" src="https://pbs.twimg.com/profile_images/1820842718207123456/U3ja6T2__400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Google QuantumAI" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                            
-<img align="left" alt="SandboxAQ" width="26px" src="" style="padding-right:10px;" />                                                                                                            
+<img align="left" alt="SandboxAQ" width="26px" src="https://avatars.githubusercontent.com/u/96544495?s=200&v=4" style="padding-right:10px;" />                                                                                                            
 <img align="left" alt="Kuano" width="26px" src="https://pbs.twimg.com/profile_images/1348984874846351361/ykxndtli_400x400.jpg" style="padding-right:10px;" />                                                                                                            
 <img align="left" alt="QpiAI" width="26px" src="https://pbs.twimg.com/profile_images/1367336101501800450/wuH8J78l_400x400.png" style="padding-right:10px;" />                                                                                                            
 <img align="left" alt="Menten" width="26px" src="https://pbs.twimg.com/profile_images/2000639094167052296/4RXkLitu_400x400.jpg" style="padding-right:10px;" />                                                                                                            
 <img align="left" alt="SECQAI" width="26px" src="https://pbs.twimg.com/profile_images/1748009963115417600/pWxP3aBH_400x400.jpg" style="padding-right:10px;" />                                                                                                           
 
+<br>
+<br>
 <br>
 <br>
                                                                                                                        
@@ -668,6 +678,8 @@
 <img align="left" alt="Amazon Braket" width="26px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/amazon-braket.png" style="padding-right:10px;" />
 
 
+<br>
+<br>
 <br>
 <br>
                                                                                                                        
