@@ -456,7 +456,6 @@
 ### Quantum Resistant L2:
 
 <img align="left" alt="Fhenix" width="26px" src="https://avatars.githubusercontent.com/u/137282759?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Polygon Miden" width="26px" src="https://avatars.githubusercontent.com/u/114251928?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="StarkNet" width="26px" src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" style="padding-right:10px;" />
 <img align="left" alt="StarkEx" width="26px" src="https://starkware.co/wp-content/uploads/2021/06/Group-15-Copy-4.png" style="padding-right:10px;" />
 <img align="left" alt="ImmutableX" width="26px" src="https://assets.coingecko.com/coins/images/17233/small/immutableX-symbol-BLK-RGB.png?1665110648" style="padding-right:10px;" />
@@ -583,17 +582,9 @@
 <img align="left" alt="Agda" width="26px" src="https://avatars.githubusercontent.com/u/410000?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="F*" width="26px" src="https://avatars.githubusercontent.com/u/7689927?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="HOL" width="26px" src="https://avatars.githubusercontent.com/u/8379840?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Isabelle" width="26px" src="https://avatars.githubusercontent.com/u/7689927?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Mizar" width="26px" src="https://avatars.githubusercontent.com/u/125394490?v=4" style="padding-right:10px;" />
 <img align="left" alt="Rocq" width="26px" src="https://avatars.githubusercontent.com/u/621198?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Metamath" width="26px" src="https://avatars.githubusercontent.com/u/5435286?s=200&v=4" style="padding-right:10px;" />
-
-<br>
-<br>
-                                                                                                                       
-### QC Libraries/Tools:
-
-
 
 <br>
 <br>
@@ -628,6 +619,7 @@
                                                                                   
 ### QC Languages:
 
+<img align="left" style="padding-right:10px;" alt="Q#" src="https://img.shields.io/badge/Qsharp-black" />
 <img align="left" alt="Qrisp" width="26px" src="https://avatars.githubusercontent.com/u/147840338?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
 <img align="left" alt="Quil" width="26px" src="https://avatars.githubusercontent.com/u/63431513?s=200&v=4" style="padding-right:10px;" />
@@ -651,8 +643,24 @@
 
 <br>
 <br>
+    
+### AI for Quantum/Quantum-Enhanced AI:
+
+<img align="left" alt="Q-CTRL" width="26px" src="https://avatars.githubusercontent.com/u/34557423?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Zapata" width="26px" src="https://avatars.githubusercontent.com/u/37746356?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="QC Ware" width="26px" src="https://avatars.githubusercontent.com/u/9846728?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Multiverse" width="26px" src="https://pbs.twimg.com/profile_images/1820842718207123456/U3ja6T2__400x400.jpg" style="padding-right:10px;" />
+<img align="left" alt="Google QuantumAI" width="26px" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" style="padding-right:10px;" />                                                                                                            
+<img align="left" alt="SandboxAQ" width="26px" src="" style="padding-right:10px;" />                                                                                                            
+<img align="left" alt="Kuano" width="26px" src="https://pbs.twimg.com/profile_images/1348984874846351361/ykxndtli_400x400.jpg" style="padding-right:10px;" />                                                                                                            
+<img align="left" alt="QpiAI" width="26px" src="https://pbs.twimg.com/profile_images/1367336101501800450/wuH8J78l_400x400.png" style="padding-right:10px;" />                                                                                                            
+<img align="left" alt="Menten" width="26px" src="https://pbs.twimg.com/profile_images/2000639094167052296/4RXkLitu_400x400.jpg" style="padding-right:10px;" />                                                                                                            
+<img align="left" alt="SECQAI" width="26px" src="https://pbs.twimg.com/profile_images/1748009963115417600/pWxP3aBH_400x400.jpg" style="padding-right:10px;" />                                                                                                           
+
+<br>
+<br>
                                                                                                                        
-### Quantum Computing Frameworks:
+### QC Frameworks/Libraries:
 
 <img align="left" alt="PennyLane" width="26px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Qiskit" width="26px" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" style="padding-right:10px;" />  
