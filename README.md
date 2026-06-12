@@ -625,7 +625,7 @@
 
 <img align="left" style="padding-right:10px;" alt="Q#" src="https://img.shields.io/badge/Qsharp-black" />
 <img align="left" alt="Qrisp" width="26px" src="https://avatars.githubusercontent.com/u/147840338?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Q#" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
+<img align="left" alt="Q" width="26px" src="https://imgs.search.brave.com/UYTTFKz4GVvBYlQ-EjZH8djN4SNTgxbizp2BqxpoWQ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZHJvZGQuY29tL2lt/YWdlczE0L3E4LnBu/Zw" style="padding-right:10px;" />
 <img align="left" alt="Quil" width="26px" src="https://avatars.githubusercontent.com/u/63431513?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="QJS" width="26px" src="https://quantumjavascript.app/assets/Q-mark.png" style="padding-right:10px;" />                                           
 
@@ -637,7 +637,6 @@
 
 ### QC APIs/SDKs:
 
-<img align="left" alt="H33API" width="26px" src="https://avatars.githubusercontent.com/u/101357751?v=4" style="padding-right:10px;" />
 <img align="left" alt="Open Quantum" width="26px" src="https://pbs.twimg.com/profile_images/1961091999395938304/Vnv1iUUV_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="INTEL" width="26px" src="https://pbs.twimg.com/profile_images/1301199561713541120/7dPeX1gK_400x400.png" style="padding-right: 10px;" />
 <img align="left" alt="Rigetti" width="26px" src="https://avatars.githubusercontent.com/u/16469771?s=200&v=4" style="padding-right:10px;" />
